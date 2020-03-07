@@ -719,6 +719,8 @@ Be transparent. Share status updates and new requirements when they come up. The
 
 # The Roadmap & PRD
 
+## The Roadmap
+
 Watch [The Roadmap and PRD](https://youtu.be/AJ3lA6LCK00).
 
 A product roadmap is the plan that the team will be executing against. 
@@ -745,12 +747,11 @@ Make sure to get buy in by sharing the roadmap with the team and leadership. The
 
 ### Say No
 
-Typically, there are an infinate number of improvements and features that could be added to your product. Lots of people will ask you to build lots of things -- but time is limited, so roadmaps help identify when a project needs to be turned down to focus on the projects with higher impact and need.
+Typically, there are an infinite number of improvements and features that could be added to your product. Lots of people will ask you to build lots of things -- but time is limited, so roadmaps help identify when a project needs to be turned down to focus on the projects with higher impact and need.
 
 <br>
 
-> "Innovation is not about saying yes to everything. It's about saying NO to all but the most crucial features." 
-> - Steve Jobs
+> "Innovation is not about saying yes to everything. It's about saying NO to all but the most crucial features." - Steve Jobs
 
 <br>
 
@@ -781,31 +782,45 @@ The backend team has consistent projects through the year, while Android and iOS
 <br>
 <br>
 
+## The PRD
 
 Watch [The PRD - Product Requirements Document](https://youtu.be/b2HO2dRN2zc).
 
-The PRD is the source of truth that answers the question WHAT is the team building and WHY, which is incredibly helpful to drive alignment across the team. 
+The PRD is the source of truth that clearly answers the question WHAT is the team building, WHO it's being built for and WHY, which is incredibly helpful to drive alignment across the team. 
 
-A PRD is never done and will continue to evolve as the team is working on the problem. It’s the PM’s job to write the PRD and keep it up to date as decisions are made and new information becomes available.
+The best PRDs not only outline what, who and why, but also what the right trade-offs to make will be.
 
-PRDs always need to have these components:
+A PRD is a living document: it's never done and will continue to evolve as the team is working on the problem. It’s the PM’s job to write the PRD and keep it up to date as decisions are made and new information becomes available.
+
+<br>
+
+PRDs prevent teams from struggling to collaborate and stay in-sync. They are _crucial_ to success product development. 
+
+If the PRD is unclear, teams might move in different directions because they aren't sharing the same goal.
+
+PRDs can range from one page to extremely thorough, depending on the size of the problem being tackled. But every collaborative project should have one.
+
+<br>
+<br>
+
+Many companies have their own framework for PRDs that you can use, but in general, PRDs always need to have these components:
 
 - `frame the problem`: and answer the question "WHY are we solving this?"
 
-- `outline the goals`: user goals, business goals, and success metrics. This section also helps to explain WHY the problem should be solved.
+- `outline the goals`: user goals, business goals, and success metrics. This section also helps to explain WHY the problem should be solved and WHO it's being solved for.
 
-- `describe the requirements`: WHAT does the product do? Remember, as a PM you are answering WHAT the product does. Design and engineering have to figure out HOW.
+- `describe the requirements`: WHAT does the product do? Remember, as a PM you are answering WHAT the product does. Design and engineering have to figure out HOW. (PRDs don't detail out exactly how the product should work technically)
 
 <br>
 
 Additionally, other components can include:
 
-- assumptions
-- options considered
-- UI mocks (it can be super helpful to work with design and include these in the PRD because it is often easier to communicate some ideas visually instead of through text)
-- out of scope
-- risks & mitigations
-- support plan
+- `assumptions`: things you thought would be true but aren't
+- `options considered`: and why they didn't make sense. This helps people less familiar with the product understand the project
+- `UI mocks`: it can be super helpful to work with design and include these in the PRD because it is often easier to communicate some ideas visually instead of through text
+- `out of scope`: things you are explicitly deciding not to solve for and why
+- `risks & mitigations`: things that could go wrong and how to prevent/minimize the potential they will happen
+- `support plan`: what are the top issues users might run into and how will we help them?
 
 <br>
 
