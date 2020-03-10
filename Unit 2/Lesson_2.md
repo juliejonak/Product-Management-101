@@ -719,13 +719,68 @@ Be transparent. Share status updates and new requirements when they come up. The
 
 # The Roadmap & PRD
 
-Watch [The Roadmap and PRD]().
+Watch [The Roadmap and PRD](https://youtu.be/AJ3lA6LCK00).
 
-A product roadmap is the plan that the team will be executing against. Product roadmaps provide a high level overview of the direction of the product over time. It calls out work that is required to meet business objectives and roughly when that work needs to happen.
+A product roadmap is the plan that the team will be executing against. 
 
-Roadmaps are a powerful artifact because they set expectations across the team in terms of the team’s priorities. They also are a powerful mechanism for driving alignment across various stakeholders and making tradeoffs between new requests and planned work.
+Product roadmaps provide a high level overview of the product strategy over time. It details work that is required to meet business objectives and roughly when that work needs to happen.
+
+Roadmaps are a powerful artifact because they set expectations across the team in terms of the team’s priorities. 
+
+They also are a powerful mechanism for driving discussions about alignment across various stakeholders and making tradeoffs between new requests and planned work.
 
 <br>
+
+### Storytelling
+
+Roadmaps work best when they tell a cohesive story about what the team is going to build. Create themes and goals, linking each specific project back to those themes & goals, along with estimated impact.
+
+<br>
+
+### Get Buy In
+
+Make sure to get buy in by sharing the roadmap with the team and leadership. They facilitate conversations that ask if we're building the right things at the right time. They clarify when one project may need to be de-prioritized to accomodate another (more urgent) request. Outlining this trade-off makes sure that teams are aligned.
+
+<br>
+
+### Say No
+
+Typically, there are an infinate number of improvements and features that could be added to your product. Lots of people will ask you to build lots of things -- but time is limited, so roadmaps help identify when a project needs to be turned down to focus on the projects with higher impact and need.
+
+<br>
+
+> "Innovation is not about saying yes to everything. It's about saying NO to all but the most crucial features." 
+> - Steve Jobs
+
+<br>
+
+### Attach Goals
+
+Attaching goals to each item on the product roadmap helps teams understand the impact of each project and answer the question of "Why does this matter?" 
+
+<br>
+
+![A sample roadmap](./Sample_Roadmap.png)
+
+This sample roadmap uses rows to identify the themes and goals. The columns represent time (in this example, quarters, but it could be more or less granular).
+
+Each feature and project that team will be working on is mapped across the chart to see what the expected outcomes are, when each team will focus on which goals, and the anticipated timeline.
+
+Each item on the roadmap should have its own PRD that will outline the specific timelines and requirements.
+
+<br>
+
+![Team focused roadmap](./Sample_Roadmap.png)
+
+A roadmap could also be structured by team to identify who should be working on what, or when a team is being overloaded (or has extra bandwidth).
+
+This quick look shows that `Feature B` will be worked on by all teams at the same time, requiring dedicated coordination.
+
+The backend team has consistent projects through the year, while Android and iOS are lacking projects in several quarters. This view allows PMs to quickly identify where additional work can be added (or removed).
+
+<br>
+<br>
+
 
 Watch [The PRD - Product Requirements Document](https://youtu.be/b2HO2dRN2zc).
 
