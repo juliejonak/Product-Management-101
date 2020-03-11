@@ -719,6 +719,106 @@ Be transparent. Share status updates and new requirements when they come up. The
 
 # The Roadmap & PRD
 
+Watch [The Roadmap and PRD]().
+
+A product roadmap is the plan that the team will be executing against. Product roadmaps provide a high level overview of the direction of the product over time. It calls out work that is required to meet business objectives and roughly when that work needs to happen.
+
+Roadmaps are a powerful artifact because they set expectations across the team in terms of the team’s priorities. They also are a powerful mechanism for driving alignment across various stakeholders and making tradeoffs between new requests and planned work.
+
+<br>
+
+Watch [The PRD - Product Requirements Document](https://youtu.be/b2HO2dRN2zc).
+
+The PRD is the source of truth that answers the question WHAT is the team building and WHY, which is incredibly helpful to drive alignment across the team. 
+
+A PRD is never done and will continue to evolve as the team is working on the problem. It’s the PM’s job to write the PRD and keep it up to date as decisions are made and new information becomes available.
+
+PRDs always need to have these components:
+
+- `frame the problem`: and answer the question "WHY are we solving this?"
+
+- `outline the goals`: user goals, business goals, and success metrics. This section also helps to explain WHY the problem should be solved.
+
+- `describe the requirements`: WHAT does the product do? Remember, as a PM you are answering WHAT the product does. Design and engineering have to figure out HOW.
+
+<br>
+
+Additionally, other components can include:
+
+- assumptions
+- options considered
+- UI mocks (it can be super helpful to work with design and include these in the PRD because it is often easier to communicate some ideas visually instead of through text)
+- out of scope
+- risks & mitigations
+- support plan
+
+<br>
+
+Product Managers spend a lot of their time answering the question WHAT should the product do and aligning internal teams to execute against their vision. There are two tools that PMs use to communicate WHAT the product should do:
+
+### Product Roadmap
+
+- High level overview of the direction of the product over time (ie: multiple features)
+- Rough timelines when work needs to happen
+- Set expectations across the team around prioritization.
+- Drive alignment across various stakeholders and help make tradeoffs between new requests and planned work.
+
+<br>
+
+### PRDs
+
+- More detail about a specific feature
+- Frame the problem and answer the question WHY are we solving it.
+- Outline the goals (both user goals, business goals, and success metrics). This section also helps to explain WHY the problem should be solved.
+- Describe the requirements and answers WHAT does the product do? Remember, as a PM you are answering WHAT the product does. - Design and engineering have to figure out HOW.
+
+<br>
+
+Both Roadmaps and PRDs should evolve over time as the team is iterating through problems and gets new information.
+
+<br>
+<br>
+
+## The PRD Outline
+
+### Background
+
+Frame the problem: provide any relevant background information about the industry or the problem.
+
+### Problem
+
+Describe the opportunity. What are the benefits to the user? What are the key insights? What does the competition do? Why does this matter?
+
+### Goals
+
+What does success look like?
+
+### Success Metrics
+
+How do you measure success?
+
+
+### Key Features and Scope
+
+What are you building? What are you explicitly _not_ building? What does the team you hand this off to need to know to succeed?
+
+### Core UX Flow
+
+Links to mockups.
+
+<br>
+<br>
+
+### Further Research
+
+[Product Roadmap: Nine Strategies for Creating One](https://www.thisisproductmanagement.com/blog/product-roadmap/)
+
+[How to Create a Product Roadmap](https://venngage.com/blog/product-roadmap/)
+
+[Product Requirements Documents, Downsized](https://www.atlassian.com/agile/product-management/requirements)
+
+[How to Write a Painless PRD](https://medium.com/@uxpin/how-to-write-a-painless-product-requirements-document-508ff6807b4a)
+
 
 <br>
 <br>
