@@ -665,18 +665,46 @@ And make sure to ask lots of questions!
 
 Watch [Identifying Requirements](https://youtu.be/qYA9R-6Re_4).
 
-Once a requirement has been identified, it gets documented in a PRD (Product Requirements Document). Keep in mind that identifying requirements is a much more active involved process than just “gathering.” It’s important that PMs understand the problem and why a specific requirement exists. Identifying Requirements can happen through a variety of channels:
+Once a requirement has been identified, it gets documented in a PRD (Product Requirements Document). Keep in mind that identifying requirements is a much more active involved process than just “gathering.” 
 
-- Research
-- Prototyping
-- Input from users / customers
-- Input for cross functional partners
+It’s important that PMs understand the context of the problem and why a specific requirement exists. 
 
-And two common challenges that come up when identifying requirements are:
+Identifying Requirements can happen through a variety of channels:
 
-1. Never sure that all requirements have been identified
+- `Research`: online to understand the space, reading what other teams have already collected, exhaustive market research
+- `User Interviews`: hear first-hand from the users about the challenges they're facing
+- `Stakeholder Interviews`: gain a better understanding of the business & legal requirements from within the company
+- `Prototyping`: by building a prototype, you may realize what sections or interactions are missing that hadn't yet been considered
 
-2. Users might not be able to tell you what the product should do (ie: the requirement). Insead it’s better to focus on understanding the problem the user is facing and their needs. Ask why. Then ask why again. And keep asking why until you get to a deeper understanding.
+<br>
+
+A great starter question is, "What do you think it should do?"
+
+When talking to people, realize that they might not always know how to put words to what they need. Or, even if they identify an issue, they might not realize that isn't the root issue or requirement that would solve their larger challenges.
+
+The PM needs to push deeper, to find the needs that are not apparent. Push deeper to find the needs that are not apparent. 
+
+<br>
+
+For example, when researching for a budgeting app, customers indicate that they wish there was a feature that allowed them to categorize each transaction.
+
+If we built that feature right away, it would address that user need directly ... but by asking more questions, we might learn that the deeper need for users is to understand _where money is coming from and how it is being spent_.
+
+Instead of just adding a field to input categories, the more optimal user experience would be to build automatic-categorization so the user doesn't need to do anything to gain the information they want.
+
+<br>
+
+Document everything!
+
+PMs write down the requirements they've found, but also the steps they took to arrive at those decisions. Detailed notes that you can refer back to later on help you _and your team_.
+
+<br>
+
+You can never be sure that all requirements have been identified. They'll continue to grow or change over time.
+
+To solve this, ensure that the PRD is _always_ up to date. Every time requirements change, document it. This allows the PRD to be the "source of truth" across teams. 
+
+Be transparent. Share status updates and new requirements when they come up. The team should always be on the same page and increases alignment behind what everyone is doing. This prevents surprises from arising.
 
 <br>
 
