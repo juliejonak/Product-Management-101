@@ -574,6 +574,89 @@ Create a one page onboarding plan for starting as a PM at a new company. Make su
 
 # Solution: New PM
 
+Watch the solution video [here](https://youtu.be/7XbxaPoFUO4).
+
+When you join a new team or company, it can take awhile to ramp up. To get started on a good path, here are the things that I would try to do during my first few weeks on a new team:
+
+### Company
+
+- What the company does, its mission, its products (and why)
+- How the company makes money
+- Are there key partnerships?
+- Short term goals and objectives (3-12 months)
+- Long term goals and objectives
+- Current projects in flight
+
+<br>
+
+### People
+
+To identify the team's goals and their expectations of me:
+- My manager
+- My manager’s manager
+
+What other people are working on:
+- Other PMs
+
+Get connected to past research that's been done and the design vision for the product:
+- Design partner
+- Research partner
+
+Better understand the engineering processes in development and any areas where we have technical debt:
+- Eng partner
+- TPM partner
+
+And other teams I'll work with:
+- QA partner
+- Data Science
+- Marketing
+- PR
+- Sales
+- Support
+- Legal & Privacy
+- Policy
+- Ops
+
+<br>
+
+### Product Experience
+- Check out the product’s website
+- How is the product marketed, positioned? Is it easy to understand what it does? How would I get the product?
+
+- Review the app store listing
+- What category does the app fall into? What is its ranking and rating? What do reviews say? Do posted screenshots show the most important aspects of the product?
+
+- Use the product, lots
+- Go through every possible flow and screen
+
+During this process:
+- Journal of my experience using it
+- Questions that I have about why it is the way it is
+- List of issues that I encountered while using the product
+
+- Get help for the product
+- Review the support site to see if answers I needed are there
+- Reach out to customer support for help with an issue
+- Were agents quick and helpful? What was their tone?
+
+- Use competitor products to understand how other companies in the space are solving this problem
+- Compare similarities and differences
+
+<br>
+
+### Process
+- Learn the process for how to get things done
+- How does planning, launch and roll-out work?
+- What needs to be reviewed? By whom?
+- What requires approval? By whom?
+- Get access to all the dashboards and tools needed
+- Shadow support team and listen to customer calls to hear first hand experiences and how they're being solved
+
+<br>
+
+There will be lots to learn! But even while you are ramping up, you can still provide value to the team by providing a fresh perspective on your experience using the product and the issues you ran into. 
+
+And make sure to ask lots of questions!
 
 <br>
 <br>
