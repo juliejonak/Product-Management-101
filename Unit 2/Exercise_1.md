@@ -24,4 +24,9 @@ I'll focus on integrating all the information compiled through research and disc
 
 Specifically, I'd like to then take it to the QA team, for their thoughts on common bugs and less considered problem spots; the Data Science team for data driven trends that would impact this product; Marketing, for potentially difficult aspects to explain to users; and Legal & Privacy, for input on the latest relevant policies that need to be taken into consideration.
 
+I would also like to meet with shareholders or C-suite decision makers on their expectations of the new product, both from an impact and revenue standpoint, to ensure the development aligns with their long-term vision.
+
+At the end of the first month, I'd like to ask the managers of teams I'll work closely with about any feedback they have for being better integrated within their workflow and how they prefer to communicate.
+
 <br>
+
