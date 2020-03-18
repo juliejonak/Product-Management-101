@@ -560,7 +560,14 @@ PMs work with pretty much everyone on the team. Here are some of the most common
 
 # Exercise: New PM
 
+Imagine that you have just started a job at a new company as a PM. How would you want to structure your first weeks on the job?
 
+Create a one page onboarding plan for starting as a PM at a new company. Make sure to address the following:
+
+- [] `Company`: what do you want to learn about the company?
+- [] `People`: who do you want to meet?
+- [] `Product`: how do you want to learn about the current state of your product?
+- [] `Other`: anything else worth mentioning?
 
 <br>
 <br>
