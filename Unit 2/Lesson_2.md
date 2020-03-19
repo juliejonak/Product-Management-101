@@ -415,6 +415,145 @@ PMs need to be able to juggle multiple tasks and quickly switch focus when prior
 
 # Who PMs Work With
 
+![PMs Work With Everyone!](./PMS_work_with_everyone.png)
+
+Watch [Who Do PMs Work With?](https://youtu.be/txwi8hz4z6c)
+
+PMs work with everyone throughout the product development cycle. Nobody else on the team has this level of end-to-end visibility on the product, so they have to act as the central hub that connects the dots with all the teams involved.
+
+Not all companies have the teams we'll discuss -- and some have even more we won't touch on.
+
+<br>
+
+### User Research
+
+User researchers help discover key user insights and behaviors so the PM can answer important questions about their assumptions, business model and product.
+
+They perform usability tests with users to ensure the product is understood, solving a real need, and can be used without issue.
+
+PMs will need to align on research priorities and questions that need answering with the research team, who will share their findings. Together, you'll participate in research together as well.
+
+<br>
+
+### Designers
+
+Designers figure out what the product should look like, create delightful interactions, and ensure we're solving the right problems for users.
+
+PMs will align on problem defintion and scope, reviewing PRDs and Mockups together, and compromising on an ideal design solution that considers technical limitations and timeline pressure.
+
+<br>
+
+### Engineering
+
+Engineers solve challenging technical problems while building the product and ensuring it's always running. 
+
+PMs and engineers review requirements, PRDs and mockups together, discuss feasability and timelines, and create a plan for tackling technical debt that's built up over time.
+
+<br>
+
+### Technical Program Managers & Program Managers
+
+They handle project management by making sure everyone is product, keep status reports on the team, keep the team on schedule, and flag any risks that arise or slips in schedule.
+
+PMs and TPMs work together on prioritization exercises, discussing timeline statuses, and reviewing the product roadmap.
+
+<br>
+
+### What is the difference between PM, PgM and TPM?
+
+`Product management` (PM) focuses on the user, product and market. PMs determine what needs to be solved, how, and create a roadmap for that process.
+
+`Program management` (PgM) focuses on the team, organization and how to get things done by increasing efficiency and reducing risk with repeatable processes. They execute the roadmap that PMs design.
+
+`Technical program management` (TPM) is similar to the PgM but more involved in the technical details of software development. They are more involved with the engineering team and were previously software engineers.
+
+Smaller teams may need you to act as both the product and program manager.
+
+<br>
+<br>
+
+Watch [Other Teams PMs Partner With](https://youtu.be/HLSLD4OL0U0)
+
+### QA
+
+This is one of the hardest working teams that focuses on the product working correctly under a variety of scenarios. They locate and document bugs with detailed reports on how to reproduce that issue.
+
+They also increase the testing capabilites so they can maintain a high quality bar as the number of features on the product increase.
+
+PMS and the QA team work together to review the PRD so they understand how the product should work, review the test plan and expected behaviors so they can identify the most important scenarios to test, and flag and prioritize bugs.
+
+<br>
+
+### Data Science
+
+Data Scientist understand all of the data and numbers to provide key insights, design and roll-out experiments that focus on user behavior, help optimize product, and help quantify the impact of a product.
+
+PMs and data science work together to align on data science priorities, review the PRD, and review results from experiments to ensure the right conclusions are being made.
+
+<br>
+
+### Marketing & PR
+
+They explain what the product is, what it does and why it matters. They manage the web and social presence of the product, plus lead user acquisition campagins to get new users. PR will organize press events and ensure that the right story lands in the public eye.
+
+PMs work with Marketing and PR to align on Marketing priorities, discuss product positioning, review launch announcements and presentations, going through pre-briefing for interviews, and handling press review issues.
+
+<br>
+
+### Sales
+
+Sales is focused on selling the product to bring in revnue. They also build deep relationships with the customers and have great insights into customer sentiment and needs.
+
+PMs work with Sales on reviewing the roadmap for upcoming features, discussing feedback from customers on product shortcomings, challenges & unexpected use cases, and discussing features that would drive sales.
+
+<br>
+
+### Support
+
+The support team helps customers when they run into a problem and are frustrated. They fix bad moments and turn them into (hopefully) positive outcomes that build brand loyalty. They track the top issues user encounter to help understand what customers need. They improve the support experience with processes and tooling enhancement.
+
+PMs work with support teams to review PRDs and roadmap to the support team can build the right training and documentation in advance, discuss top customer issues and supportability (is it possible for them to support this new product with their existing tools?).
+
+<br>
+
+### Legal & Privacy
+
+This team reduces risk and helps avoid the company from being sued by complying with the law and privacy regulations, while innovating. They also make sure that user data is being collected, stored and used in a responsible way, by being deleted when it's no longer needed. 
+
+PMs work with the Legal team by reviewing roadmaps, PRDs, flows and messaging to identify any legal requirements. They also discuss data collection & storage and new legal and privacy requirements.
+
+<br>
+
+### i18n
+
+The internationalization team helps bring the product to new markets around the globe. They do this by translating the product into other languages or adjusting the implementation to match a region's needs.
+
+PMs will work with the internationalization team to review expansion plans, set priorities, and review bugs that pop up during regional launches.
+
+<br>
+<br>
+
+
+### Summary
+
+PMs work with pretty much everyone on the team. Here are some of the most common functions that PMs work with:
+
+| Team | Role |
+| ---- | ---- |
+| Design | design what the product looks like |
+| Research | provide market, user, and product insights |
+| Engineering | build and maintain the product |
+| TPM / PgM	| keep the team on schedule |
+| QA | make sure the product works |
+| Data Science | product insights from data and experimentation |
+| Marketing | explain the product to users |
+| PR | explain the product to the media |
+| Sales | sell the product |
+| Support | help users use the product |
+| Legal & Privacy | reduce the product’s risk |
+| Policy | create rules for how the product can be used |
+| Ops | help deliver the product to users |
+| i18n | get the product to additional countries and languages |
 
 <br>
 <br>
