@@ -242,7 +242,7 @@ PMs can also specialize in different types of product, such as:
 
 - `Software`: apps, websites, digital experiences.
     PM's care about the experience and roll-out cycles/processes, like App Store reviews. Iteration can be quick and often, allowing for an imperfect release.
-    
+
 
 <br>
 <br>
@@ -260,6 +260,155 @@ PMs can also specialize in different types of product, such as:
 
 # What a PM Does
 
+Watch [The Core Role of a PM](https://youtu.be/IMSg25-JC1w).
+
+Product Managers do a lot of things, which vary depending on the part of the product development cycle they're on.
+
+### Finding the problem (Understand, Identify, Define)
+
+This is part of the core PM and is one of the most important things that a PM does. PMs spend a lot of time defining the problem for the team to solve.
+
+Essential to this is building a deep understanding of the user, their needs and the product space. They do this through market, competitive and user research, plus leveraging existing product insights and data. They create hypotheses with this data and test them.
+
+<br>
+
+### Creating strategy
+Once armed with an understanding of the problem space and opportunity, PMs can build strategies for how to solve the problem through the creation of their product.
+
+These include high level overviews of the product and features (what it does), how it relates to the goals & KPIs of the company.
+
+<br>
+
+### Planning
+
+It's time to start planning how to tackle the remaining work, by working with design & engineering to build the product. Program Managers help direct this conversation.
+
+Larger projects are split into smaller milestones (with its own tasks and an end result that could be launched as a standalone).
+
+<br>
+
+### Core Team
+
+It's also helpful to identify the key points of contact across engineering and design that will be working with you as the PM. This is typically a mixture of design, iOS, Android and Web engineers.
+
+<br>
+
+### The Design Phase
+
+UX Design will build out mockups which PMs will review and provide context for. While you can guide the process with your product intuition, leave space for acknowledging that designers know more and might be right over your instinct.
+
+Whenever possible, run large changes in the user experience through usability testing to surface large issues before development starts. It's not always possible or sensible for small changes (where A/B testing is better).
+
+<br>
+
+### Implementation
+
+Once the mockups and specs are finalized, they are handed off to the engineering team. 
+
+Always directly ask, `"Do you understand all the requirements? Is anything unclear or does any feature need more clarification?"`
+
+`"What edge cases haven't we thought of yet?"`
+
+Check-in regularly for status updates and roadblocks, to know if the team is on track. Sometimes, removing roadblocks means hunting down information an engineer might be waiting on another team for; changing the requirements if they're unexpectedly engineering costly; or extending the timeline for a more realistic output.
+
+<br>
+
+### Testing
+
+Now the QA team should test and validate that everything works correctly. Review the test plan, to outline different scenarios that should be tested and expected behavior.
+
+The QA team will test the product and identify any issues - but so should you as the PM. Document anything you find and ensure it meets your standards.
+
+Take the list of issues that needs to be addressed and circle back with design & engineering to fix them.
+
+<br>
+
+### Launch
+
+Once everything has been fixed, it's time to launch the product, which looks different based on the type of product.
+
+Small launches might just go out silently. Large launches are usually accompanied by a marketing & PR campaign, like a website update, a blog post, or a press event.
+
+Write and review and material that is written about the product at launch.
+
+Riskier launches will have a phased roll-out over weeks to review data and ensure there is no negative impact on metrics.
+
+<br>
+
+### Review
+
+After a launch, review how things went. Were there changes in key metrics, user sentiment, and how the company thinks the launch went?
+
+What impact did the product launch have, positive or negative?
+
+Take time to celebrate the teams' successes, as well as provide feedback on what was learned or what should be done differently next time. This prevents repeated mistakes.
+
+<br>
+
+Many PMS work on multiple products at a time, so they will be in different phases at any given moment.
+
+<br>
+<br>
+
+### Things PMs Do All the Time
+
+Watch [here](https://youtu.be/IMt3pPwNij8).
+
+While the last section covered phase-specific duties of a PM, there are some things they are responsible for at all times in development.
+
+### Communicating
+
+The best PMs ensure that the entire team is on the same page regarding the product, status, timelines, decisions, risks and blockers. 
+
+This can be accomplished through a variety of different mediums like presentations and conversations.
+
+All PMs write PRDs to frame the problem and document requirements for the solution.
+
+You can test the effectiveness of your communication by asking people on the team "What are we building and why?" 
+
+If you ask 5 people that question and get the same answer back from everyone, you are doing a good job. 
+
+If you ask 5 people and get 6 different answers back, you have more work to do.
+
+<br>
+
+It's also important to establish `in-bound communication`. If people have questions about the product, it's important that they know you're the right person to ask.
+
+PMs need to spend time on understanding the team, org and company priorities, especially at larger companies. This coordinates the strategy and vision of the company overall, and how their product fits in with all the other products that the company is working on.
+
+<br>
+<br>
+
+### Coordinating Development and Launch
+
+PMs are also responsible for coordinating the development and launch of their product across all the various cross functional partners involved (design, engineering, marketing, legal, support, etc). 
+
+This doesn’t mean PMs do all the work; they facilitate conversations and help to remove blockers or things that might be slowing the team down. They also make sure that everything that needs to happen does actually happen.
+
+"When the launch went smoothly...the team did an amazing job. When there was a problem with the launch...the PM screwed it up."
+
+<br>
+<br>
+
+### Keeping the Team Happy
+
+A happier team is a more productive team. PMs need to ensure each team member knows what they're working on and how they can measure their own progress & impact.
+
+<br>
+<br>
+
+### Responding to New Information
+
+Things change all the time. PMs need to stay up to date with the latest information. Whether that’s from new insights from user research, results from an experiment, feedback from the support team, new product launch from a competitor.
+
+A PM fills in anywhere there is something that needs to be done - reviewing a new mockup or code, analyzing experiment results, writing an article for the help support, and more.
+
+<br>
+<br>
+
+### Responding to Fires
+
+PMs need to be able to juggle multiple tasks and quickly switch focus when priorities change, (i.e. there is an outage).
 
 <br>
 <br>
