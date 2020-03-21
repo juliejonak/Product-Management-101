@@ -19,6 +19,8 @@ m. [Lesson Recap](#Lesson-Recap)  <br>
 
 # Introduction
 
+Watch [here](https://youtu.be/yN_AsRhl6D4).
+
 In this lesson, we’ll cover the following topics:
 
 - The Role of a PM
@@ -58,6 +60,200 @@ At the end of this lesson, you’ll be able to:
 
 # The Role of the PM
 
+Watch [here](https://youtu.be/jrOLvPwieBE).
+
+![The PM Venn Diagram](./PM_Venn_Diagram.png)
+
+At its very core, the role of the PM is to make sure that the team is solving the right problems and successfully building products people want. 
+
+<br>
+
+PMs are centered in the middle of Design, Business and Technology.
+
+Within Design, PMs focus on:
+- the User needs
+- the User's motivations
+- being the User's advocate
+
+For Business, PMs focus on:
+- business goals
+- aligning product to meet those goals
+
+On the Technology side, PMs:
+- understand how the product is build
+- the complexity, risk and tradeoffs
+
+A PM might skew more heavily to one dimension or another, but must combine a background in all three to be successful.
+
+<br>
+
+Throughout this process, Product Managers will shepherd their product from an idea all the way through launch and partner with a wide variety of cross functional teams to make the product real. 
+
+However, PMs rarely have any direct authority over the teams they work with. They don't manage anyone building the product, so they have to be able to influence without authority. They work with everybody to define what the product will do and why it should be built.
+
+Building strong relationships with team members to influence them to work towards a shared vision is key. Getting to know each team member better helps keep them excited on a shared focus, while hearing their individual concerns.
+
+<br>
+
+The PM must identify and define problems to ensure it's the right problem to solve at that moment. What is the outcome if the problem is solver? Or not?
+
+Solvings problems can:
+- Make the product more appealing to users
+- Increase sales
+- Reduce user churn
+- Keep the company competitive in the market
+- Increase team efficiency
+- Be required for legal compliance
+
+PMs consider the `impact` of solving the problem with the required `effort` to solve it, to determine the ROI of a potential solution.
+
+<br>
+
+Prioritization also plays an important role in this process, since no company has unlimited resources-- there will always be tradeoffs that need to be made.
+
+PMs have to tune out some problems (at least until a later date). What should the team be working on _right now_?
+
+<br>
+
+While there might be many high priority features, stack ranking can help identify exactly which order (and why) the team should tackle them.
+
+![Prioritization Lists versus Stack Ranking Lists](./Prioritization_v_Stack_Ranking.png)
+
+This chart comparison shows how changing ranking styles still allows a team to maintain prioritization labels (`P0`, `P1`) but also indicate exactly what order matter most _right now_.
+
+The ranking is determined by data.
+
+<br>
+
+PMs are the spokesperson for their product. They should be able to answer almost any question about their product _or_ know where to find the answer.
+
+They keep the involved teams aware of current status, bottlenecks and deadlines. They're also responsible for securing buy-in from cross-functional teams and stakeholders. PMs keep the product development coordinated across various teams, on a single deadline.
+
+PMs don't manager engineers and designers directly, so they must influence those technical teams through explicit and persuasive communication. Keeping teams excited about problem solving ensures they coordinate well together.
+
+<br>
+
+Each day differs and is unpredictable due to unexpected fires or changing specs. 
+
+<br>
+<br>
+
+### The Differences in Product Management
+
+Watch [The Differences in Product Management](https://youtu.be/XVitJwNZRJA)
+
+The role of a PM can vary a lot based on the company and product. The size of a company has a big impact on the scope of a PMs work. 
+
+At smaller companies it's more likely that PMs will have more end to end responsibility and wear more hats. Their role covers a broader focus with less support in place. 
+
+There tends to be fewer processes defined - which means moving faster, but more chaotically. Creating process and stability for the team will have positive impact.
+
+<br>
+
+At larger companies oftentimes there will be larger supporting teams, which allow PMs to maintain a narrow focus and go super deep on that specific area.
+
+There are larger supporting teams to help (in research, marketing and finance) so a PM is focused on coordinating across those teams, rather than executing those roles.
+
+With more processes, development can be slower to ensure that no single product negatively effects other products (whether existing or also being developed).
+
+At these companies, collaborating with other PMs is integral to executing well.
+
+<br>
+
+A company’s philosophy to building products also shapes the role of a PM. 
+
+The most common philosophies are:
+
+`Product Driven` companies focus on solving problems for users. PMs at theses companies will focus on writing requirements to hand-off to engineering, through research and user tests.
+
+It's very customer centric and more likely to be what consumers want, but engineering can feel disconnected from the user and lack empathy for why the product matters. If they don't see the big picture, a PM's laid out requirements might feel arbitrary, so conveying it well matters.
+
+Amazon Prime is an easy, fast and convenient value-add to Amazon's users.
+
+<br>
+
+`Engineering Driven` organizations focus on  solving technical problems. Engineers build things, then hand them off to Product who will bring it to market.
+
+The PMs role is about how to package the technology. This promotes technical innovation and handles when users don't necessarily know what they want or need. It can solve a deeper root issue.
+
+This increases the prossibility that the product won't resonate with the customer because the idea didn't originate from them. 
+
+Google Glass was an amazing technology - but it didn't solve a problem people really had.
+
+<br>
+
+`Product + Eng partnership` hybrid led companies. 
+
+In these, PMs write requirements but Engineering is included in identifying those requirements. 
+
+Engineering is included in market and user research, then builds it based on those requirements, with the PM included in the Engineering Design conversations. This allows both parties to consider the trade-offs of each solution.
+
+<br>
+<br>
+
+### The Types of Users
+
+Watch [The Types of Users](https://youtu.be/KCPI9f5bt-Q)
+
+A PM's role will change depending on the type of user they are designing for.
+
+<br>
+
+`Consumer Facing Products` are focused on solving user problems and providing value to the user.
+
+The focus is usually on simple, clean UX for easy to use products.
+
+Typically, the user purchases the product. The team will iterate and experiment fairly quickly.
+
+<br>
+
+`Enterprise Products` focus on solving business problems (like workflows and process improvements).
+
+PMs have to understand both the business' and end users' needs, not just one or the other.
+
+The bulk of the value is to the company that purchases the product though. Ultimately, the company is the paying customer, even if employees are the ones using it. 
+
+The user and customer are not the same.
+
+In a B2B environment, there are many more problems to identify and manage, plus iterations can take longer to execute as businesses are more change averse than consumers.
+
+<br>
+<br>
+
+### Types of Product
+
+PMs can also specialize in different types of product, such as:
+
+- `Data`: how data can be used to build and power products, potential through Machine Learning.
+    PM's get deep on data and numbers, not just to analyze the data but to also understand how the product can be built on top of extensive data. Self-driving cars, Netflix recommendations, etc.
+
+
+- `Growth`: PMs grow the product through features that drive adoption.
+    This can be directly, like a "Refer a Friend" feature, or indirectly, through features that convince the user to buy the product (upgraded plans). They have a deep understanding of the user funnel, optimization, acquisition and onboarding strategies.
+
+
+- `Hardware`: components, capabilities, cost and supply chain logistics.
+    The build timelines, how the factory line is setup, shipping, certification, and importing all matter. Once a physical product is built, it can't be easily updated. It's very important to get things right the first time.
+
+
+- `Internationalization`: bringing the product to new places 
+    They do so by deeply understanding the difference in markets, understanding user behavior and expectations, and adapting the product to fit a new region. I.e. adapting the UI to support left-to-right reading or adaptive UI based on user location. There can be additional legal requirements that must be met too.
+
+
+- `Software`: apps, websites, digital experiences.
+    PM's care about the experience and roll-out cycles/processes, like App Store reviews. Iteration can be quick and often, allowing for an imperfect release.
+    
+
+<br>
+<br>
+
+### Additional Resources
+
+[What to Expect as a PM from Startup to Scale Up, to Corporates](https://productcoalition.com/what-to-expect-as-a-pm-from-startup-to-scale-up-to-corporates-part-1-of-3-e7478117dd2b)
+
+[What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager)
+
+[Product Managers for the Digital World](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world)
 
 <br>
 <br>
