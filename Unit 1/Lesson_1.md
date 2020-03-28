@@ -126,3 +126,35 @@ While Place, Price and Promotion are in the purview of PMs, they are also shared
 <br>
 <br>
 
+# Overview of Course & Learning Objectives
+
+Watch [here](https://youtu.be/eSyJHY74oWw).
+
+<br>
+
+### Lessons
+1. Role of a Product Manager
+    This focuses on what PMs do, who they work with, and the artifacts they make.
+
+2. Finding the Right Problem
+    How to identify the right opportunities, better understand the market, user & problem, and create & test hypotheses.
+
+3. Vision and Strategy
+    What are vision, strategy, MVPs and different business models
+
+4. Communication Skills
+    Effective communication, how to use storytelling to establish vision, and how to build compelling presentations
+
+<br>
+
+### Learning Objectives
+
+By the end of this course, you should be able to:
+
+1. Describe the role of a PM and a PM’s critical partners
+2. Build roadmaps and write PRDs
+3. Identify and size opportunities
+4. Create a business case for a new product opportunity
+5. Define the use cases of a product, including its KPIs
+6. Build a projected revenue model for your new product
+7. Put together and present a compelling product pitch to gain internal stakeholder buy-in
