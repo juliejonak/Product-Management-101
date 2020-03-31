@@ -26,3 +26,19 @@ Which in turn, allows them to strategically answer important questions:
 PM's are the only role that sees the product developed through the entire process and is the glue that has end-to-end visibility to connect teams that don't normally shares goals and objectives (design, marketing, engineering).
 
 They consistently adapt to new information and tackle unexpected fires/bugs. 
+
+<br>
+
+# Why Product Management is Important
+
+Watch [here](https://youtu.be/U6suk4zjXdI).
+
+Product Management is important because building products is more complicated than ever. At the core, Product Managers focus on making sure that the team is building products that people want. Additionally, Product Management plays an important role in connecting and aligning all the relevant teams needed to build and launch a product.
+
+There’s an infinite number of problems that could be solved. Product Managers identify and define problems for the team to solve while making sure that:
+
+- the problem is real
+- the users are real
+- the solution provides value
+
+<br>
