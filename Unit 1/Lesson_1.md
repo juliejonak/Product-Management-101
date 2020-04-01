@@ -1,5 +1,8 @@
+# Instructor: Alex King
 
+Watch [here](https://youtu.be/E_ro3xwGASs).
 
+<br>
 
 # What is Product Management?
 
@@ -20,3 +23,6 @@ Which in turn, allows them to strategically answer important questions:
 - Why are we solving this problem? / Why are we building this specific solution?
 - When are we building this?
 
+PM's are the only role that sees the product developed through the entire process and is the glue that has end-to-end visibility to connect teams that don't normally shares goals and objectives (design, marketing, engineering).
+
+They consistently adapt to new information and tackle unexpected fires/bugs. 
