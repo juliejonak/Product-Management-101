@@ -84,27 +84,37 @@ Watch [here](https://youtu.be/e2iwNxIo0mQ).
 
 It’s difficult to map out the entire history of how Product Management came into being… But there are some key moments:
 
-`1931` - Neil McElroy and "Brand Men" Neil McElroy wrote a memo called "Brand Men" while at Procter & Gamble. This memo touched on two parts of this new role that carried into product management:
+`1931` - Neil McElroy and "Brand Men" 
+Neil McElroy wrote a memo called "Brand Men" while at Procter & Gamble. This memo touched on two parts of this new role that carried into product management:
 
-- `“Full responsibility”` - Product managers are responsible for the success of their product. They need to work across multiple teams in order to achieve their goals and build great products.
+Brand men were part of the marketing team with....
 
-- `“Studying things personally at first hand”` - Getting out of the building, seeing problems first hand, and interacting with users is a critical part of the product management role. This experience will provide you with deep insights and build empathy for your users.
+- `“Full responsibility”` - Product managers are responsible for the success of their product. They need to work across multiple teams in order to achieve their goals and build great products. They were in charge of advertising, sales and marketing the product.
 
-<br>
-
-`1930s` - Bill Hewlett and David Packard These two entrepreneurs met while at Stanford. McElroy was an advisor of theirs and they were deeply influenced by him. They went on to found Hewlett-Packard in 1939. And one of HP’s key strategies was to put decision making as close to the customer as possible. Being close to your customers and understanding their needs is a core part of product management.
-
-<br>
-
-`1960s` - Japan After World War II, just-in-time manufacturing became common in Japan. In addition to reducing waste during the production process, there were also two important principles:
-
-- `Kaizen`: change for better - continuously improving the business while always driving for innovation and evolution. Today you see Product Managers driving constant improvements and optimizations for their products.
-
-- `Genchi genbutsu` - real location, real thing - This means going to the source to find the facts to make correct decisions. This is again, highlighting the importance for Product Managers to get out of the building and experience everything first hand.
+- `“Studying things personally at first hand”` - Getting out of the building, seeing problems first hand, and interacting with users is a critical part of the product management role. This experience will provide you with deep insights and build empathy for your users. Field testing is still integral today.
 
 <br>
 
-Product Managers originally started in the marketing function and focused on making sure the product is in the right place, at the right price, with the right promotion. As tech began to create giant new industries, it became crucial that products were developed to more deeply meet user needs.
+`1930s` - Bill Hewlett and David Packard 
+These two entrepreneurs met while at Stanford. McElroy was an advisor of theirs and they were deeply influenced by him.
+
+They went on to found Hewlett-Packard in 1939. One of HP’s key strategies was to put decision making as close to the customer as possible. Being close to your customers and understanding their needs is a core part of product management.
+
+<br>
+
+`1960s` - Japan After World War II, when "just-in-time" manufacturing became common in Japan. In addition to reducing waste during the production process, there were also two important principles:
+
+- `Kaizen`: change for the better - continuously improving the business while always striving for innovation and evolution. Today you see Product Managers driving constant improvements and optimizations for their products. These small improvements have huge impact over time.
+
+- `Genchi genbutsu` - real location, real thing - This means going out to the source to find the facts to make correct decisions. This highlighs the importance for Product Managers to get out of the building and experience everything first hand. It can be an eye-opening experience that builds your empathy for users.
+
+<br>
+
+The `4 P's of Marketing` are ensuring that the right `Product` is in the right `Place` with the right `Price` and `Promotion` (explaining the value of the product to your users).
+
+The final three points were traditionally the focus of Brand Managers, but as tech began to create giant new industries, it became crucial that products were developed to more deeply meet user needs. Software development teams became more collaborative with the rise of AGILE methodology.
+
+While Place, Price and Promotion are in the purview of PMs, they are also shared with marketing.
 
 <br>
 
@@ -115,3 +125,4 @@ Product Managers originally started in the marketing function and focused on mak
 
 <br>
 <br>
+
