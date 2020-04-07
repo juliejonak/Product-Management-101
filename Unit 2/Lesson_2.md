@@ -663,6 +663,28 @@ And make sure to ask lots of questions!
 
 # Identifying Requirements
 
+Watch [Identifying Requirements](https://youtu.be/qYA9R-6Re_4).
+
+Once a requirement has been identified, it gets documented in a PRD (Product Requirements Document). Keep in mind that identifying requirements is a much more active involved process than just “gathering.” It’s important that PMs understand the problem and why a specific requirement exists. Identifying Requirements can happen through a variety of channels:
+
+- Research
+- Prototyping
+- Input from users / customers
+- Input for cross functional partners
+
+And two common challenges that come up when identifying requirements are:
+
+1. Never sure that all requirements have been identified
+
+2. Users might not be able to tell you what the product should do (ie: the requirement). Insead it’s better to focus on understanding the problem the user is facing and their needs. Ask why. Then ask why again. And keep asking why until you get to a deeper understanding.
+
+<br>
+
+### Further Resources
+
+[Effective Requirements Gathering](https://blog.buildo.io/effective-requirements-gathering-b9cbd8176075)
+
+[Stop Gathering Requirements](https://www.goodproductmanager.com/2008/05/06/stop-gathering-requirements/)
 
 <br>
 <br>
