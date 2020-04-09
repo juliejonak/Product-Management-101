@@ -895,6 +895,15 @@ Links to mockups.
 
 # Exercise: Write a PRD
 
+Imagine you are the PM working on an alarm clock app. Write a PRD for the initial version.
+
+Frame the problem: Describe the opportunity. What are the benefits to the user? What are key insights? What does the competition do? Why does this matter?
+
+What are the product goals: What does success look like? How do you measure success?
+
+What should the product do? How should each feature be prioritized?
+
+Include any other components that you think could be helpful.
 
 <br>
 <br>
