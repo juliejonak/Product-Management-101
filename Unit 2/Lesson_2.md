@@ -910,6 +910,58 @@ Include any other components that you think could be helpful.
 
 # Solution: Write a PRD
 
+Watch [the solution video](https://youtu.be/T7Rv4pDDx08).
+
+### Problem
+
+For this exercise, we're focusing on alarms for waking people up -- but note that there are many use cases for alarms outside of just waking up.
+
+- Users don’t always wake up at the right time
+- Wake up times may vary based on the time of day
+
+We can measure if users are waking up on time by tracking the number of times alarms go off. If our product is not meeting our users' goals, they'll stop using it. We could also check things like how many minutes after the alarm goes off is the phone moved? 
+
+We can check the number of unique alarms users create and how often they edit those alarms, to see what variation they require. For now, we can assume that users will rarely _edit_ an alarm if they can create pattern based alarms (based on things like day of the week).
+
+<br>
+
+### Goals
+
+- Users wake up on time
+- Users can set different alarms based on their schedule
+
+<br>
+
+### Key Features
+
+Remember, `P0` indicates a "must have" features that takes priority in development. `P1` indicates a "nice to have" features that is lower in priority but should still be on the roadmap.
+
+P0 - Alarm based on day of week
+P0 - Support for multiple alarms (at least 10)
+P0 - Alarm management - edit and delete existing alarms
+P0 - Alarm goes off at designated time
+P0 - Snooze active alarm
+P0 - Turn off active alarm
+
+P1 - Customizable alarm tones
+P1 - Alarm gradually increases in volume over time
+P1 - Auto alarms - Alarm goes off a specified amount of time before the first event on the user’s calendar
+P1 - “Silent alarm” that vibrates only
+
+Some of these `P1` features might be classified as `P0`, depending on if we believe that it would be a key differentiator of our alarm clock app, providing significant value to users. This would be something to research and conduct user tests to explore more.
+
+<br>
+
+Keep in mind that this is just the very start of a PRD. They are high-level requirements.
+
+As you work with the team to further define the product, each key feature should have much more detail about the specifics of what the feature does.
+
+<br>
+
+We made some basic assumptions when designing these features:
+
+- The user's phone will be powered on
+- Alarms will be based on the local time of the user's phone (we won't handle timezone changes, it's out of scope)
 
 <br>
 <br>
