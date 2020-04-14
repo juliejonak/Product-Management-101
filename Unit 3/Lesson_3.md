@@ -205,7 +205,18 @@ To better understand the market, you’ll want to talk to your users and custome
 
 # Exercise: Industry Trends
 
-Watch []().
+[The Exercise](https://youtu.be/cI-DUNi-Pjg).
+
+Imagine that the team is interested in building a product to help people better track their fitness and improve their health over time. 
+
+Spend a little bit of time doing some research to better understand current trends in the fitness tracking market.
+
+Here are some questions to get you started:
+
+- What benefits does improving fitness provide?
+- What products are already in the market?
+- How much do people spend on health/fitness?
+- What are the different ways to deliver fitness tracking? What are the pros and cons of each approach?
 
 <br>
 <br>
