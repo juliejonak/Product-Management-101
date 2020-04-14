@@ -70,7 +70,25 @@ At the end of this lesson, you’ll be able to:
 
 # Identifying Opportunities
 
-Watch []().
+Watch [Constraints and Tradeoffs](https://youtu.be/kB4z_8GIGgo).
+
+Finding the right problem to solve is critical for the success of your product! If you aren’t focusing on the right problems, your product will fail. This is something that both big and small companies struggle with. You’ll have to work through constraints and tradeoffs.
+
+<br>
+
+![Viable Product Opportunities](./Viable_Product_Opportunities.png)
+
+The best product opportunities solve user problems and meet business goals.
+
+<br>
+
+You can start to identify which problems to solve by looking at:
+
+- Market Research
+- User Research
+- Product Data
+- Support Data
+- Efficiency gains
 
 <br>
 <br>
