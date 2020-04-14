@@ -70,7 +70,7 @@ At the end of this lesson, you’ll be able to:
 
 # Identifying Opportunities
 
-Watch [Constraints and Tradeoffs](https://youtu.be/kB4z_8GIGgo).
+Watch [Identifying Opportunities](https://youtu.be/kB4z_8GIGgo).
 
 Finding the right problem to solve is critical for the success of your product! 
 
@@ -142,7 +142,63 @@ If your product doesn't solve a problem that resonates with the market, it won't
 
 # Understanding the Market
 
-Watch []().
+Watch [Understanding the Market](https://youtu.be/ktgHrSBrJkI).
+
+Understanding the market is critical to building successful products. Some markets are better than others. And some products do a better job than others. 
+
+You’ll want to make sure that your product satisfies the needs of the market.
+
+<br>
+
+What is product market fit?
+
+>> "Product/market fit means being in a good market with a product that can satisfy that market." - Marc Andreesen
+
+Understanding the market allows you to focus on solving the right problem. Keep in mind that some markets are better than others.
+
+<br>
+
+So what makes a good market?
+
+`Size`: How many people have this problem?
+
+`Growth`: Is the size of the market increasing?
+
+`Acquisition`: How easy is it to gain new customers? How much friction is there for a customer to switch to your product? How easy it is to explain your product's differentiation? How much does it cost to acquire customers?
+
+<br>
+
+What are some signs that there is no product market fit?
+
+- `Users aren't getting value` which causes second order effects: like... 
+- `No word of mouth`: they aren't recommending or talking about your product
+- `No press buss`: there's no excitement around the product within the press
+- `Slow growth` that makes it difficult to sell your product.
+
+
+On the flip side, when product market fit is good, you'll see these signs:
+
+- `Users get a lot of value` from your product that is solving an important need for them
+- `Product practically sells itself` because it's so great. Users recommend it to others. It's easy to immediately understand the value and why someone would pay for it
+- `Press excitement`: the press is reaching out to talk to you about your product
+- `Product in high demand`, it can sometimes be difficult to keep up. For example, needing to add more servers to support your app.
+
+<br>
+
+To better understand the market, you’ll want to talk to your users and customers. But before you do, you can look at some of these things to get more familiarity with the market:
+
+- `Online research` to better understand what's happening in the market
+- `Headlines & News`: staying up to date on relevant news to the problem you're focused on
+- `Similar products` to see how they've approached the problem, what's working well and what they're struggling with
+- `Trends`: like Mary Meeker’s annual Internet Trends report. [Google Trends](https://trends.google.com/trends/?geo=US) can also be a helpful tool to see what people are searching for, and how that's changing over time.
+
+<br>
+
+### Further Research
+
+[Mary Meeker's Internet Trends](https://www.bondcap.com/report/itr19/)
+
+[12 Things About Product Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
 
 <br>
 <br>
