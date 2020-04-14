@@ -22,7 +22,48 @@ o. [Lesson Recap](#Lesson-Recap)  <br>
 
 # Lesson Intro
 
-Watch []().
+Watch [the lesson intro](https://youtu.be/5SJ9sJ5WMyo).
+
+One of the most important aspects of being a Product Manager, and one of the areas they spend the most time on, is making sure that you are solving the right problems. They have to identify not only what _to_ solve, but also what _not to solve_.
+
+<br>
+
+In this lesson, we’ll cover the following topics:
+
+- Identifying Opportunities
+- Understanding the Market
+- The Target User
+- Total Addressable Market
+- Creating & Evaluating Hypotheses
+- Building a Business Case
+
+<br>
+
+At the end of this lesson, you’ll be able to:
+
+- Identify problems that are worthwhile to solve
+- Understand the market through research
+- Identify your target user and build user personas
+- Calculate the total addressable market (TAM) for your product
+- Calculate the return on investment (ROI) for solving a problem
+- Define hypotheses about your product that need to be validated
+- Test your hypotheses by putting them in front of users
+- Understand the components required to build a business case
+
+<br>
+
+### Glossary
+
+| Term | Definition |
+| ---- | ---------- |
+| Efficiency Gain | Something that results in a process being less expensive to complete (shorter amount of time, less money, etc). |
+| TAM (Total Addressable Market) | A measure of the revenue opportunity for a product. |
+| ARPU (Average Revenue Per User) | The average amount of revenue you receive for each user you have, usually measured by year. |
+| ROI (Return On Investment) | The ratio between the net profit and amount of investment. A high ROI indicates more impact with less effort. |
+| Payback Period | The amount of time that it takes for a product to recoup the initial investment required to build it. |
+| Focus Group | A small group of people you can present concepts to in order to see how they react. Generally this will be a diverse group of people and you will have specific questions you’d like to get their feedback on. |
+| Target User | A representation of a group of users with shared characteristics. |
+
 
 <br>
 <br>
