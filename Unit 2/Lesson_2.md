@@ -989,10 +989,59 @@ Now that you’ve written a PRD for your alarm clock app, you need to break the 
 
 # Solution: Build a Roadmap
 
+Watch [the solution video](https://youtu.be/9cQ3PEGCJIM).
+
+### Q1
+- Basic Alarm
+- Snooze
+- Edit
+
+<br>
+
+### Q2
+- Multiple alarms
+- Better management for multiple alarms
+
+<br>
+
+### Q3
+- Gentle alarm
+- Custom tones
+
+<br>
+
+### Q4
+- Auto alarms
+- Sleep monitoring
+
+<br>
+
+The important part is that the most critical features were earlier on in the roadmap, compared to nice to haves and explorations which came later.
+
 <br>
 <br>
 
 # Lesson Recap
+
+Watch the [lesson recap](https://youtu.be/E6Nwn4eOd4Q).
+
+You’ve reached the end of the Role of a PM lesson. We covered the following topics:
+
+- The Role of a PM
+- What a PM Does
+- Who PMs work with
+- Identifying Requirements
+- The Roadmap & PRD
+
+<br>
+
+At this point, you should be able to:
+
+- Understand the purpose of the PM role
+- Understand what a PM does during the different stages of the Product Development Cycle
+- Identify key cross-functional partners and customize communications based on understanding of their key priorities
+- Describe different methods for gathering requirements
+- Define the components of a PRD and how to complete each component including documenting requirements
 
 <br>
 <br>
