@@ -72,23 +72,70 @@ At the end of this lesson, you’ll be able to:
 
 Watch [Constraints and Tradeoffs](https://youtu.be/kB4z_8GIGgo).
 
-Finding the right problem to solve is critical for the success of your product! If you aren’t focusing on the right problems, your product will fail. This is something that both big and small companies struggle with. You’ll have to work through constraints and tradeoffs.
+Finding the right problem to solve is critical for the success of your product! 
+
+If you aren’t focusing on the right problems, your product will fail. 
+
+This is something that both big and small companies struggle with. You’ll have to work through constraints and tradeoffs to get this right.
 
 <br>
+
+So how do you figure out which problem to solve?
+
+### Research
+
+`Market Research` is helpful to understand the current space, what products already exist, what the competition is like, and what are the trends.
+
+`User Research` comes in many different forms, like interviews and focus groups. It's critical to go out and talk to users. It's the best way to understand their needs and problems.
+
+<br>
+
+### Product Data
+
+If there is already an existing product and you're looking to create an add-on or follow-up product, the additional data that already exists on the current product can help you understand what problems current users have. By seeing how they're using (or not using) the product, you can identify potential ideas for new features.
+
+<br>
+
+### Support Data
+
+Support data tells you which kinds of issues users are already running into, to reduce bad experiences with customers and the amount of money the company spends on providing support.
+
+<br>
+
+### Efficiency Gains
+
+These are things that will allow you to scale and provide more value over time. If there's a manual process the engineering team has to do, automating that process frees up bandwidth for the team to solve more problems. 
+
+<br>
+
+There are additional challenges, like constraints and tradeoffs.
+
+`Time is limited` - by the hours in a day and the number of team members the company has. Not everything is physically possible to accomplish.
+
+`Different Impact` can determine which problems are more important to solve. A product with negligible impact is likely not worth solving. You need to prioritize the impact your team can have, not just for the user, but also the company.
+
+If products don't meet business goals, the product could be killed or the company could go out of business.
+
+<br>
+
+Business goals might look like increasing or decreasing some of the following:
+
+- Revenue
+- New Users
+- Engagement
+- Costs
+- Churn
+
+These will need to be evaluated when you create a business case.
+
 
 ![Viable Product Opportunities](./Viable_Product_Opportunities.png)
 
-The best product opportunities solve user problems and meet business goals.
+The best product opportunities solve user problems and meet business goals. You want to find overlap between both areas to identify the best problems to solve.
 
-<br>
+>> "You can change everything in your startup except the market. So spend a lot of time up front to make sure you've thought through your market." - Sam Altman
 
-You can start to identify which problems to solve by looking at:
-
-- Market Research
-- User Research
-- Product Data
-- Support Data
-- Efficiency gains
+If your product doesn't solve a problem that resonates with the market, it won't matter how amazing that product is.
 
 <br>
 <br>
