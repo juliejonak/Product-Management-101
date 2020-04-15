@@ -724,7 +724,120 @@ Creating hypotheses around the problem, your solution, differentiation, and valu
 
 # Building a Business Case
 
-Watch []().
+Watch [Building a Business Case](https://youtu.be/4BTU_RiUI3w).
+
+After creating and evaluating your hypotheses, it's important to build a business case to relate why the team should spend the time and money on building this product.
+
+<br>
+
+A business case answers the question: 
+
+> “Why should the company do/invest in this?”
+
+The goal is to convince sponsors/stakeholders to approve the project. 
+
+You won’t always need to go to this level of detail for all projects, like a new feature in an existing product. For smaller projects, the PRD will likely have enough detail. 
+
+But for an entirely brand new product that you'll build from the ground up, you will need to be able to justify the larger investment. 
+
+> Is it worth continuing this project?
+
+<br>
+
+A business case should include:
+
+- `Business problem`
+- `Benefits`
+- `Costs`
+- `Risks`
+- `Possible solutions`
+- `Timeline`
+- `Competition` overview
+
+For new product investments it’s important to build a business case, which answers the question: 
+
+> “Does it make sense to build this?”
+
+<br>
+
+Your business case should be organized into the following sections:
+
+### Executive Summary 
+
+The Executive summary summarizes the entire document, including the recommendation. 
+
+You want to make sure that it has enough detail that if it’s the _only_ thing people read they will understand the justifications for building the product. 
+
+Even though it’s usually the first thing people read, it should be the last thing you write to make sure that everything is cohesive.
+
+<br>
+
+### Problem Statement 
+
+The Problem Statement explains the problem you are trying to solve, as well as the associated goals. 
+
+> What is the problem?
+>
+> Why does it matter?
+> 
+> Why is it important to solve?
+>
+> How does this connect to our business goals?
+
+It should also clearly link the problem back to the business strategy and goals.
+
+<br>
+
+### Analysis of Product Opportunity 
+
+In the Analysis of Product Opportunity section, you discuss the merits of why solving the problem is important. 
+
+> Why is this important for the business to address?
+>
+> What is the cost of ignoring this problem?
+> 
+> What is the size of the opportunity?
+
+You’ll usually want to touch on the cost of the problem and the size of the opportunity. Additionally, you can discuss what would happen if you didn’t solve the problem.
+
+<br>
+
+### Possible Solutions 
+
+In the Possible Solutions section, you will describe the potential solutions to the problem. 
+
+> Detail the benefits, cost (people, time and money), risks and timeline for each possible solution
+
+<br>
+
+### Recommended Approach 
+
+And finally in the Recommended Approach section, you put forward your recommendation for which solution is the best and why.
+
+> Which solution is best?
+>
+> Why?
+
+<br>
+<br>
+
+Other tips to keep in mind:
+
+- `Tailor it to your audience:` knowing your audience is key. You should be aware of who you need to convince and get approval from, then tailor the business case to be especially relevant to that person. Make sure you're answering all of their concerns. Use language your audience will be familiar with.
+
+- `Shorter is better:` While there's a lot of stuff to cover, you should only focus on relevant information that is helpful to making a decision. You can always include links to other documents if people want more information.
+
+- `Make it interesting:` You want people to walk away super excited about solving this problem.
+
+- `Demonstrate business value:` the more data that you can provide here, the better outcome you'll have because it builds confidence in your solution.
+
+<br>
+
+### Further Reading
+
+[Sample Business Case](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119198758.app1)
+
+[5 Steps to Write a Solid Business Case](https://www.chasegroup.com.au/five-steps-to-develop-a-solid-business-case)
 
 <br>
 <br>
