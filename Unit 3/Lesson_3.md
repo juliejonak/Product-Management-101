@@ -258,7 +258,72 @@ $1,860 / yr
 
 # Target User
 
-Watch []().
+Watch [Target User](https://youtu.be/-J4wBKUyXF0).
+
+Identifying a target user is important, because it makes it very clear who you are building the product for. 
+
+Oftentimes, a problem will best be solved in different ways for different types of users. 
+
+Identifying a target user creates focus and lets you zoom in on solving the needs of that specific target user.
+
+<br>
+
+You would build a different calculator for a grade schooler vs a scientist, because they have different needs and goals that the calculator would need to accomplish. Plus, they have different purchasing power. 
+
+![Different Calculators for Different Users](./Different_Calculators.png)
+
+Keeping your target user in mind helps answer questions about what the product is and can do.
+
+<br>
+
+To define your target user, you want to identify users with shared characteristics who would be interested in your product.
+
+You can do this by collecting data, like market research, interviews, surveys, focus groups, existing customer data, and more.
+
+Once you have the data, you'll need to identify trends in user characteristics like:
+
+- `Demographics:` how old is your user? where do they live?
+- `Motivations:` what gets them excited?
+- `Goals:` what are they trying to accomplish?
+- `Frustrations:` where are they running into current problems and challenges?
+
+<br>
+
+Then you can create `user personas` to represent the target user. The user persona is a fictional person that you create who might use the product. As you develop the product, you'll refer back to your persona to stress test and challenge some of your ideas.
+
+"Does this decision solve Sam's frustration? Would Sam be able to afford this product?"
+
+User personas also allow you to weave in storytelling when explaining objectives and motivations to team members and stakeholders. Storytelling is a more powerful way to show the meaning behind a goal or mission. It brings the target user to life, to build empathy across team members who may not speak with real customers.
+
+<br>
+
+To create a user persona:
+
+-  `Give the persona a name:` a great method is to use alliteration, and have the fictional last name describe an attribute of the target user: `Sam Student` or `Dan Driver`.
+
+- `Add a photo` or illustration of what this user might look like
+
+- `Add a quote` with a key insights about this user. It can be powerful to incorporate real quotes from users you've spoken to during user research.
+
+- `A description` of that user, painting a story about who they are. It doesn't have to be in-depth -- just focused on things that are relevant to the product.
+
+- `Frustrations or challenges` that the user is facing -- like a busy schedule impacting time management. 
+
+- `Goals` that the user has, which the product helps them to achieve.
+
+- `Motivations` that will help shape the product, like "Sam wants to share progress with friends and family," which indicates simple exporting or social sharing would encourage the user to stay engaged with the product.
+
+![An Example User Persona](./User_Persona.png)
+
+
+<br>
+
+### Further Reading
+
+[Are You Ready to Change Your Target Customer?](https://hbr.org/2019/03/are-you-ready-to-change-your-target-customer)
+
+[How to Define Your Target Market: A Guide to Audience Research](https://blog.hootsuite.com/target-market/)
+
 
 <br>
 <br>
