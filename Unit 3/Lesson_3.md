@@ -465,7 +465,11 @@ Calculate the TAM for streaming media services in the US.
 
 # Solution: TAM
 
-Watch []().
+Watch [the TAM solution walkthrough](https://youtu.be/SRjhxRjLIXg).
+
+Using the following information, we might estimate the TAM for streamin in the US to be roughly $15.6B.
+
+![US Streaming TAM](./US_Streaming_TAM.png)
 
 <br>
 <br>
