@@ -476,7 +476,161 @@ Using the following information, we might estimate the TAM for streamin in the U
 
 # ROI
 
-Watch []().
+Watch [ROI](https://youtu.be/suhaUfF1lZk).
+
+ROI is a way to measure the efficiency of an investment (like deciding to build a new product or feature). 
+
+Understanding and calculating ROI for different problems will help you to understand where to focus your team’s time in order to have the biggest impact.
+
+Calculating ROI and payback periods are two important tools to help you understand if it makes sense to solve a problem. 
+
+<br>
+
+We can think of calculating ROI with the following equation:
+
+> (amount gained - amount spent) / amount spent
+
+<br>
+
+Amount gained doesn't just reference increased sales -- it can also include amounts saved by increased efficiency. The key is to make sure that impact is able to be measured in dollars, even if just as an estimate.
+
+<br>
+
+Projects with positive ROIs will cover the investment required to build the product… Projects with negative ROIs will not and won’t make sense to pursue. 
+
+Calculating the payback period allows you to understand how long it will take before the product recoups the upfront investment required to build it.
+
+<br>
+
+ROI calculations can be very difficult to calculate, so work with someone on the finance or data science team, to ensure your estimate is accurate.
+
+Another way you may need to look at ROI calculations is with this formula:
+
+> (impact - cost of development time) / cost of development time
+
+We can estimate the cost of development time based on how many people are involved and how long it takes to complete the project.
+
+<br>
+
+Let's imagine there are four problems that we want to solve, as in this chart:
+
+<br>
+
+![ROI Problem Chart](./ROI_Example.png)
+
+<br>
+
+Let's assume that each problem has a `Cost` and you have a budget of `$5` to spend on problem solving. How can you determine the best value for spending that $5?
+
+Based on the estimated impact, we can determine the right problems to solve.
+
+At first glance, problem `A` seems like the best value -- it has a high impact ($18) despite using the entire budget.
+
+But if we look at solving problems `B` and `D`, the impact would be higher ($20) for only $4 of our total budget.
+
+Let's calculate the ROI for problem `D`:
+
+> (impact - development cost) / development cost
+> (10 - 1) / 1
+> 9 / 1
+> 9.00 = 900%
+
+If we calculate the ROI for each problem, we can more easily see where our budget could be spent on the best overall value.
+
+<br>
+
+![ROI Evaluations](./ROI_Evaluated.png)
+
+<br>
+
+If we solve problem A, we can have 260% ROI. If we solve problem B and D, we can have 1133% ROI.
+
+<br>
+
+### The Payback Period
+
+The payback period is the amount of time that it takes to regain the initial cost of building the product. This can be calculated like so:
+
+> Cost / (impact / time) = Payback Period
+
+Payback period can impact our decision about which problem to solve.
+
+If we look at our original A, B, C and D problems, and calculate the payback per year and the overall payback period, the chart would look like this:
+
+<br>
+
+![Payback Period](./Payback_Period.png)
+
+<br>
+
+This is another tool to help determine what problems are worth solving. Projects with a positive ROI will cover the investment that it takes to build the solution. The payback period can then help determine how long it would take the company to recoup that upfront investment.
+
+Depending on the company's business goals, choosing a less impactful project with quicker payback would be prioritized over a more impactful, long-term project.
+
+<br>
+
+### Practice
+
+Can you fill in the rest of this chart?
+
+| Problem | Cost | Impact | ROI | Per Year | Payback Period |
+| ------- | ---- | ------ | --- | -------- | -------------- |
+| A | $10 | + $20 over 2 years | ? | ? | ? |
+| B | $40 | + $70 over 7 years | ? | ? | ? |
+| C | $75 | + $100 over 4 years | ? | ? | ? |
+| D | $100 | + $150 over 3 years | ? | ? | ? |
+
+<br>
+<br>
+
+### Solution
+
+<details>
+ <summary> Expand for the solution: </summary>
+
+| Problem | Cost | Impact | ROI | Per Year | Payback Period |
+| ------- | ---- | ------ | --- | -------- | -------------- |
+| A | $10 | + $20 over 2 years | 100% | $10 | 1 year |
+| B | $40 | + $70 over 7 years | 75% | $10 | 4 years |
+| C | $75 | + $100 over 4 years | 33% | $25 | 3 years |
+| D | $100 | + $150 over 3 years | 50% | $50 | 2 years |
+
+<br>
+
+We can determine this like so, for Problem B:
+
+> (gain - cost) / cost = ROI
+>
+> ($70 - $40) / $40
+>
+> $30 / $40
+>
+> 0.75 = 75%
+
+<br>
+
+The per year payback:
+
+> gain / time to recoup  
+>  
+> $70 / 7 years  
+>  
+> $10 per year  
+
+<br>
+
+The Payback Period to recoup the initial investment:
+
+> cost / (gain / time to recoup) 
+>  
+> $40 / ($70 / 7)
+>  
+> $40 / $10
+>  
+> 4 = 4 years
+
+</details>
+
 
 <br>
 <br>
