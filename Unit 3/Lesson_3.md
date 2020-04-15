@@ -368,7 +368,83 @@ The example solution user personas might look like...
 
 # Total Addressable Market
 
-Watch []().
+Watch [Total Addressable Market](https://youtu.be/np3ObqHG1F8).
+
+TAM, or total addressable market, is a measure of the revenue opportunity for a product. 
+
+Keep in mind that TAM is not a measure of your revenue or future revenue. Instead, it allows you to understand the size of the market if you had 100% of the market. 
+
+A larger TAM indicates a larger opportunity, with more demand for a particular product. 
+
+However, just because there’s a large TAM does not mean that a product is guaranteed to be successful… There are lots of other factors that will come into play, like competition.
+
+<br>
+
+`TAM` = `Average revenue per user` X `total number of potential users in the market`
+
+<br>
+
+There are several approaches to calculating TAM:
+
+### Top Down Method
+
+Top Down uses industry research to estimate the size of an addressable market.
+
+You start with a high macro-level view of the economy, and then narrow that down based on factors like demographics. This goes all the way down to your target user. 
+
+You usually will start will everyone in the world and narrow down that audience to people who are interested in your product.
+
+<br>
+
+For example, how would we find the TAM for bottled water in the US?
+
+There's roughly 7.8 billion people on Earth, of which 330 million live in the US. Each person needs about 2 liters of water per day. We'd charge $1 per liter.
+
+`330 million people` X `2 liters per day` X `$1 per liter` X `365 days per year` = $241 Billion
+
+<br>
+<br>
+
+### Bottoms Up
+
+Bottoms Up involves using known data points that you have (data from early customers and sales -- or theoretical) that you could extrapolate to represent a larger market opportunity. 
+
+If we were already selling bottled water in California, but wanted to expand to the rest of the US, we need to understand the TAM.
+
+By looking at existing sales, we can scale it.
+
+<br>
+
+For example, we currently sell 10 million liters of bottled water per day at $1 per liter.
+
+There are about 40 million people in California which indicates 25% of the population buys 1 liter from us daily.
+
+The TAM in California is $3.65B = (40 million people) X (25% of people) X ($1 per liter) X (365 days per year)
+
+If we apply the same statistics to our larger prospective market, we can find the TAM for that expansion.
+
+(330 million people) X (25%) X ($1 per liter) X (365 days per year) = $30.1B TAM in US Sales
+
+Because we already had insight into how many people actually purchase bottled water, our estimates are less crude than in a Top Down approach.
+
+<br>
+<br>
+
+### Value Theory
+
+Value Theory is generally used for brand new product categories where you don’t have much information to base estimates on. 
+
+This involves conducting market research to understand:
+- How much are people willing to pay for your product?
+- How many potential customers would purchase the product?
+
+This requires conducting extensive user research to find out what people would pay and how many potential customers you might have.
+
+<br>
+
+### Further Reading
+
+[How to Calculate Your TAM and Make Slides for Investors](https://www.forentrepreneurs.com/calculating-tam/)
 
 <br>
 <br>
