@@ -451,7 +451,14 @@ This requires conducting extensive user research to find out what people would p
 
 # Exercise: TAM
 
-Watch []().
+Watch [the TAM exercise overview](https://youtu.be/MKSdoICmFVg).
+
+Calculate the TAM for streaming media services in the US. 
+
+- [ ] Use online sources to quickly research streaming media services
+- [ ] Identify the potential number of people that can use the product
+- [ ] Identify an estimate for the cost of the product
+- [ ] Calculate the TAM
 
 <br>
 <br>
