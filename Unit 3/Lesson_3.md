@@ -637,7 +637,87 @@ The Payback Period to recoup the initial investment:
 
 # Creating and Evaluating Hypotheses
 
-Watch []().
+Watch [Creating Hypotheses](https://youtu.be/80Vx9sKJ_Jo).
+
+Before you build a product, you want to be sure that it will be successful. 
+
+You can create hypotheses to make sure that your assumptions about your product are correct -- and that you are solving a real problem for real people. 
+
+After creating your hypotheses, you can test them to see if they are true / still accurate in the real world.
+
+Your hypotheses should be based on what you know so far. 
+
+Focus basing them on the following aspects:
+
+- `Customer needs:` what are the specific goals your customers are trying to reach? Where is there an opportunity for you to help them reach those?     
+    > "Is this a real problem?" 
+    >
+    > "Is there urgency in finding a solution for this problem?" 
+    >
+    > "Is this a painkiller (immediate relief) or a vitamin (a nice to have)?" Does this problem require a painkiller? If there is no urgency required, it's likely the product will fail.
+
+
+- `Your solution:` Does your specific solution meet that customer need? 
+    > "Does it really solve the problem?"
+    > 
+    > "What alternatives does the customer have?"
+    >
+    > "Is your solution way better or roughly the same?"
+
+- `Differentiation:` Is your solution differentiated from other solutions out there?
+    > "Is it different?"
+    >
+    > "How is it different? What does it do that other products don't?"
+
+- `Value:` Does it create enough value for users that they're willing to pay for it?
+    > "How much will people pay for it?
+    > 
+    > "WHat can you do to increase their willingness to pay?"
+    > 
+    > "How much do people currently pay for alternative solutions?"
+
+<br>
+<br>
+
+### Testing Hypotheses
+
+Watch [Evaluating Hypotheses](https://youtu.be/Zhzy4hs4upI).
+
+You can test and evaluate your hypotheses in several different ways. These are great to setup and run with a researcher who can help mitigate bias:
+
+- `User interviews:` talk to users, walk them through your thinking, and get their feedback. This works best with a prototype that users can evaluate to determine if they would use it, would buy it, and why or why not?
+
+- `Focus groups:` having a conversation with a group of users in a room at the same time. Because they interact with each other, they'll build on top of each others' ideas, disagree and provide alternative views. Be careful of group thinking, where only one opinion surfaces within the group.
+
+- `Surveys:` For higher level questions, this returns feedback at a larger scale, but is limited on how deep and interactive you can be with the user. You'll get some insight, but not as detailed as an interview. 
+
+- `Design sprint:` This stress tests the way the problem is framed and to help design a solution. This is then validated in front of real users who provide more feedback.
+
+<br>
+
+If you find that:
+
+- You are not addressing a customer need
+- Your solution isn’t providing value
+- Your product isn’t differentiated enough
+- There’s no willingness to pay…
+
+*Stop.* It’s not worth pursuing this idea in its current form because you won’t have product/market fit. 
+
+You should go back and tweak which customer you are focusing on... or your solution... Or your pricing model.
+
+Before you build a product, you want to be sure that it will be successful. Having data to back up your solutions is key to developing a product.
+
+Creating hypotheses around the problem, your solution, differentiation, and value and then testing them is a good strategy to make sure that you find product/market fit.
+
+<br>
+<br>
+
+### Further Reading
+
+[Product Development Through Hypotheses](https://www.etventure.com/blog/product-development-through-hypotheses-formulating-hypotheses/)
+
+[Customer Development with Steve Blank: Hypothesis Testing](https://www.startups.com/library/expert-advice/customer-development-steve-blank-hypothesis-testing)
 
 <br>
 <br>
