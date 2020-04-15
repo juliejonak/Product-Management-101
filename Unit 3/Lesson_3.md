@@ -313,6 +313,8 @@ To create a user persona:
 
 - `Motivations` that will help shape the product, like "Sam wants to share progress with friends and family," which indicates simple exporting or social sharing would encourage the user to stay engaged with the product.
 
+<br>
+
 ![An Example User Persona](./User_Persona.png)
 
 
@@ -347,7 +349,19 @@ Then, we’ll regroup and walk through the examples that I created.
 
 # Solution: Target User
 
-Watch []().
+Watch [the solution walkthrough](https://youtu.be/FfLM7BJLMSI).
+
+The example solution user personas might look like...
+
+![John: a New Year's resolution user](./John.png)
+
+<br>
+
+![Sally: a first time marathon runner](./Sally.png)
+
+<br>
+
+![Chris: an avid runner who wants to beat his record](./Chris.png)
 
 <br>
 <br>
