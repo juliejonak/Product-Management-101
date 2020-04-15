@@ -330,7 +330,17 @@ To create a user persona:
 
 # Exercise: Target User
 
-Watch []().
+Watch [Target User Exercise Outline](https://youtu.be/5VO5gqXjaTE).
+
+Given the market research that you’ve done so far, create 3 user personas for a fitness tracker. 
+
+Keep in mind, that in the real world you would also want to make sure that you get data from real users through interviews or surveys before building any personas. 
+
+For each persona, create a name and some information about them. Also include their frustrations and goals.
+
+Then, we’ll regroup and walk through the examples that I created.
+
+- [ ] Create three target user personas. Make sure to include the user’s name, a quote, their description, frustrations, & goals)
 
 <br>
 <br>
