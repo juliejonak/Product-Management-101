@@ -844,7 +844,29 @@ Other tips to keep in mind:
 
 # Lesson Recap
 
-Watch []().
+Watch [the lesson overview](https://youtu.be/F4Nf3xTEcZE).
+
+You’ve reached the end of the Problem Identification lesson. We covered the following topics:
+
+ - Identifying Opportunities
+ - Understanding the Market
+ - The Target User
+ - Total Addressable Market
+ - Creating & Evaluating Hypotheses
+ - Creating a business case
+
+<br>
+
+At this point, you should be able to:
+
+- Identify problems that are worthwhile to solve
+- Understand the market through research
+- Identify your target user and build user personas
+- Calculate the total addressable market (TAM) for your product
+- Calculate the return on investment (ROI) for solving a problem
+- Define hypotheses about your product that need to be validated
+- Test your hypotheses by putting them in front of users
+- Understand the components required to build a business case
 
 <br>
 <br>
