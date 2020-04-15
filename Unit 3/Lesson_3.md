@@ -223,7 +223,35 @@ Here are some questions to get you started:
 
 # Solution: Industry Trends
 
-Watch []().
+Watch [the solution explained](https://youtu.be/_83lNbh4Dzk).
+
+### Benefits
+- Controls weight
+- Combats health conditions & diseases
+- Improves mood
+- Boosts energy
+- Sleep better
+
+<br>
+
+### Existing Products
+- Smartwatches
+- Apps
+- Smart Ring
+
+<br>
+
+### Spending
+$155 / mo
+$1,860 / yr
+
+| Category | Amount |
+| -------- | ------ |
+| Supplements | $56 |
+| Clothing | $35 |
+| Gym | $33 |
+| Meal Plans | $17 |
+| Trainers | $14 |
 
 <br>
 <br>
