@@ -65,7 +65,79 @@ Glossary
 
 # Vision
 
-Watch []().
+Watch [Vision](https://youtu.be/OsMptnZZr4M).
+
+What is Vision?
+
+Vision describes...
+
+- what your product looks like in its final state
+- the essence of your product
+- what your product does and why it matters to users
+
+It should be able to be summarized in a sentence or two. For example, Googe Wifi's vision was to create "a wireless access point that people love."
+
+<br>
+
+Vision is more than just a sentence. It needs to tell a compelling story about:
+
+- What you’re building
+- Who it’s for
+- Why it matters
+
+Leverage the research and insights you've already gathered to do this. It needs to stay high level. 
+
+Vision is incredibly important because will impact every single aspect of your product so it is important to be thoughtful when you are crafting your vision. It also gets the team excited and motivated about building the product, and serves as a "north star" for guiding the team and decision making.
+
+Everything you do should trickle down from your vision, including strategy and features. Because it impacts everything you do, it's important to be thoughtful when crafting the vision.
+
+<br>
+<br>
+
+### Creating Vision
+
+Watch [Creating Vision](https://youtu.be/c1GMrMcKIzc).
+
+You’ll want to make sure that your vision is all of the following:
+
+- `Inspiring:` to get the team excited about the product. Focus on the problem you want to solve and why it matters. How will your product change their life?
+
+> "If you are working on something exciting that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
+
+<br>
+
+- `Ambitious:` think big. It should be broad, open-ended and challenge the team to think about the problem in different ways. This means it isn't too detailed. 
+
+Ambition gives you leeway to change, adapt and pivot the product as you learn new information, while still working towards an overarching goal.
+
+<br>
+
+- `Easy to explain:` people should "get it" and understand it when they hear it. A short, concise sentence or two should cover it. The details matter - but belong elsewhere.
+
+<br>
+
+- `Something the team believes in:` the team has to believe in the vision you're creating by involving them early on. Asking team members to participate in early research and talking with customers can help build belief. You can go through a vision exercise together to co-create the vision too.
+
+<br>
+
+- `Something you evolve over time:` it's really hard to get things exactly right the first time. It's more imporant to take new information into account and evolve or pivot into a new direction.
+
+<br>
+
+- `Something you share out frequently:` everyone on the team needs to always be on the same page. They'll use this vision to setup and inform decision making. Tailoring the way you present it to different groups is also important, based on the things they care about the most.
+
+<br>
+
+Vision serves as a north star to guide the team and decision making as your product is being developed. It explains what you’re building, who it’s for, and why it matters. Vision also gets the team excited and motivated about building the product.
+
+<br>
+<br>
+
+### Further Readings
+
+[Product Vision](https://www.productplan.com/glossary/product-vision/)
+
+[4 Experts Reveal How to Create a Strong Product Vision](https://blog.hubspot.com/service/product-vision)
 
 <br>
 <br>
