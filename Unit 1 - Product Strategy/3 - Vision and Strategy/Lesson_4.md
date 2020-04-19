@@ -187,7 +187,251 @@ When you create strategy, you want to make sure that it’s:
 
 # Business Models
 
-Watch []().
+Watch [What is a Business Model?](https://youtu.be/UAA5F9oaIkM).
+
+In order to build a viable product, you need to have a business model. 
+
+A business model describes how a business creates, delivers, and captures value. 
+
+This can be represented with a Business Model Canvas - a tool that maps out a business model, created by [Alex Osterwalder](http://alexosterwalder.com).
+
+You can create a business model canvas, which captures a number of different components that will: 
+
+- impact your ability to create and bring a product to market, including...
+- things you need to build the product and their associated costs
+- the value prop for your product
+- getting your product to your customers
+- the associated revenue streams
+
+<br>
+
+![Example Business Model Canvas](./Business_Model_Canvas.png)
+
+<br>
+
+Looking at the above example Business Model Canvas, we can see on the left are the things that need to happen to build the product and their associated costs.
+
+In the middle is the value proposition that tells what the product is and why people would want it.
+
+On the right is customers (who they are, how you interact with them, how you get the product to them) and revenue streams that customers will generate.
+
+<br>
+<br>
+
+### The Business Model Canvas
+
+Watch [Business Model Canvas Walkthrough](https://youtu.be/9_yLq1vgWxs).
+
+Let's walk through a Business Model Canvas in more detail and relate it to the video software company Zoom.
+
+The business model canvas includes the following components:
+
+- `Key Partners:` help build or deliver the product to users. These could be resellers or other partners like integrators or payment processors.
+
+    Zoom is mostly software based, but they do work with partners to outfit conference rooms with cameras, TVs and tablets. They also work with system integrators to integrate their technology into existing spaces. They work with payment processors to collect money from their customers. 
+
+<br>
+
+- `Key Activities:` what you need to do to build and deliver the product, like technical development and setting up sales and support teams.
+
+    Zoom has two main key activities: developing their technology and sales & support.
+
+<br>
+
+- `Key Resources:` things that you need to deliver value to the user - this could be people, intellectual property, financial backing.
+
+    Zoom relies on data centers to deliver streaming video to participants and a good compression algorithm to deliver high quality video while reducing the bandwidth required.
+
+<br>
+
+- `Cost Structure:` cost of building the product, that could include fixed costs (like developer salaries) and variable costs that increase as the product grows (like data center capacity). It's important to think through which activites and resources are the most expensive.
+
+    Zoom's two largest costs are people and data centers.
+
+<br>
+
+- `Value prop:` why would someone want your product?
+
+    Zoom's value prop is that they've built a video conferencing product that works very well. Their product works across devices (phones, laptops, on TVs) and it can scale, by supporting over 1,000 participants in a call.
+
+<br>
+
+- `Customer Relationships:` how you build relationships with your customer, including through interactions with the product. Sometimes this means building relationships with both the person using the product _and_ the person purchasing the product, because they may be different people in enterprise products.
+
+    At the end of every Zoom call, they ask the user to rate the call. This allows the team to get insights on how the product is performing from the customer's perspective. It reassures the customer that if you had a poor experience, someone will look at that data to improve the product in the future.
+
+    Zoom also has to think about how to build a relationship with the decision maker who purchased the product, like the IT department.
+
+<br>
+
+- `Channel:` how you get the product to customers. It's important to think about which channels work best and are the most cost effective.
+
+    Zoom has three main channels: their website, where customers can purchase the product directly; referrals, where existing customers invite non-customers to join them in a Zoom meeting; and resellers, who sell the product on their behalf.
+
+<br>
+
+- `Customer Segments:` understanding the different types of customers. Identifying who they are and which ones are most important.
+
+    Zoom's main customers are distributed teams who need to collaborate and communicate. This is broad and can be further segmented like: enterprise, education, healthcare, government, etc.
+
+<br>
+
+- `Revenue Streams:` how you get money from customers. What are customers willing to pay for? How much? How do they pay?
+
+    Zoom's main revenue stream is through tiered subscriptions, where more expensive subscriptions offer more features and functionality.
+
+<br>
+
+The business model canvas is a powerful tool to understand all the components that go into creating a product, understanding its value, and how to get it to your customers.
+
+There are also a variety of different revenue models that you can consider when creating a product. It’s important to understand how users perceive the value of your product and how they interact with your product when creating your revenue model.
+
+<br>
+<br>
+
+### Practice: The Business Model Canvas
+
+1. Describe Netflix’s Value Prop.
+
+<details>
+<summary>Solution response.</summary>
+
+Netflix offers low-cost entertainment with high-quality, low-bandwidth video streaming. It supports multiple user profiles for families. Their slogan is "Watch anywhere, cancel anytime." Their value includes things like stream content anywhere, no ads, and the ability to watch content offline.
+
+</details>
+
+<br>
+
+2. How would you fill in this chart for Netflix's different business model components? (I.e. cost structure, key partners, key activities, and key resources)
+
+| Item | Component |
+| ---- | --------- |
+| ISPs (Internet Service Provider) | ? |
+| Content Creation | ? |
+| Licensing Agreements | ? |
+| Recommendation Algorithm | ? |
+| Software Development | ? |
+| Movie Studios | ? |
+| Payroll | ? |
+| Content Procurement | ? |
+
+<br>
+
+<details>
+<summary>Solution response.</summary>
+
+| Item | Component |
+| ---- | --------- |
+| ISPs (Internet Service Provider) | Key Partners |
+| Content Creation | Cost Structure |
+| Licensing Agreements | Key Resources |
+| Recommendation Algorithm | Key Resources |
+| Software Development | Key Activities |
+| Movie Studios | Key Partners |
+| Payroll | Cost Structure |
+| Content Procurement | Key Activities |
+
+</details>
+
+<br>
+
+3. How would you fill in this chart for more of Netflix's business model components? (I.e. Channels, customer relationships, customer segment and revenue stream)
+
+| Item | Component |
+| ---- | --------- |
+| Rating System | ? |
+| App Store | ? |
+| Adults | ? |
+| Subscriptions | ? |
+| Children | ? |
+| Teenagers | ? |
+| Built-in TV App | ? |
+
+<br>
+
+<details>
+<summary>Solution response.</summary>
+
+| Item | Component |
+| ---- | --------- |
+| Rating System | Customer Relationships |
+| App Store | Channels |
+| Adults | Customer Segment |
+| Subscriptions | Revenue Stream |
+| Children | Customer Segment |
+| Teenagers | Customer Segment |
+| Built-in TV App | Channels |
+
+</details>
+
+<br>
+<br>
+
+### Revenue Models
+
+Watch [Revenue Models](https://youtu.be/JjwngEs0JlI).
+
+There’s lots of different revenue models, but some of the most common are:
+
+- `Ads:` Advertisers pay money to show relevant ads to your users.
+
+    Ad based revenue is generated by showing ads in your product(s). These are most effective when you can target the users in meaningful ways. The more effective the targeting is, the better this model will work, because the advertisers will pay on a CPC or CPM basis (cost per click or cost per 1000 impressions). CPC is more common in search products, CPM is more common outside of search.
+
+    Revenue comes from ads being clicked - the more users you have using the product, the more clicks and revenue you'll generate. CTR (click through rate) is an important metric for measuring this.
+
+    Some products supported by ads are Google Search, Facebook, Amazon search listings, and Spotify Free.
+
+<br>
+
+- `Purchase / Licensing:` Users pay a one-time fee to use the software/product or Companies pay for permission to use/manufacture the product.
+
+    Revenue is based on the total units sold. Companies with a purchase/licensing revenue stream are Microsoft Office and dobe Creative Suite -- although both are moving towards subscriptions.
+
+<br>
+
+- `Pay per use:` Users pay each time they use the product or service.
+
+    The revenue is generated based on usage. Companies with this model are Uber, DoorDash and Fandango.
+
+<br>
+
+- `Subscription:` Users pay on a continuous basis for access to the product, usually monthly.
+
+    Revenue comes from paying subscribers. The recurring revenue steams means that as long as you maintain your subscribers, your revenue will come in on a regular, predictable basis.
+
+    Companies that rely on a subscription model are Netflix, Spotify Premium, Microsoft Office 365, and Zoom.
+
+<br>
+
+- `Freemium:` The product offers a limited number of features for free, with no cost to the user.
+
+    Generally there are limitations or restrictions to the free users which users can remove if they pay for a higher tier that offers more features. 
+
+    This is an easy way to try the product and have the product sell itself.
+
+    Some products with a Freemium model are Spotify, Zoom, LinkedIn, and Dropbox.
+
+<br>
+
+These are only a few types of revenue models. There are many others that exist. Some of these can overlap, like a freemium model that is supported by ads, with a goal of users converting to a subscription.
+
+You can think of it looking like this at first:
+
+![Freemium Model Diagram](./Freemium_Model.png)
+
+With the ultimate goal of a user converting to this:
+
+![Paid User Diagram](./Paid_Model.png)
+
+<br>
+<br>
+
+### Further Readings
+
+[Business Model Canvas Examples](https://corporatefinanceinstitute.com/resources/knowledge/strategy/business-model-canvas-examples/)
+
+[10 Most Popular Startup Revenue Models](https://fi.co/insight/the-10-most-popular-startup-revenue-models)
+
 
 <br>
 <br>
