@@ -144,7 +144,43 @@ Vision serves as a north star to guide the team and decision making as your prod
 
 # Strategy
 
-Watch []().
+Watch [What is Strategy?](https://youtu.be/VquT7fG7668).
+
+Strategy is how you get to your vision. It's all about how you are going to realize your vision and takes the following things into account:
+
+- `User needs:` Who is your target user? What are their needs that could be solved by this product?
+
+- `Key Features:` What are the key primary features that will solve the user's need? Will these features result in people using the product? Will these features convince people to buy the product?
+
+- `Competitors & Differentiation:` How does your product compare to others in the market? What areas do you want to differentiate in?
+
+- `Business Goals:` What are the business goals of the company and product? It can go beyond revenue. What KPIs can you use to measure these goals?
+
+- `Trends:` How is the market changing? How are user behaviors and needs changing?
+
+<br>
+<br>
+
+Watch [Creating Strategy](https://youtu.be/oYskzTOgjCc).
+
+When you create strategy, you want to make sure that it’s:
+
+- `A balance between features, user and market needs, and business goals.` Some features you _could_ build won't meet user or business needs; and some might be too expensive to build.
+ 
+- `Creating building blocks for how to get to your vision.` How can you break your strategy out into 3-5 smaller components to realize your vision? These are things your product needs to get absolutely right.
+
+- `High level, but with a little more detail.` Start filling in things with more detail than your vision contained...but the full details will be in the PRDs.
+
+- `Goal oriented, and preferably measurable.` Goals make things actionable because you know what to do. When you can measure your progress towards meeting them, it's even better.
+
+<br>
+<br>
+
+### Further Readings
+
+[What is Good Product Strategy?](https://medium.com/@melissaperri/what-is-good-product-strategy-8d5587cb7429)
+
+[Product Development Strategy Defined](https://www.thisisproductmanagement.com/blog/product-strategy/)
 
 <br>
 <br>
