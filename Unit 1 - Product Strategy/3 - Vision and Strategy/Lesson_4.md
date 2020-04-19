@@ -438,7 +438,71 @@ With the ultimate goal of a user converting to this:
 
 # Exercise: Business Model
 
-Watch []().
+Watch [Business Model Canvas Exercise](https://youtu.be/jjJj8ZTZzDE).
+
+Create a business model canvas for fitness tracker.
+
+You can use the [template here](./Business_Model_Canvas_Template.pdf) or use [Canvanizer](https://canvanizer.com/new/business-model-canvas), a digital canvas creation tool.
+
+<br>
+
+Try asking yourself...
+
+### Key Partners
+Who are your key partners?
+Who are your key suppliers?
+Which key resources are you acquiring from partners?
+Which key activities do partners perform?
+
+### Key Activities
+What key activities do our value propositions require?
+Our distribution channels?
+Customer relationships?
+Revenue streams?
+
+### Key Resources
+What Key Resources do our value propositions require?
+Our distribution channels?
+Customer relationships?
+Revenue streams?
+
+### Value Propositions
+What value do we deliver to our customers?
+Which one of our customer's problems are we helping to solve?
+What bundles of products and services are we offering to each Customer Segment?
+Which customer needs are we satisfying?
+
+### Customer Relationships
+What type of relationship does each of our Customer Segments expect us to establish and maintain with them?
+Which ones have we established?
+How are they integrated with the rest of our business model?
+How costly are they?
+
+### Customer Segments
+For whom are we creating value?
+Who are our most important customers?
+
+### Channels
+Through which Channels do our Customer Segments want to be reached?
+How are we reaching them now?
+How are our Channels integrated?
+Which ones work best?
+Which ones are most cost-efficient?
+How are we integrating them with customer routines?
+
+### Cost Structure
+What are the most important costs inherent to our business model?
+Which Key Resources are most expensive?
+Which Key Activities are most expensive?
+What are our fixed costs?
+What are our variable costs as we scale?
+
+### Revenue Streams
+For what value are our customers most willing to pay?
+For what do they currently pay?
+How are they currently paying?
+How would they prefer to pay?
+How much does each Revenue Stream contribute to overall revenue?
 
 <br>
 <br>
