@@ -200,6 +200,8 @@ To better understand the market, you’ll want to talk to your users and custome
 
 [12 Things About Product Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
 
+[40 Industry Analysis Questions](https://www.entrepreneurshipinabox.com/653/industry-analysis-answering-40-questions/)
+
 <br>
 <br>
 

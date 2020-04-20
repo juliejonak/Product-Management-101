@@ -509,7 +509,9 @@ How much does each Revenue Stream contribute to overall revenue?
 
 # Solution: Business Model
 
-Watch []().
+Watch [the solution walkthrough](https://youtu.be/nbBz2LRw_cU).
+
+![Fitness Tracker Business Model Canvas Sample Solution](./Fitness_Tracker_Canvas_Solution.png)
 
 <br>
 <br>
