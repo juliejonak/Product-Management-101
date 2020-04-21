@@ -607,7 +607,11 @@ You can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1T1dmN6CMG
 
 # Solution: Competitive Analysis
 
-Watch []().
+Watch [the competitive analysis solution walkthrough](https://youtu.be/0fifFaSoSqM).
+
+<br>
+
+![Competitive Analysis Solution](./Competitive_Analysis_Solution.png)
 
 <br>
 <br>
