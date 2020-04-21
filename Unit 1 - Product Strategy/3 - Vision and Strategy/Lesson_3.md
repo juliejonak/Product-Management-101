@@ -783,7 +783,15 @@ Make sure to keep in mind the components that you mapped out when putting togeth
 
 # Solution: KPIs
 
-Watch []().
+Watch [KPI Solution Walkthrough](https://youtu.be/IfbUyPA_3WU).
+
+Example KPIs for a fitness tracker product across all four areas:
+
+<br>
+
+![KPI Solution](./KPI_Sample_Solution.png)
+
+<br>
 
 <br>
 <br>
