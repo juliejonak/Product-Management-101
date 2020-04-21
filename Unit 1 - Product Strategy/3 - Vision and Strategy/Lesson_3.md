@@ -580,7 +580,27 @@ A tertiary competitor is Facebook - it's main use was not to compete with Snapch
 
 # Exercise: Competitive Analysis
 
-Watch []().
+Watch [the competitive analysis exercise prompt](https://youtu.be/GfHr8ud5ua8).
+
+
+Identify 3-5 competing fitness tracking product, and look into:
+
+- Product offering and key features
+- Differentiators
+- Target customers
+- Distribution channels
+- Price points
+
+
+You can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1T1dmN6CMGux3yh90XgUylJs-XH-vYRWwr-UfHEysoFY/copy) as a template, if it’s helpful.
+
+| Competitor | Product Offering | Key Features | Differentiators | Target Customers | Distribution Channels | Price Points |
+| ---------- | ---------------- | ------------ | --------------- | ---------------- | --------------------- | ------------ |
+| 1 | ? | ? | ? | ? | ? | ? |
+| 2 | ? | ? | ? | ? | ? | ? |
+| 3 | ? | ? | ? | ? | ? | ? |
+| 4 | ? | ? | ? | ? | ? | ? |
+| 5 | ? | ? | ? | ? | ? | ? |
 
 <br>
 <br>
