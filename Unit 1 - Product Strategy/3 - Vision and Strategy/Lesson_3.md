@@ -798,7 +798,27 @@ Example KPIs for a fitness tracker product across all four areas:
 
 # Lesson Recap
 
-Watch []().
+Watch [the lesson recap](https://youtu.be/fic_7FbnJnA).
+
+You’ve reached the end of the Problem Identification lesson. We covered the following topics:
+
+- Vision
+- Strategy
+- Business Models
+- Competitive Analysis
+- MVP
+- KPIs
+
+<br>
+
+At this point, you should be able to:
+
+- Define and craft compelling Vision
+- Identify strategic areas to invest in
+- Build a Business Model Canvas
+- Conduct a Competitive Analysis
+- Understand the importance of defining MVP
+- Define KPIs
 
 <br>
 <br>
