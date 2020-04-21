@@ -772,7 +772,11 @@ False - while every KPI is a metric, not every metric will be a KPI. KPIs are me
 
 # Exercise: KPIs
 
-Watch []().
+Watch [KPI Exercise Prompt](https://youtu.be/N-t9QV86b3I).
+
+Identify 2-3 KPIs for your fitness tracker product across business, product, quality, and development. 
+
+Make sure to keep in mind the components that you mapped out when putting together your business model canvas. Think about how you can translate some of those things into KPIs across  each area.
 
 <br>
 <br>
