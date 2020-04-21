@@ -666,7 +666,106 @@ MVPs allow you to get product to market fast, get feedback from real users, and 
 
 # KPIs
 
-Watch []().
+Watch [What are KPIs?](https://youtu.be/hSwXnrDFtAU)
+
+KPIs, or `Key Performance Indicators`, are a type of metric that measure the performance of your product against your strategy. 
+
+They capture the big picture and help you to understand how well your product is working (or isn’t working) and are aligned with business objectives. 
+
+Additionally, they help to measure how changes you make to your product move the needle (or don’t)
+
+<br>
+
+There are different types of KPIs:
+
+- `Business:` these measure how you're doing against business goals
+- `Product:` these measure how the product is being used and helping users meet their goals
+- `Quality:` these measure how often users encounter issues or problems with the product
+- `Development:` these measure how well the team is executing when it comes to building and delivering the product
+
+<br>
+
+Tips for picking KPIs:
+
+- `Don’t measure everything:` it's tempting to do this with all of your data, but you want to be selective when choosing KPIs so they're actionable and easy to understand. If you have too many, you'll waste time tracking their impact and change over time.
+
+- `Align user, product, and business goals:` the best KPIs will hit all three goals at once, but some will focus solely on one of those areas.
+
+- `Make sure KPIs are measurable:` the team should agree on how these KPIs will be measured. When you dig into the data, there can be more complexity than originally considered.
+
+- `Use percentages and time periods when setting goals:` this makes acheiving goals clearer and easier to track
+
+<br>
+
+Let's go back to examining Zoom and imagine that we're defining their KPIs.
+
+<br>
+
+| Type of KPI | KPI |
+| ----------- | --- |
+| Business | ARPU (Average Revenue Per User) |
+| Business | Conversion rate from free to subscription |
+| Business | Churn (how often users stop using the product) |
+| Product | Weekly Active Users |
+| Product | Average number of calls per user per week |
+| Product | Average time for user to setup their first call |
+| Quality |  Percentage of calls delivered in HD to ensure a key value prop is being met |
+| Quality |  Average user rating per call |
+| Quality |  Support contact rate (instance per 100 users) |
+| Development | Percentage of features delivered on time |
+| Development | Average deviation from original estimated delivery date |
+| Development | Outages per month and for how long |
+
+<br>
+
+Fill in this chart with the following: `Uptime`, `Feature Usage`, `Team Velocity` and `Revenue` 
+
+| Type of KPI | KPI |
+| ----------- | --- |
+| Business | ? |
+| Product | ? |
+| Quality | ? |
+| Development | ? |
+
+<br>
+
+<details>
+<summary> See the solution </summary>
+
+| Type of KPI | KPI |
+| ----------- | --- |
+| Business | Revenue |
+| Product | Feature Usage |
+| Quality | Uptime |
+| Development | Team Velocity |
+
+</details>
+
+<br>
+
+<details>
+<summary> True or false: You want to have as many KPIs as possible </summary>
+
+False - you want to have a small, focused set of KPIs. This will allow the team to focus on moving those specific KPIs.
+
+</details>
+
+<br>
+
+<details>
+<summary> 
+True or false: A metric is always a KPI </summary>
+
+False - while every KPI is a metric, not every metric will be a KPI. KPIs are metrics that capture the performance of your product against your strategy.
+</details>
+
+<br>
+
+### Further Reading
+
+[4 Things to Remember When Defining KPIs](https://blogs.oracle.com/datascience/4-things-to-remember-when-defining-kpis)
+
+[18 KPI Examples Explained](https://www.clearpointstrategy.com/18-key-performance-indicators/)
 
 <br>
 <br>
