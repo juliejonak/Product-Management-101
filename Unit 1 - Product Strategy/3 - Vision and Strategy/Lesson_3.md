@@ -618,7 +618,48 @@ Watch [the competitive analysis solution walkthrough](https://youtu.be/0fifFaSoS
 
 # MVP
 
-Watch []().
+Watch [What is MVP?](https://youtu.be/tez-pUdN86Q)
+
+An MVP, or `minimum viable product`, has just enough features to get early adopters excited. 
+
+After launching an MVP, you’ll get a lot of feedback that will help you understand if you have product market fit and what areas you should invest in next.
+
+MVP doesn't mean _broken_, incomplete or un-polished. It should still be a product users are willing to pay for. 
+
+It's still important to invest in good design, reliability and quality experience. It's a starting point for your product to grow into something more -- but if you don't start on good footing, users will abandon it before you have a chance to add more functionality.
+
+<br>
+
+What are the benefits of an MVP?
+
+- Get product to market fast, or faster than if you built the entire feature set
+- Get feedback from real users via an early launch to determine product market fit
+- Allows you to fail fast and learn, to iteratively improve or quickly abandon a bad idea
+
+<br>
+
+How do you create an MVP?
+
+- Start with the business model canvas
+- Weigh against competing solutions
+- Make sure it’s aligned with business objectives: do you have revenue targets? A necessary launch date? Specific users to attract?
+- Translate to requirements, so it's actionable for the team (usually in a PRD)
+- Identify KPIs
+
+By definition, an MVP is only _must have_ features.
+
+MVPs allow you to get product to market fast, get feedback from real users, and learn/fail fast.
+
+<br>
+
+### Further Reading
+
+[What is an MVP?](https://blog.leanstack.com/minimum-viable-product-mvp-7e280b0b9418)
+
+[Types of MVPs and Examples](https://mlsdev.com/blog/minimum-viable-product-examples)
+
+[15+ Example MVPs](https://softwarebrothers.co/blog/15-examples-of-successful-mvps/)
+
 
 <br>
 <br>
