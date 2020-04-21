@@ -518,7 +518,62 @@ Watch [the solution walkthrough](https://youtu.be/nbBz2LRw_cU).
 
 # Competitive Analysis
 
-Watch []().
+Watch [What is Competitive Analysis?](https://youtu.be/IdCb8VFhM7Q).
+
+
+Competitive analysis in its simplest form is identifying other similar products in the market, including the users each product is targeting.
+
+Once you've identified all the competing products, you'll want to understand the strategy behind each one. 
+
+You can get a glimpse of this by using the product and looking at marketing materials. This allows you to identify the strengths and weaknesses of each product. Then you can better predict shifts in the market and trends.
+
+<br>
+
+As part of competitive analysis, you’ll want to understand:
+
+- Product offering and key features
+- Differentiators: how is it different from other competitors?
+- Target customers: who is that product intended for?
+- Distribution channels: how does that product get to the customer?
+- Price points: how does their pricing strategy compare to others?
+- Funding
+
+<br>
+
+So how do you build a competitive analysis?
+
+- `Google:` get a better understanding of what products exist out there
+- `Review their websites & marketing material:` to gauge if this product is truly a competitor
+- `Use the product:` if it is a competing product, using it helps to understand what it is and how it works, as well as identify user issues
+- `Read reviews:` you can also sense how well it's doing by checking user and professional reviews
+- `Check social media presence:` check Twitter, Yelp, Reddit, etc. You can learn about the product approach and strengths/weaknesses from these platforms
+
+A good competitive analysis could include key features, differentiators, product screenshots, pricing, target customers, reviews and quotes from customers.
+
+<br>
+
+### Types of Competitors 
+
+There are three different types of competitors:
+
+- `Primary:` or direct competitors are doing the same thing, mostly the same way, for the same set of users. Android and iOS, Netflix and Disney+, or Uber and Lyft are direct competitors.
+
+- `Secondary:` or indirect competitors are producing a similar product, but in a different way and generally for a different end user. For example, Facebook Messenger and Slack. One is designed for personal use while the other is meant for work environmnet collaboration. Coffee and tea are indirect caffeine competitors.
+
+- `Tertiary:` or replacement competitor where the product does a different job, but competes for the same users. It has the potential for consumers to replace one product with another. For example, a DSLR camera and an iPhone. The DSLR was designed to take high-quality photos, whereas the iPhone has a lot of primary purposes, but also includes a camera. It has begun to replace digital cameras. 
+
+<br>
+
+<details>
+<summary>Think about Snapchat and identify a few competitors.</summary>
+
+Snapchat's direct competitors are Instagram and TikTok, as a media driven social community. Initial selling points focused on privacy and single-view messaging, similar to encrypted messaging platforms like Telegram or Signal. 
+
+A secondary competitor is Youtube - while they do similar functions, Youtube is more long-form and aimed at a public, not 1:1 or network-based, demographic. 
+
+A tertiary competitor is Facebook - it's main use was not to compete with Snapchat, but its growing Stories feature could replace Snapchat. 
+
+</details>
 
 <br>
 <br>
