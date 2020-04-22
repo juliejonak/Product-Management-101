@@ -427,15 +427,49 @@ Write your introduction and include two truths and a lie about yourself.
 
 # Working with Designers
 
-Watch []()
+Watch [working with Designers.](https://youtu.be/VlG3CApWuXc)
+
+Product Managers and Designers both care a lot about the user. There is a lot of overlap between the two roles when it comes to understanding and advocating for the user. Both roles are involved with researching user needs and defining use cases. 
+
+Product managers are responsible for the overall success (or failure) of a product and need to take input and communicate across a number of stakeholders. Designers go much more in depth with how the user should interact with and experience the product from a visual and interaction design perspective.
 
 <br>
 
-### Further Resources
+Product Manager vs. Designer
 
-[]()
+| Action | Product Manager | UX Designer |
+| ------ | --------------- | ----------- |
+| Sets priorities for the team | X |  |
+| Responsible for business outcomes | X |  |
+| Manages stakeholders and communicates across larger team | X |  |
+| Owns visual and interaction design |  | X |
+| Owns information architecture |  | X |
+| Creates mocks and prototypes |  | X |
+| Deeply understands users and defines use cases | X | X |
+| Participates in / conductes User Research and usability testing | X | X |
 
-[]()
+<br>
+
+### Tips when working with designers
+
+You are not a designer. Acknowledge that designers have expertise when talking about UI and flows.
+
+When critiquing a design it’s often more effective to ask about the intention of a choice.
+
+Design is a critical partner for Product Managers. It’s important to cultivate strong relationships and understand and acknowledge the perspective of your Designer(s). Your style of communication goes a long way. 
+
+When critiquing a design, keep in mind that it’s often more effective to ask about the intention of a choice rather than saying you don’t like something.
+
+For example, asking _"What was the reasoning behind placing the button in the right corner?"_ can then develop into further conversation where you can share that you are worried that users might be confused and not able to find the button due to its placement. 
+
+This is a much more effective way to work with Designers than saying _"I don’t like where the button is placed."_ or _"The button is placed in a confusing location."_
+
+<br>
+
+<details>
+<summary> What would be the best way to provide feedback to a Designer about the choice of color for an illustration? </summary>
+Can you tell me more about why you picked this color?
+</details>
 
 <br>
 <br>
