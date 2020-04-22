@@ -476,15 +476,23 @@ Can you tell me more about why you picked this color?
 
 # Lesson Recap
 
-Watch []()
+Watch [the lesson recap.](https://youtu.be/NlCbW4z-AFQ)
+
+You’ve reached the end of the Intro to Design Sprint lesson. We covered the following topics:
+
+- What is a Design Sprint
+- Identifying the right problems for a Design Sprint
+- Planning a Design Sprint
+- Working with Designers
 
 <br>
 
-### Further Resources
+At this point, you should be able to:
 
-[]()
-
-[]()
+- Describe what a Design Sprint is
+- Identify good candidates for a Design Sprint
+- Plan a Design Sprint
+- Explain the similarities and differences between the Product Manager and Designer roles
 
 <br>
 <br>
