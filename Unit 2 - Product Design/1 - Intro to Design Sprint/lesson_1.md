@@ -219,15 +219,34 @@ The most important thing is to put together a team that is well suited to tackle
 
 # Is the Problem Right?
 
-Watch []()
+Watch [determining if the problem is right.](https://youtu.be/b64M-ZBdOvc)
+
+Design Sprints are great at a lot of things. They bring a team together to focus on solving a problem. Design Sprints are best suited when there are big open questions. They don’t work as well when a solution or in depth direction has already been identified.
+
+Here’s some examples of when a Design Sprint is a good fit:
+
+- New product
+- New feature for existing product
+- Improvement to existing product
+- You need to solve a complex problem
+- You don’t already have an answer
+
+<br>
+
+And some examples where a Design Sprint is unlikely to be helpful:
+
+- There is already clear product direction, just not final designs
+- There is not enough foundational research to understand user needs
+- You already have an answer
+
 
 <br>
 
 ### Further Resources
 
-[]()
+[When a Design Sprint Isn't the Answer](https://www.invisionapp.com/inside-design/design-sprint-wont-work/)
 
-[]()
+[How do I know if it's the right time to run a Design Sprint?](https://sprintstories.com/how-do-i-know-if-its-the-right-time-to-run-a-design-sprint-29d67e7bc4b2)
 
 <br>
 <br>
