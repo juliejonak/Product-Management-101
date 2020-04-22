@@ -338,14 +338,66 @@ Present to a friend:
 
 # Negotiation
 
-Watch []()
+Watch [How to Negotiate.](https://youtu.be/xcBndLuYLEw)
+
+Negotiation is all about trying to reach an agreement when there is conflict. As a PM, you will be negotiating everyday, whether it’s about what the product should do, who’s going to be working on the product, or timelines.
+
+Strategies for negotiation:
+
+- `BATNA:` 
+
+- `Focus on interests:` 
+
+- `Make the pie bigger:` 
+
+- `Use objective criteria:` 
+
+- `Multiple solutions:` 
+
+<br>
+
+Tips for negotiating:
+
+- Build strong relationships
+- Use active listening
+- Keep emotions in check
+- Work together to find a solution
+
+<br>
+
+Fill in the following table with the matching Negotiation Style (Competitive, Collaborative, Compromise, Avoidance, Accommodation):
+
+| Scenario | Style |
+| -------- | ----- |
+| Getting exactly what I want | ? |
+| Agreeing to something in order to preserve a relationship, even though it's not in your best interest | ? |
+| Giving up some things in order to get some things in return | ? |
+| Working together to find a solution where everyone is happy | ? |
+| Not comfortable in situations where there's conflict | ? |
+
+<details>
+<summary> The solution table is... </summary>
+
+| Scenario | Style |
+| -------- | ----- |
+| Getting exactly what I want | Competitive |
+| Agreeing to something in order to preserve a relationship, even though it's not in your best interest | Accommodation |
+| Giving up some things in order to get some things in return | Compromise |
+| Working together to find a solution where everyone is happy | Collaborative |
+| Not comfortable in situations where there's conflict | Avoidance |
+
+</details>
 
 <br>
 <br>
 
 ### Further Readings
 
-[]()
+[Negotiation Skills for Product Managers: 5 Things Your Need to Know](https://medium.com/pminsider/negotiation-skills-for-product-managers-5-things-you-need-to-know-ec474f743d54)
+
+[5 Highly Effective Negotiation Tactics Anyone Can Use](https://www.inc.com/jeff-haden/tk-highly-effective-negotiation-tactics-anyone-can-use.html)
+
+[4 Ways to Practice Your Negotiation Skills](https://blog.blackswanltd.com/the-edge/use-it-or-lose-it-4-ways-to-practice-your-negotiation-skills)
 
 <br>
 <br>
