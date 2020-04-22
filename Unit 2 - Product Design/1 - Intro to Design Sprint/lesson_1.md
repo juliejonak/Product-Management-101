@@ -167,15 +167,14 @@ Before the sprint starts, it’s a good practice to plan what the next steps aft
 
 # Who Should Participate?
 
-Watch []()
+Watch [who participates in Design Sprints.](https://youtu.be/xB9dMnHI00k)
 
-<br>
+Design Sprints are not just for Designers. The best Design Sprints occur when there’s good representation across a number of different functions.
 
-### Further Resources
-
-[]()
-
-[]()
+- Want around 6 members on the team
+- Members should bring different perspectives, backgrounds, and areas of expertise
+- Team typically includes someone from Product, Design, and Engineering - but there’s no hard and fast rule
+- Need to find the right people to bring perspective and focus to the current challenge.
 
 <br>
 <br>
