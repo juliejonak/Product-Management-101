@@ -421,14 +421,37 @@ For each of the scenarios listed below, think about how you would negotiate and 
 
 # Lesson Recap
 
-Watch []()
+Watch [the lesson recap.](https://youtu.be/v6Um5cJDT2g)
+
+You’ve reached the end of the Problem Identification lesson. We covered the following topics:
+
+- Active Listening
+- Story telling
+- Being Persuasive
+- Presentations
+- Negotiation
 
 <br>
+
+At this point, you should be able to:
+
+- Use active listening
+- Craft and deliver compelling stories
+- Be persuasive
+- Create presentations
+- Negotiate
+
 <br>
 
-### Further Readings
+You’ve also reached the end of this unit. Now that you’ve completed the Product Strategy Unit, you should be able to:
 
-[]()
+- Describe the role of a PM and a PM’s critical partners
+- Build roadmaps and write PRDs
+- Identify and size opportunities
+- Create a business case for a new product opportunity
+- Define the use cases of a product, including its KPIs
+- Build a business model for your new product
+- Put together and present a compelling product pitch to gain internal stakeholder buy-in
 
 <br>
 <br>
