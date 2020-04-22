@@ -181,30 +181,38 @@ Design Sprints are not just for Designers. The best Design Sprints occur when th
 
 # Exercise: Who Participates?
 
-Watch []()
+Set up the Team:
 
-<br>
+Our Grocery Store Chain is concerned about increased competition from online shopping and delivery services. Let's set up a Design Sprint team to work through this problem.
 
-### Further Resources
-
-[]()
-
-[]()
+Which functional areas do you want on your Design Sprint Team? Why?
 
 <br>
 <br>
 
 # Solution: Who Participates?
 
-Watch []()
+Watch [the solution walkthrough.](https://youtu.be/VuhxScrqVrc)
 
-<br>
+Things to Remember
+Even though it’s called a Design Sprint-- it’s not just for Designers. The best Design Sprints occur when there is good representation across a number of different functions, like:
 
-### Further Resources
+- Product
+- Design
+- Engineering
+- Data Science
+- Marketing
+- Support
+- Operations
+- Sales
+- Privacy
+- Legal
+- Leadership
+- Finance
 
-[]()
+...and many more.
 
-[]()
+The most important thing is to put together a team that is well suited to tackle the challenge at hand. You’ll want to identify individuals who can bring perspective and expertise for the given focus.
 
 <br>
 <br>
