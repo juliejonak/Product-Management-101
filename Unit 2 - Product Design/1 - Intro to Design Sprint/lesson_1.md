@@ -253,15 +253,108 @@ And some examples where a Design Sprint is unlikely to be helpful:
 
 # Planning a Design Sprint
 
-Watch []()
+Watch [The Sprint Master.](https://youtu.be/dUybdNulZow)
+
+The Sprint Master...
+
+- Creates the structure of the Sprint
+- Selects which methodologies will be used
+- Facilitates during the sprint
+- Keeps the team focused and on track
+
+<br>
+
+### Your First Sprint
+
+There’s a lot going on during a Sprint, so if possible I would recommend that you get more experience before you lead a Sprint on your own.
+
+Participate in a sprint to really get a better understanding of exactly how they work
+
+Shadow a Sprint Master as they are putting together and planning a Sprint
+
+Co-facilitate a sprint with another experienced Sprint Master
+
+When you have completed all three steps you are ready to facilitate a Design Sprint on your own.
+
+<br>
+
+Watch [planning a design sprint.](https://youtu.be/15zpdvzg4kk)
+
+There’s a lot of work that happens before a Design Sprint even starts to make sure that things go smoothly. Once you have a challenge selected, you can start planning a sprint.
+
+<br>
+
+### Challenge Statement
+
+Creating a challenge statement for a Design Sprint is a great way to help everyone understand the purpose of the sprint. The best challenge statements are:
+
+- Short and easy to understand
+- Something with urgency that needs to be delivered
+- Contain a timeframe
+- Are inspiring and get people excited
+
+<br>
+
+An easy format to follow is:
+
+> [ACTION] + [OUTPUT] + FOR [USER] + TO [PROBLEM] + BY [TIMEFRAME]
+
+<br>
+
+### The Sprint Team
+
+Watch [organizing the sprint team.](https://youtu.be/oTprbm5w_g0)
+
+Sprint Teams are ideally about 6 people.
+
+If more than that, split the group into smaller teams that work through exercises in parallel and then share with the whole group.
+
+You will want to identify people whose work is directly related to the sprint challenge.
+
+<br>
+
+#### Agenda
+
+Build a rough agenda for your sprint.
+
+Select methods for each phase (which we’ll discuss in the following lessons) that will provide insights for the problem you are trying to solve. Keep in mind the composition of your sprint team-- if people are more familiar with the problem space, it likely will make more sense to spend more time on ideation whereas if people are less familiar it would make sense to spend more time on understanding the problem space.
+
+<br>
+
+#### Space
+
+Secure a space for the sprint to take place, preferably somewhere away from distractions.
+
+Tons of space for everyone who is participating.
+
+Whiteboards or lots of wall space for posting stickies.
+
+<br>
+
+#### Supplies
+
+- Post it notes
+- Dry erase markers for whiteboard (multiple colors)
+- Sharpies
+- Pens
+- Paper
+- Giant post it notes (if no whiteboard)
+
+#### Logistics
+
+Send a calendar invite to the sprint team.
+
+Coordinate getting some light snacks / refreshments for each day.
+
+Arrive earlier to make sure that the room is arranged in a way that is conducive for collaboration (ex: a U shape around a whiteboard).
+
+Send a reminder the day before, with any pre-work that the team needs to do (like reviewing user research or trying competing products).
 
 <br>
 
 ### Further Resources
 
-[]()
-
-[]()
+[24 Design Sprint Tips](https://sprintstories.com/23-facilitation-tips-for-design-sprints-34d876aa5317)
 
 <br>
 <br>
