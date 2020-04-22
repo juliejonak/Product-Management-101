@@ -398,15 +398,29 @@ Design an app for consumers to make it easier to purchase items by next year
 
 # Icebreakers
 
-Watch []()
+Watch [What are Icebreakers?](https://youtu.be/NMujpkcADw8)
+
+If your Sprint team hasn’t worked together before, it’s a good idea to spend a little bit of time getting the group comfortable with each other. At a minimum, this means that each member should know every other member’s name and role.
+
+It can also be beneficial to do a quick icebreaker exercise, although you won’t want to spend too much time on this -- no more than 20 minutes. These are short exercises designed to get people to open up and connect with others. Two quick icebreakers you can use are:
+
+- `Two truths and a lie` - each team member introduces themselves and includes three facts about themselves. Two of them are true and one is false. The team must figure out which one is false.
+
+- `Superpower` - each team member introduces themselves along with the superpower that they are bringing to the team
+
+<br>
+
+### Practice
+
+Introduce yourself to the team and tell us the superpower you will bring to the Design Sprint.
+
+Write your introduction and include two truths and a lie about yourself.
 
 <br>
 
 ### Further Resources
 
-[]()
-
-[]()
+[45 Ideas for Ice Breakers](https://www.sessionlab.com/blog/icebreaker-games/)
 
 <br>
 <br>
