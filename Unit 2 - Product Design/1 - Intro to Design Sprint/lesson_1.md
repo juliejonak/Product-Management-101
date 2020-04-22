@@ -65,15 +65,31 @@ At the end of this lesson, you’ll be able to:
 
 # What is a Design Sprint
 
-Watch []()
+Watch [What is a Design Sprint?](https://youtu.be/MOLthh86cbQ)
+
+> “A Design Sprint is a time-constrained process that uses design thinking with the aim of reducing the risk when bringing a new product, service or a feature to the market.” -- Wikipedia
+
+A Design Sprint...
+
+- Allows the team to explore and learn without actually building
+- Means the process can fail early without serious consequences
+- Creates buy-in and ownership among the team
+
+<br>
+
+The Design Sprint process is highly customizable and can be adapted to the specifics of each challenge.
+
+A Design Sprint is a tool that allows you to relatively quickly explore new ideas and validate them. They work best when the sprint team is composed of cross functional members. There’s no one size fits all Design Sprint-- you should tailor it to meet the specific needs of your business, team, and users.
 
 <br>
 
 ### Further Resources
 
-[]()
+[Design Sprint Kit](https://designsprintkit.withgoogle.com/)
 
-[]()
+[The Design Sprint](https://www.gv.com/sprint/)
+
+[The Sprint Book](https://www.thesprintbook.com/how)
 
 <br>
 <br>
