@@ -177,7 +177,23 @@ Fill in the following table:
 
 # Exercise: Storytelling
 
-Watch []()
+Watch [the storytelling exercise prompt.](https://youtu.be/GvB4bhSzpS8)
+
+Create a story about you!
+
+- Why you are taking this nanodegree
+- What you are hoping to get out of it
+- What are some of the challenges you might encounter
+- Where you see yourself 1 year after completing this nanodegree
+
+Practice!
+
+Share with a friend! And at the end, ask your friend to:
+
+- Summarize the story
+- Explain how did the story made them feel
+- Describe what they thought was the most important takeaway
+- Reflect! How did your friend’s answers correspond to how you thought they would answer those questions?
 
 <br>
 <br>
