@@ -94,14 +94,13 @@ True - nonverbal behavior can say a lot about how an individual feels about a ce
 
 # Exercise: Active Listening
 
-Watch []()
+Watch [the Active Listening Exercise Prompt.](https://youtu.be/zv-S8gDz-jw)
 
 <br>
-<br>
 
-### Further Readings
+Identify 2 friends or colleagues that you could have a short 15 minute conversation with. 
 
-[]()
+Pick a topic and really try to understand their point of view on it. Practice your active listening skills to see if you can understand their perspective as if it were your own
 
 <br>
 <br>
