@@ -404,14 +404,17 @@ Fill in the following table with the matching Negotiation Style (Competitive, Co
 
 # Exercise: Negotiation
 
-Watch []()
+For each of the scenarios listed below, think about how you would negotiate and which strategies you would use.
+
+1. You just finished presenting your roadmap for next year. The Engineering VP has a lot of feedback that the plan doesn’t make sense given the current state of the product. What do you do?
 
 <br>
+
+2. Engineers have been ready to start working on a new feature for your product. However, the UX designs aren’t finalized and the designer wants to spend more time revising and iterating. However, both you and the engineers think that the designs look fine. What do you do?
+
 <br>
 
-### Further Readings
-
-[]()
+3. You and a counterpart PM both have a large P0 feature that needs to be delivered. However, between the two of you and your teams you’ll only be able to deliver 1 of the 2 P0 features-- the feature on your roadmap or the feature on your counterpart’s roadmap. What do you do?
 
 <br>
 <br>
