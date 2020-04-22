@@ -52,14 +52,42 @@ In this lesson, we’ll cover the following topics:
 
 # Listening
 
-Watch []()
+Watch [What is Active Listening?](https://youtu.be/G5K3ieYyr5c)
+
+Listening is important! You need to listen in order to understand other perspectives and needs. Listening also builds relationships, promotes understanding, and builds empathy. Additionally, it also helps to save time and make sure things are done right the first time.
+
+<br>
+
+Active listening is:
+
+- More than just listening
+- Being an engaged listener
+- Fully understanding other points of views
+- Not imposing your own views
+
+<br>
+
+Tips for active listening:
+
+- Make eye contact and smile
+- Provide encouragement
+- Don’t interrupt
+- Ask clarifying questions when needed
+- Paraphrase
+
+<br>
+
+<details>
+<summary> True or false: Active listening involves interpreting things that may not have been directly said. </summary>
+True - nonverbal behavior can say a lot about how an individual feels about a certain topic.
+</details>
 
 <br>
 <br>
 
 ### Further Readings
 
-[]()
+[How to Practice Active Listening](https://www.verywellmind.com/what-is-active-listening-3024343)
 
 <br>
 <br>
