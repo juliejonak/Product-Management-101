@@ -361,30 +361,37 @@ Send a reminder the day before, with any pre-work that the team needs to do (lik
 
 # Exercise: Challenge Statement
 
-Watch []()
+Grocery Store Chain Challenge Statement
 
-<br>
+We need to help everyone on the team understand why we are doing this Design Sprint. Let's write a challenge statement.
 
-### Further Resources
+Write a challenge statement for the Grocery Store Chain Design Sprint using the format:
 
-[]()
-
-[]()
+> [ACTION] + [OUTPUT] + FOR [USER] + TO [PROBLEM] + BY [TIMEFRAME]
 
 <br>
 <br>
 
 # Solution: Challenge Statement
 
-Watch []()
+Watch [the solution walkthrough.](https://youtu.be/cXyKlBpWbYQ)
+
+<br>
+
+Grocery Store Chain Challenge Statement
+Model:
+[ACTION] + [OUTPUT] + FOR [USER] + TO [PROBLEM] + BY [TIMEFRAME]
+
+Statement:
+Design an app for consumers to make it easier to purchase items by next year
 
 <br>
 
 ### Further Resources
 
-[]()
+[Problem Statement](https://thoughtbot.com/product-design-sprint/guide/understand/problem-statement)
 
-[]()
+[Why Problem Framing Before a Design Sprint?](https://medium.com/design-sprint-academy/design-sprints-picking-your-battles-45d30f9b06ce)
 
 <br>
 <br>
