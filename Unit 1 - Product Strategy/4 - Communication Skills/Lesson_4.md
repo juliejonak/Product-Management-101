@@ -107,14 +107,70 @@ Pick a topic and really try to understand their point of view on it. Practice yo
 
 # Storytelling
 
-Watch []()
+Watch [What is storytelling?](https://youtu.be/S52zhLD1Sxo)
+
+PMs are storytellers. Stories allow you to express your vision and thoughts through more compelling, tangible narratives. Storytelling makes it easier for people to understand and relate to what you are explaining.
 
 <br>
+
+The elements of a story are...
+ 
+- `Hero:` 
+
+- `Goal:` 
+
+- `Villain:` 
+
+- `Sidekick:` 
+
+- `Plot:` 
+
+<br>
+
+Watch [How to Build a Story.](https://youtu.be/cjj_mobCAVE)
+
+Key things to keep in mind when building stories:
+
+- Focus on the problem from the hero’s perspective
+- Start by writing the ending first
+- The more personal and relatable the story, the more memorable it will be, and the more engaged the audience will be.
+- Details and specifics make the story feel more real
+
+<br>
+<br>
+
+Fill in the following table:
+
+| Element | Definition |
+| ------- | ---------- |
+| Hero | ? |
+| Goal | ? |
+| Villain | ? |
+| Sidekick | ? |
+| Plot | ? |
+
+<br>
+
+<details>
+<summary> The solution table is... </summary>
+
+| Element | Definition |
+| ------- | ---------- |
+| Hero | The main character - your user |
+| Goal | What the user is trying to accomplish |
+| Villain | The problem that is preventing the user from reaching their goal |
+| Sidekick | A companion that helps the hero reach their goal -- your product |
+| Plot | A detailed account of how the hero and the sidekick defeat their villain and read their goal |
+
+</details>
+
 <br>
 
 ### Further Readings
 
-[]()
+[Storytelling that Moves People](https://hbr.org/2003/06/storytelling-that-moves-people)
+
+[How Pixar's 22 Storytelling Rules Apply to Your Business](https://fizzle.co/sparkline/pixars-22-rules-of-storytelling)
 
 <br>
 <br>
