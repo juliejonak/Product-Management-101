@@ -243,14 +243,67 @@ This will also help you to build credibility with the audience-- showing that yo
 
 # Presentations
 
-Watch []()
+Watch [Why Presentations Matter.](https://youtu.be/dx3rd6Ngve0)
+
+As a PM, you will need to be constantly communicating and presentations are a great tool to share your ideas. But it’s important to learn how to create presentations that can effectively communicate your message.
+
+### Presentation Structure
+
+- `Introduction: “This is what I’m going to tell you”` and background info
+
+
+- `Body: “This is what we’re here to talk about”`
+
+- `Conclusion: “This is what I just told you”` and next steps
 
 <br>
+
+### Slide Layout
+
+- `Keep slides simple:`
+
+- `One takeaway per slide:`
+
+- `Limit the amount of text on each slide (no paragraphs):`
+
+- `Use visuals carefully:`
+
+<br>
+<br>
+
+Watch [Presenting Tips.](https://youtu.be/NSnc6KDbIlQ)
+
+- `Presentation needs to stand on its own:` 
+
+- `Rehearse:` 
+
+- `Pre-brief key stakeholders before big presentations:` 
+
+<br>
+
+<details>
+<summary> True or false: It’s better to have lots of slides with less information than a few slides with tons of information. </summary>
+True - you want to make sure that there’s one key point per slide, which means that you might end up with a lot of slides instead of a few slides with many key points.
+</details>
+
+<br>
+
+<details>
+<summary> True or false: You should use lots of animations and transition effects in presentations in order to keep people’s attention. </summary>
+False - you want to use animations and transition effects carefully to make sure that they are adding to helping to express your idea-- not to make your presentation look more interesting
+</details>
+
 <br>
 
 ### Further Readings
 
-[]()
+[Top 10 Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
+
+[21 Examples of Great Presentation Design](https://blog.hubspot.com/blog/tabid/6307/bid/6012/17-examples-of-great-presentation-design.aspx)
+
+[Quite Possibly the World's Worst PowerPoint Presentation Ever](https://www.apa.org/gradpsych/2012/01/worst-powerpoint-ever.pdf)
+
+[Bad PowerPoint Examples You Should Avoid at All Costs](https://24slides.com/presentbetter/bad-powerpoint-examples-you-should-avoid/)
 
 <br>
 <br>
