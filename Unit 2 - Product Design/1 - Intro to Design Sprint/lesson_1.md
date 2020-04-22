@@ -97,15 +97,41 @@ A Design Sprint is a tool that allows you to relatively quickly explore new idea
 
 # Phases of a Design Sprint
 
-Watch []()
+Watch [the Phases of a Design Sprint.](https://youtu.be/K3yLJNZLJLs)
+
+There are six phases of a Design Sprint.
+
+1. `Understand`
+Create a shared understanding of the problem space, the user, the competition, and why it all matters. Align as a team on a focus moving forward for the rest of the sprint
 
 <br>
 
-### Further Resources
+2. `Define`
+Start by focusing on where you want to end. By setting goals you can work backwards to understand what needs to happen in order to get there.
 
-[]()
+<br>
 
-[]()
+3. `Sketch`
+Ideate. Start diverging and exploring lots of different solutions.
+
+<br>
+
+4. `Decide`
+Bring it all back together and decide on one idea to take through prototyping and validation
+
+<br>
+
+5. `Prototype`
+Map out and build a prototype of your idea
+
+<br>
+
+6. `Validate`
+Check to make sure that your idea is solving a real user need… and that it can be built!
+
+<br>
+
+Each phase has a set of tools that can be used to facilitate reaching the goal of each phase. Remember, it’s not necessary to use every tool for a given phase. Instead you should focus on picking the best tool for the problem you are trying to tackle and the composition of your sprint team. We’ll learn more about the tools you can use in the lessons for each phase.
 
 <br>
 <br>
