@@ -207,14 +207,36 @@ Share with a friend! And at the end, ask your friend to:
 
 # Persuasive Messages
 
-Watch []()
+Watch [Being Persuasive.](https://youtu.be/fs3agHWuTFE)
+
+Persuasion is important because you work with lots of people and need to align the team needs to be aligned-- but you don’t have direct authority over everyone. Instead you have to convince them!
+
+- `Ethos: Credibility:` 
+
+- `Logos: Logic:` 
+
+- `Pathos: Emotion:` 
+
+<br>
+
+<details>
+<summary> True or false: When objections arise you should address them as quickly as possible and then move on to your next point. </summary>
+
+False! You should address objections without being rushed to really understand the viewpoint and its merits. 
+
+This will also help you to build credibility with the audience-- showing that you care about their opinion and are interested in getting to the best solution.
+</details>
 
 <br>
 <br>
 
 ### Further Readings
 
-[]()
+[The Science of Persuasion](https://buffer.com/resources/the-science-of-persuasion)
+
+[9 Science-Backed Ways to Become a Better Leader](https://www.inc.com/jeff-haden/want-to-be-exceptionally-persuasive-9-science-backed-ways-to-become-a-better-lea.html)
+
+[21 Principles of Persuasion](https://www.forbes.com/sites/jasonnazar/2013/03/26/the-21-principles-of-persuasion/)
 
 <br>
 <br>
