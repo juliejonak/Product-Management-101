@@ -310,7 +310,21 @@ False - you want to use animations and transition effects carefully to make sure
 
 # Exercise: Presentations
 
-Watch []()
+Watch [Presentation Exercise Prompt.](https://youtu.be/6XEWYlm2otU)
+
+Create a presentation about "Why you should avoid using your smartphone before bed."
+
+- [ ] At least 10 slides
+- [ ] What are the key takeaways
+- [ ] What visuals can you use to support your presentation
+
+Practice.
+
+Present to a friend:
+
+- Ask for feedback
+- Were there any parts that were confusing?
+- What was the most important takeaway?
 
 <br>
 <br>
