@@ -54,26 +54,45 @@ In this lesson, we’ll cover the following topics:
 
 Watch [What is Active Listening?](https://youtu.be/G5K3ieYyr5c)
 
-Listening is important! You need to listen in order to understand other perspectives and needs. Listening also builds relationships, promotes understanding, and builds empathy. Additionally, it also helps to save time and make sure things are done right the first time.
+Listening is important! You need to listen in order to understand other perspectives and needs. 
+
+Listening also builds relationships, promotes understanding, and builds empathy. Additionally, it also helps to save time and make sure things are done right the first time.
 
 <br>
 
 Active listening is:
 
-- More than just listening
-- Being an engaged listener
-- Fully understanding other points of views
-- Not imposing your own views
+- `More than just listening:` listening is important but oftentimes, communication is not just about what was _said_. Listen to how it was said and read between the lines, by interpreting body language. 
+
+- `Being an engaged listener:` pay attention to the person speaking and ensure they know you're fully listening - without the distraction of texts or emails.
+
+- `Fully understanding other points of views:` it's not just about listening. You don't have to agree with other perspectives, but you do need to understand them.
+
+- `Not imposing your own views:` you're listening, not conveying judgement or alternative views. Your sole goal is to understand the other person.
+
+<br>
+
+Why is active listening important?
+
+It helps to build strong relationships by building empathy for the other person's perspective and showing you care about their thoughts. This can go a long way towards improving relationships.
+
+It promotes understanding. You understand the context behind their perspective and how they arrived at a decision. This is a much deeper level of understanding and can help you anticipate how they might react to things in the future.
 
 <br>
 
 Tips for active listening:
 
-- Make eye contact and smile
-- Provide encouragement
-- Don’t interrupt
-- Ask clarifying questions when needed
-- Paraphrase
+- `Make eye contact and smile:` you want the other person to feel relaxed and comfortable when talking to you. These actions show you are listening.
+
+- `Provide encouragement:` acknowledge that you're hearing what the other person is saying, by nodding or making small comments like "Yes", "Mhmm" or "That makes sense".
+
+- `Don’t interrupt:` give the other person the space to complete their thoughts. Make sure you hear and fully understand what they're saying.
+
+- `Ask clarifying questions when needed:` if you aren't quite following what they're saying, wait until there's a pause and then ask them if they can clarify. Phrase your questions in a way that avoids judgement. The best types of questions are open-ended where you can better understand their point of view.
+
+- `Paraphrase:` it's helpful to mirror back what you just heard. This makes sure you're really understanding what the person is saying and gives them an opportunity to correct you if you misheard. 
+
+    Try saying something like, _"Just to make sure I'm understanding, I think that you said [XYZ]. Did I get that right?"_ 
 
 <br>
 
@@ -109,32 +128,69 @@ Pick a topic and really try to understand their point of view on it. Practice yo
 
 Watch [What is storytelling?](https://youtu.be/S52zhLD1Sxo)
 
-PMs are storytellers. Stories allow you to express your vision and thoughts through more compelling, tangible narratives. Storytelling makes it easier for people to understand and relate to what you are explaining.
+PMs are storytellers. Storytelling is a tool that allows you to express your vision and thoughts through more compelling, tangible narratives. 
+
+Storytelling makes it easier for people to understand and relate to what you are explaining. It explains the what and why of what is happening. They explain the rationale behind what's going on, to give the audience a deeper understanding of the motives. 
+
+Stories have an emotional element because as you tell the story, audiences develop and emotional attachment to the characters of that story. It helps invest them in the outcome of the story.
+
+They can also build excitement around solving the problem. Storytelling is a core role of the PM. You'll tell stories all the time by explaining the roadmap to shareholders, the company and building user stories. They're essential for inspiring the team.
 
 <br>
 
 The elements of a story are...
  
-- `Hero:` 
+- `Hero:` This is your user. Who they are, what they care about, and their background.
 
-- `Goal:` 
+- `Goal:` This is what the hero is trying to accomplish.
 
-- `Villain:` 
+- `Villain:` But before they can achieve their goal, they encounter a problem that prevents them from getting to their goal.
 
-- `Sidekick:` 
+- `Sidekick:` The sidekick steps in to help. This is your product.
 
-- `Plot:` 
+- `Plot:` This describes how the hero and the sidekick defeat the villain to achieve their goal.
 
 <br>
 
-Watch [How to Build a Story.](https://youtu.be/cjj_mobCAVE)
+What else goes into crafting a story?
 
-Key things to keep in mind when building stories:
+- `Start with the big picture:` this provides context for the audience, so you need to know who the audience is and what they care about. Also think about how you want them to feel at the end of the story and what actions you want them to take, if any.
 
-- Focus on the problem from the hero’s perspective
-- Start by writing the ending first
-- The more personal and relatable the story, the more memorable it will be, and the more engaged the audience will be.
-- Details and specifics make the story feel more real
+- `What's the problem?` Start by explaining how we got here and why this problem arose in the first place. Touch on why this is an important problem to solve and what's currently preventing your user from reaching their goal. Start by writing the ending first. Focus on the problem from the hero’s perspective.
+
+- `How the hero and your product get to the resolution:` you want to include enough imagery and detail so the audience gets an image in their mind. The more personal you can make it, the better. How does your product help the user? How is it any better than other options available? 
+
+- `So what? Describe the impact and conclusion:` How is the problem ultimately solved? Why does it matter that it was solved? What does this mean for the user?
+
+<br>
+
+Remember to `keep it simple`. The simpler your story, the more it will communicate well to your audience. Ask yourself how would you tell the same story in just half the time? This helps identify areas you can cut while still being effective.
+
+`Make it memorable` so people can remember the important parts of your story. Make it more personal and relatable so there are emotional moments that people might have experienced themselves.
+
+`Show, don't tell.` Show why it matters, rather than explaining what the product does in detail. Showing its impact and how people would use it is more impactful. You could potentially show mocks or demos to help.
+
+`Practice` many times, so you can tell the story without having to refer to any notes. It doesn't mean you've memorized it word by word -- rather, you're so familiar with the key points, it's easy to share in an engaging way.
+
+<br>
+
+Watch [Storytelling examples](https://youtu.be/cjj_mobCAVE)
+
+Let's walk through two examples of a story.
+
+> "Today, people are busier than ever and they're constantly on the go. We have an opportunity to build an app that allows customers to order ahead People will be able to place their orders ahead of time and the order will be ready, waiting for them when they show up. This is super convenient because they will be able to just walk in and grab their order on the way to their destination during their busy day."
+
+Another way we could tell this story might look like...
+
+> "John is a coffee person and he just isn't really awake in the morning until he's had a cup of coffee. But the morning is usually a pretty chaotic time for John, between waking up, getting ready for work, walking the dog and getting into the office early for conference calls with a team that's a few timezones ahead.
+>
+> This means that John usually doesn't have time for coffee in the morning, and the first few meetings of the day end up being a little rough as a result. John recently heard about a new app that lets you order ahead. So, one morning John decided to try it out and place an order as he was leaving his house for the office. He was able to pick it up at the store that's right across the street from his office. He jsut walked into the store and his order of coffee was there, waiting for him.
+>
+> So, he made it into the office, with his coffee in hand and jumped right into his first meeting of the day, energized and ready to go."
+
+<br>
+
+Both stories explained similar things, but the second example was more interesting and memorable.
 
 <br>
 <br>
