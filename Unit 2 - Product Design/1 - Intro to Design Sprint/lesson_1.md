@@ -138,15 +138,29 @@ Each phase has a set of tools that can be used to facilitate reaching the goal o
 
 # Design Sprint Outcomes
 
-Watch []()
+Watch [the Design Sprint Outcomes.](https://youtu.be/d04iNZ1Rne4)
+
+At the end of a Design Sprint, you’ll have:
+
+- a working prototype for your concept
+- insights and validation from users on your concept
+- tons of artifacts
+- list of other ideas that can be explored
 
 <br>
 
-### Further Resources
+What happens after a Design Sprint? It really depends… But here are a few possibilities:
 
-[]()
+- More testing and iteration
+- The concept will go to Design to be more fully fleshed out
+- The concept will go to Engineering to build
+- Make a case with leadership to invest more resources in bringing concept to market
+- The concept is abandoned because it doesn’t address a user need
+and lots more
 
-[]()
+<br>
+
+Before the sprint starts, it’s a good practice to plan what the next steps afterward will be. But it’s also important to acknowledge and respond appropriately based on the outcome of the sprint.
 
 <br>
 <br>
