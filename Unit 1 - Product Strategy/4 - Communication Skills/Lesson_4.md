@@ -267,11 +267,40 @@ Watch [Being Persuasive.](https://youtu.be/fs3agHWuTFE)
 
 Persuasion is important because you work with lots of people and need to align the team needs to be aligned-- but you don’t have direct authority over everyone. Instead you have to convince them!
 
-- `Ethos: Credibility:` 
+<br>
 
-- `Logos: Logic:` 
+### Types of Persuasion
 
-- `Pathos: Emotion:` 
+- `Ethos: Credibility:` your credibility as an individual grows when you're qualified on a topic or after spending time working with a team, earning their trust. Your personal character, background and education can all help earn that trust more quickly.
+
+- `Logos: Logic:` using logic by building an argument with facts and data - truths that can't be refuted.
+
+- `Pathos: Emotion:` using emotion to make your audience feel a certain way, that aligns with the product's goals.
+
+<br>
+
+These types of persuasion are interconnected, not standalone. The best arguments use a combination of all three.
+
+
+<br>
+
+How can you build persuasive messages?
+
+First, you need to `know your audience` to understand what they care about, so you can tailor your message to address those concerns.
+
+`Pick a viewpoint`, decisively, to explain why that's the best outcome. Too often, people try to explain all the options, which dilutes the message and creates confusion around your core recommendation.
+
+`Know the other perspectives` so you're ready to address them, if they come up. Understanding the pros and cons of each is important.
+
+`Be data driven` by supporting your argument with key data points - no need to go over the top.
+
+`Discuss objections` when they come up, instead of dismissing them. That can make you seem defensive. If you discuss the merits of the other viewpoints, you can guide the group to consensus around them. This shows you can about their viewpoints while also arriving at the best possible solution, whether or not it's your own.
+
+`End with a call to action` when wrapping up, so everyone knows what the agreed upon next steps are.
+
+<br>
+
+Remember, you won't win every discussion, but that's okay. Each time builds confidence in your ability to prepare.
 
 <br>
 
