@@ -242,11 +242,11 @@ Some good examples of design principles for Spotify are content first and do les
 
 # Exercise: Design Principles
 
-Watch []()
+Design Principles for the Grocery Store Chain Product
 
-### Further Reading
+Let's identify the design principles for the Grocery Store Chain product. Spend 5-10 minutes brainstorming about the guiding principles that matter most when trying to address the Grocery Store Chain's challenges with online shopping and delivery services.
 
-[]()
+What is most important for this project?
 
 <br>
 <br>
