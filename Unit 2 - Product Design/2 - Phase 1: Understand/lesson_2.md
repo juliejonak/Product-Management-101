@@ -268,11 +268,49 @@ When you are writing design principles with your team, you should capture each p
 
 # Future Press Release
 
-Watch []()
+Watch [writing a future press release.](https://youtu.be/DBUwtP2OuU8)
+
+Writing a future press release or review about your product is a great way to get everyone on the team aligned on the outcomes you are trying to achieve. They also can be fun to write. The main difference between a press release and a review is that a press release is being told from your point of view while a review would be written from the perspective of a third party.
+
+When you’re writing a press release or review it will be important to include the following components
+
+- Name of the product (although this doesn’t have to be final and can change)
+- Who is the target user?
+- What problem does your product solve?
+- How does your product solve this problem?
+- Why your team built this
+- Why should users care?
+- How do users react to your product?
+- What sets this product apart from others?
+- How can users get the product
+
+<br>
+
+- Write this for an external audience that is not familiar with the space
+
+- When talking about the solution focus on what the product does rather than how it does it
+
+`WHAT`: Takes amazingly clear pictures at night
+
+`HOW`: captures several images on shutter press with varying exposure lengths and processes images through a machine learning algorithm to compose rich, detailed images in low light conditions
+
+<br>
+
+<details>
+<summary></summary>
+False - While your future press release will probably have some similarities it will be best to write a separate press release as it gets closer to launch. The future press review is a method in the design sprint intended to align your team on the outcomes of the solution you’ll build.
+</details>
+
+<br>
+
+<details>
+<summary>Write the headline for a press release for a product that automatically replies to emails about scheduling.</summary>
+Make sure that the headline will capture people’s attention and does a good job conveying the main value or differentiator of your product.
+</details>
 
 ### Further Reading
 
-[]()
+[New Feature Release for Google Wifi](https://www.blog.google/products/google-wifi/google-wifis-network-check-now-tests-multiple-device-connections/)
 
 <br>
 <br>
