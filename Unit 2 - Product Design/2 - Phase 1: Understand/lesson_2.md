@@ -317,22 +317,26 @@ Make sure that the headline will capture people’s attention and does a good jo
 
 # Exercise: Future Tweet
 
-Watch []()
+Future Tweet for Grocery Store Chain Product
 
-### Further Reading
-
-[]()
+Let's write a Tweet to tell everyone about our product. Remember, a Tweet needs to be fewer than 140 characters.
 
 <br>
 <br>
 
 # Solution: Future Tweet
 
-Watch []()
+Watch [the future tweet solution walkthrough.](https://youtu.be/lOtya1_FbkY)
+
+An example tweet might be: 
+
+> Your groceries, now on autopilot. Never wait in checkout line ever again. Your groceries are ready as soon as you walk in.
+
+Future Press Release / Review is a method that allows you to create definition of what the success of your product looks like in the future. When writing these types of statements, it’s important to address key topics like the problem you are solving, who you are solving the problem for, the solution you arrived at, and why this matters.
 
 ### Further Reading
 
-[]()
+[Innovate like Amazon with The Future Press Release](http://the-amazon-way.com/blog/future-press-release/)
 
 <br>
 <br>
