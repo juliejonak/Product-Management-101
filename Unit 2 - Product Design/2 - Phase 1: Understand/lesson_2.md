@@ -144,11 +144,17 @@ How would you fill in this chart? Use Goal, Signal or Metric.
 
 # Exercise: HEART Framework
 
-Watch []()
+Using the HEART Framework for the Grocery Store Chain
 
-### Further Reading
+Let's apply the HEART Framework to what we've learned about the Grocery Store Chain's problem with online shopping and delivery services.
 
-[]()
+- [ ] Make a copy of the [HEART Framework Template](https://docs.google.com/document/d/1pxOQgdTUcpd20f_Fov8yxZ2VkbmEoG_GopcvSPINfaE/copy)
+
+- [ ] Write at least two user centered goals
+
+- [ ] Identify which signals will affect reaching each goal
+
+- [ ] Create metrics to measure the signals
 
 <br>
 <br>
