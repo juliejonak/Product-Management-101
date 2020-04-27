@@ -58,11 +58,86 @@ At the end of this lesson, you’ll be able to:
 
 # Define Success Metrics
 
-Watch []()
+Watch [Defining Success Metrics.](https://youtu.be/ffO8nPiWytA)
 
-### Further Reading
+The HEART framework is a user-centered method to define metrics that measure the quality of the user experience. It’s simple and easy to understand and can help with decision making in later phases. 
 
-[]()
+There are five dimensions:
+
+- `Happiness` - user attitude towards your product
+
+- `Engagement` - how users are using the product in terms of frequency or 
+number/types of features used
+
+- `Adoption` - how many new users start using your product
+
+- `Retention` - how many users keep coming back
+
+- `Task Success` - ability for users to complete critical tasks in order to 
+be successful with the product
+
+<br>
+
+Across these dimensions, you will then want to start by identifying goals, then signals, and finally metrics to measure how well your product is doing.
+
+A `goal` is something the user is trying to do or something you are trying to help them to do
+
+A `signal` is a change in user behavior that indicates that the user is achieving the goal
+
+A `metric` is a way to measure signal and quantify how much user behavior has changed
+
+Keep in mind that it’s ok for goals to have multiple signals and metrics. 
+
+It’s also not necessary to have metrics for every dimension. It’s more important to pick things that are relevant to the problem you are trying to solve.
+
+<br>
+
+### The HEART Framework
+
+| Topic | Goal | Signals | Metrics |
+| ----- | ---- | ------- | ------- |
+| Happiness | ? | ? | ? |
+| Engagement | ? | ? | ? |
+| Adoption | ? | ? | ? |
+| Retention | ? | ? | ? |
+| Task success | ? | ? | ? |
+
+<br>
+<br>
+
+How would you fill in this chart? Use Goal, Signal or Metric.
+
+| Stickie | Category |
+| ------- | -------- |
+| Upload a photo | ? |
+| Backup photos | ? |
+| Photos uploaded per user per day | ? |
+| Average play time per user per day | ? |
+| Listen to a song | ? |
+| Click play button | ? |
+| Tickets purchased per session | ? |
+| Click buy button | ? |
+| Users arriving at final destination per day | ? |
+| Book a plane ticket | ? |
+
+<br>
+
+<details>
+<summary> The answer chart... </summary>
+| Stickie | Category |
+| ------- | -------- |
+| Upload a photo | Signal |
+| Backup photos | Goal |
+| Photos uploaded per user per day | Metric |
+| Average play time per user per day | Metric |
+| Listen to a song | Goal |
+| Click play button | Signal |
+| Tickets purchased per session | Metric |
+| Click buy button | Signal |
+| Users arriving at final destination per day | Metric |
+| Book a plane ticket | Goal |
+
+</details>
 
 <br>
 <br>
