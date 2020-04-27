@@ -253,11 +253,15 @@ What is most important for this project?
 
 # Solution: Design Principles
 
-Watch []()
+Watch [the design pricinples solution walkthrough.](https://youtu.be/il8wAn9UtZg)
+
+Design principles are guidelines that should craft how you think about building your product. By aligning on design principles with your team, it also makes decision making easier because you can frame questions in the context of your design principles.
+
+When you are writing design principles with your team, you should capture each principle with a word or two and a short explanation that explains the intent in more detail. When you refer to your design principles later you can just refer to the short version.
 
 ### Further Reading
 
-[]()
+[Design Principles](https://principles.design/)
 
 <br>
 <br>
