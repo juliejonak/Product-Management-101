@@ -124,6 +124,7 @@ How would you fill in this chart? Use Goal, Signal or Metric.
 
 <details>
 <summary> The answer chart... </summary>
+
 | Stickie | Category |
 | ------- | -------- |
 | Upload a photo | Signal |
@@ -196,11 +197,45 @@ The solution template might look like so:
 
 # Design Principles
 
-Watch []()
+Watch [Design Principles.](https://youtu.be/X30Doxbcl_k)
 
-### Further Reading
+Design principles guide the way that you think about building your product. Design principles are usually short just a word or two, followed by a brief explanation.
 
-[]()
+<details>
+<summary>Which of the following is an example of good design principle? "Use the company colors", "Minimize the number of clicks", "Use animations at each success events" </summary>
+
+Minimize the number of clicks.
+</details>
+
+<br>
+
+
+<details>
+<summary>True or false: Design Principles should be lengthy in order to capture the full intent.</summary>
+
+False - Design Principles should be short and easy to understand.
+</details>
+
+<br>
+
+<details>
+<summary>What were the design principles for Google Search?</summary>
+Some good examples of design principles for Google Search would be fast, simple, and helpful.
+</details>
+
+<br>
+
+<details>
+<summary>What were the design principles for the iPhone?</summary>
+Some good examples of design principles for the iPhone are touch first, works well with other Apple.
+</details>
+
+<br>
+
+<details>
+<summary>What were the design principles for the Spotify?</summary>
+Some good examples of design principles for Spotify are content first and do less.
+</details>
 
 <br>
 <br>
