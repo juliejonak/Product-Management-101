@@ -343,7 +343,23 @@ Future Press Release / Review is a method that allows you to create definition o
 
 # Lesson Recap
 
-Watch []()
+Watch [the lesson recap.](https://youtu.be/d9nE40eoSJs)
+
+You’ve reached the end of the Phase 2: Define lesson. We covered the following topics:
+
+- The Define phase of the Design sprint and the importance of focusing on desired outcomes
+- Success Metrics
+- Design Principles
+- Future Press Release
+
+
+At this point, you should be able to:
+
+- Describe the Define phase of the Design Sprint
+- Define success metrics using the HEART framework
+- Explain the difference between goals, signals, and metrics
+- Craft Design Principles
+- Write a Future Press Release
 
 
 <br>
