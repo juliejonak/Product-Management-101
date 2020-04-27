@@ -161,11 +161,35 @@ Let's apply the HEART Framework to what we've learned about the Grocery Store Ch
 
 # Solution: HEART Framework
 
-Watch []()
+Watch [the solution walkthrough.](https://youtu.be/qO5y1sokvY4)
+
+Success metrics are important because they allow you to quantify how successful your project is. By identifying your success metrics upfront, it sets a clear target for the team to understand what is considered success.
+
+Google’s HEART framework is a user-centered system that helps you to create metrics based on user goals.
+
+<br>
+
+The solution template might look like so:
+
+<br>
+
+| Topic | Goal | Signals | Metrics |
+| ----- | ---- | ------- | ------- |
+| Happiness | Efficient pick up | Waiting for pick up | Average wait time |
+| Engagement | Buy products | Product added to cart | Average number of products purchased per cart |
+| Adoption | Share with friends | Refer a friend | Referral sign up rate |
+| Retention | Automatic ordering of basics | Opt in to auto orders | Average number of auto ordered items per user per month. Percentage of users with auto-order |
+| Task success | Find item easier later | Item added to shopping list | Percentage of users with items on list |
+
+<br>
 
 ### Further Reading
 
-[]()
+[Measuring the User Experience on a Large Scale: User Centered Metrics for Web Applications](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36299.pdf)
+
+[How to Choose the Right UX Metrics for Your Product](https://www.dtelepathy.com/ux-metrics/)
+
+[Startup Metrics for Pirates - AARRR](https://www.pierrelechelle.com/aarrr-pirate-metrics)
 
 <br>
 <br>
