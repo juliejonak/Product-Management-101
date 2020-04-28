@@ -200,44 +200,75 @@ After all sketches have been shared, giving 3 dot stickers to each team member a
 
 # Solution Sketch
 
-Watch []()
+Watch [Solution Sketching.](https://youtu.be/qwqg4cvSbUc)
 
-### Further Reading
+- Each sprint member should pick one idea and sketch it out in more detail
+- Your solution sketch should contain at least 3 frames that show progression through different states
+- You can use words, colors, pictures as needed to help reinforce your idea
 
-[]()
+<br>
+
+<details>
+<summary>True or false: A Solution Sketch should highlight 3 different ideas
+</summary>
+False. A Solution Sketch should depict a single idea. However it should contain at least 3 frames that show the idea in a progression of different states
+</details>
+
+<br>
+
+<details>
+<summary>True or false: Solution Sketches should be quick
+</summary>
+False. Solution Sketches are more detailed and will take longer to complete. You should optimize for the quality of your sketch
+</details>
 
 <br>
 <br>
 
 # Exercise: Solution Sketch
 
-Watch []()
+Exercise: Grocery Store Chain Product Solution Sketch
 
-### Further Reading
+Let's take the best idea from the Crazy 8's exercise and turn it into a more detailed sketch.
 
-[]()
+Create a more detailed sketch that expands on the ideas in the Crazy 8's sketch.
+
+- [ ] Select the most promising sketch from the Grocery Store Chain Crazy 8's Exercise
+- [ ] Spend 30 minutes creating a detailed sketch
+- [ ] Include at least three frames to show a user's progression
+- [ ] Add annotations as needed
 
 <br>
 <br>
 
 # Solution: Solution Sketch
 
-Watch []()
+Watch [the solution sketch walkthrough.](https://youtu.be/8u9MtRkbONg)
 
-### Further Reading
+Solution sketching is a way to explore ideas in more depth. A solution sketch should be high quality and will take more time to complete. It should also include at least 3 frames that show how a user navigate through and interact with the concept.
 
-[]()
+Solution sketches other people to better understand the specifics of the idea, but also starts to stress test the idea to see how it may or may not work well. Once you start sketching a solution out in more detail you may realize there might be more things required than what you originally thought.
 
 <br>
 <br>
 
 # Lesson Recap
 
-Watch []()
+Watch [the lesson recap.](https://youtu.be/nLmWhh5rjFo)
 
-### Further Reading
+You’ve reached the end of the Phase 3: Sketch. We covered the following topics:
 
-[]()
+The Sketch phase of the Design sprint
+- Crazy 8’s
+- Voting
+- Solution Sketches
+
+At this point, you should be able to:
+
+- Describe the Define phase of the Sketch Sprint
+- Use the Crazy 8's method to brainstorm ideas through sketching
+- Facilitate a process for sharing and voting on sketches within the team
+- Create a more detailed, in-depth Solution Sketch that contains at least 3 frames
 
 <br>
 <br>
