@@ -123,33 +123,120 @@ A sample response might look like...
 
 # Decision Matrix
 
-Watch []()
+Watch [Decision Matrix.](https://youtu.be/feTebgZqKA0)
 
-### Further Reading
+A decision matrix allows you to visualize the trade offs between different ideas when comparing across two criteria.
 
-[]()
+Ideas generally worth pursuing will be high value & low effort or high value & high effort
+
+Ideas that are low value & high effort are generally not worth pursuing unless value increases or effort decreases in the future
+
+Ideas that may not make sense to pursue now, may be worth pursuing later if the value of the idea increase or the effort to pursue the idea decreases
+
+<br>
+
+<details>
+<summary>Which ideas are worth pursuing?</summary>
+High value/high effort and high value/low effort ideas are the best ideas to pursue
+</details>
+
+<br>
+
+![Sample Decision Matrix](./Sample_Decision_Matrix.png)
+
+<br>
+
+<details>
+<summary>Which of the ideas in the above matrix is the best one to move forward with in the Design Sprint?</summary>
+B! B provides a lot of user value, as well as a decent amount of effort (which means it will be harder for others to duplicate)
+
+<br>
+
+D might sometimes be correct if resources are tight because D provides high user value and not much effort. The downside is that low effort ideas can also be duplicated by others quickly.
+
+<br>
+
+Even though C doesn’t require much effort, it does not provide much user value. And A doesn't provide much value _and_ is a lot of effort.
+
+</details>
+
+<br>
+
+Decision Matrix Practice
+
+In the next two quizzes we will consider four different product ideas.
+
+- A feature that screens calls from suspected scammers
+- An app that alerts you when your shoelaces are untied
+- A feature that allows you to unsend an email up to one minute after you sent it.
+- An app that lets you play 10 different animal sounds
+
+<br>
+
+<details>
+<summary>How would you categorize the four product ideas?</summary>
+
+| Idea | Value & Effort |
+| ---- | -------------- |
+| A feature that screens calls from suspected scammers | High value, High effort |
+| An app that alerts you when your shoelaces are untied | Low value, High effort |
+| A feature that allows you to unsend an email up to one minute after you sent it. | High value, Low effort |
+| An app that lets you play 10 different animal sounds | Low value, Low effort |
+</details>
+
+<br>
+
+<details>
+<summary>Which of these four ideas should the team pursue? Why?</summary>
+There are two ideas that I’d recommend the team look into...
+
+The first is the unsend idea. Have you ever wanted to unsend an email right you sent it because you noticed a typo or remembered something else you wanted to include? I know I have… There’s a lot of value in this feature and likely you could use a simple timer to delay sending so that users have a chance to “unsend”. 
+
+The second is the call screening idea. Spam calls are a huge annoyance! Screening spam calls is a hard problem to solve but there’s a ton of user value if it can figure out how to do it right.
+</details>
 
 <br>
 <br>
 
 # Exercise: Decision Matrix
 
-Watch []()
+Exercise: Grocery Store Decision Matrix
 
-### Further Reading
+Let's apply the Decision Matrix tool to the Grocery Store ideas. You can use your own ideas, use my ideas from the Crazy 8's sketches below, or come up with some completely new ideas.
 
-[]()
+Create a Decision Matrix to explore ideas for the Grocery Store Chain app
+
+- [ ] Create a 2x2 Decision Matrix table
+- [ ] Label the x-axis "User Effort"
+- [ ] Label the y-axis "Effort"
+- [ ] Pick 3 ideas for the Grocery Store Chain app and write each on a sticky note
+- [ ] On each sticky, add a short explanation of the value and an estimate of the effort including rationale 
+- [ ] Place each idea in a quadrant
+- [ ] Circle the ideas that are worth pursuing
 
 <br>
 <br>
 
 # Solution: Decision Matrix
 
-Watch []()
+Watch [the solution walkthrough.](https://youtu.be/z3BiUc9f_98)
+
+<br>
+
+![The Decision Matrix Solution](./Decision_Matrix_Solution.png)
+
+<br>
+
+A decision matrix is a visual tool that allows you to sort and compare things across a set of criteria.
+
+- Draw a matrix on a white board and label your axes
+- Write each idea onto a sticky note
+- For each idea, have a short discussion on which is the appropriate quadrant
+- Then place the sticky note into the appropriate quadrant
 
 ### Further Reading
 
-[]()
+[The Decision Matrix](https://designsprintkit.withgoogle.com/methodology/phase4-decide/decision-matrix)
 
 <br>
 <br>
