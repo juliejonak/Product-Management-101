@@ -289,42 +289,84 @@ When creating your research plan and running the study, it’s also very importa
 
 # Technical Feasibility
 
-Watch []()
+Watch [assessing Technical Feasibility.](https://youtu.be/XNem-p3o9HM)
 
-### Further Reading
+You can have the best idea, but if it can’t be built in a reasonable timeline you won’t get very far.
 
-[]()
+It’s not your job to know how to build it, but it’s important that you can have a technical conversation to understand complexities and make tradeoffs.
+
+You can use a prototype to help facilitate the conversation by walking through user facing flows.
+
+You should also come prepared with some questions around what data is needed to generate the UI, where user entered data will be stored, and any causes for latency.
+
+<br>
+
+<details>
+<summary>What are good examples of questions to ask during a feasibility discussion?</summary>
+- Where is this data stored?
+- What could cause latency?
+- Does this flow make sense?
+</details>
+
+<br>
+
+<details>
+<summary>True or false: Having a technical feasibility discussion guarantees that you will identify all technical issues early on.</summary>
+False - You will likely identify many technical challenges early on, but it’s still possible additional challenges will be discovered as development begins.
+</details>
 
 <br>
 <br>
 
 # Exercise: Technical Feasibility Questions
 
-Watch []()
+Exercise: Grocery Store Chain App Technical Feasibility Questions
 
-### Further Reading
+You have a working prototype and you have confirmed that it has features that your users will value. Now you need to confirm that your engineering team can actually make the product you have designed.
 
-[]()
+Create a list of questions to discuss with the engineering team:
+
+- [ ] List the key flows in the app, how they should work as a user navigates through it, and their business impact.
+- [ ] Consider how you could share a prototype to help the engineer understand the flows.
+- [ ] Think about your assumptions and technical implementation details you may want to understand better in your discussion. Draft a set of questions including data needs, latency issues, and potential errors.
+- [ ] Ask about the technical challenges in creating the product.
+- [ ] Structure the discussion to give the engineer time to ask questions and give general feedback.
 
 <br>
 <br>
 
 # Solution: Technical Feasibility Questions
 
-Watch []()
+Watch [the solution walkthrough.](https://youtu.be/1D0x5EB2RyQ)
+
+Having a technical feasibility conversation allows you to better understand what level of effort will be required to build your idea. It also allows you to identify and potentially mitigate technical challenges and complexities early on.
+
+The other big benefit is that it helps engineering to understand the specifics of what you want to build early on. Engineering will also have the chance to provide feedback about the overall design and suggest ideas for how it could be simplified to mitigate against risks.
 
 ### Further Reading
 
-[]()
+[Development Fundamentals for UX Designers](https://uxdesign.cc/development-fundamentals-for-ux-designers-caf759724874)
 
 <br>
 <br>
 
 # Lesson Recap
 
-Watch []()
+Watch [the lesson recap.](https://youtu.be/5oNvzy9lPhU)
 
+You’ve reached the end of Phase 6: Validate (and the end of the Design Sprint)! We covered the following topics:
 
+- The Validate phase of the Design sprint
+- Preparing for a user study
+- Structure of a user study
+- Feasibility Discussion
+
+At this point, you should be able to:
+
+- Describe the Validate phase of the Design Sprint
+- Plan for a user study
+- Run a user study and interview users
+- Have a feasibility discussion with an engineer
 
 <br>
 <br>
