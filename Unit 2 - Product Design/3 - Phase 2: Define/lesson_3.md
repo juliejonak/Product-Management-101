@@ -160,33 +160,40 @@ Crazy 8’s is a method to quickly sketch out a lot of different ideas. The goal
 
 # Voting
 
-Watch []()
+Watch [voting.](https://youtu.be/s8j9OC5-gVI)
 
-### Further Reading
+- Ask each team member to post their sketches and briefly explain each sketch
+- After all sketches have been posted, give each team member 3 dot stickers
+- Ask everyone to vote for their favorite ideas by placing a dot sticker on the sketch
 
-[]()
+<details>
+<summary>Which of the following are valid ways to vote with your 3 dot vote stickers? <br>
+- 1 sticker on sketch A, 1 sticker on sketch B and 1 sticker on sketch C <br>
+- 2 stickers on sketch A and 1 sticker on sketch C <br>
+- 3 stickers on sketch B
+</summary>
+These are all valid choices. There are no hard rules about how you can distribute your votes.
+</details>
 
 <br>
 <br>
 
 # Exercise: Voting
 
-Watch []()
+Voting for the Grocery Store Chain App
 
-### Further Reading
+We've got some sketches, now it's time to vote on which ideas we would like to develop further. In a real Design Sprint you'd do this with a team so if you can find some friends to help you, invite them to vote too. Just make sure you prepare them by sharing the insights the team has gained from the earlier phases of the Sprint.
 
-[]()
+How would you distribute your three votes across the 16 sketches (your Crazy 8 and the 8 sketches)? Why?
 
 <br>
 <br>
 
 # Solution: Voting
 
-Watch []()
+Watch [the solution walkthrough.](https://youtu.be/8FkYqz4P1Sw)
 
-### Further Reading
-
-[]()
+After all sketches have been shared, giving 3 dot stickers to each team member and asking them to put the stickers on their favorite sketches is a quick way to a visual representation of how the team is feeling about the different ideas being discussed.
 
 <br>
 <br>
