@@ -144,33 +144,145 @@ At the same time, it’s also important that you identify clear questions that y
 
 # User Interviews
 
-Watch []()
+Watch [conducting User Interviews.](https://youtu.be/z26dAT3sclk)
 
-### Further Reading
+- Introduce yourself and give an overview of what you will be asking the user to do during the study
+- Ask user to sign NDA (if applicable)
+- Learn more about the user’s background by asking general questions (although the questions should be related to your project)
+- Start focusing in by shifting to more specific questions directly tied to your project space
+- Ask the user to complete tasks using the prototype
+- Ask the user for their overall feedback about the prototype
+- Thank the user!
 
-[]()
+Keep questions open ended and if asked a question, try to get the user to answer the question from their perspective by reframing (ex: how do you think it should work).
+
+<br>
+
+<details>
+<summary>What’s the best way to phrase the question?</summary>
+"How would you describe your experience...?" This is an open ended question that does not suggest anything about the experience and instead relies on the user to fill in the details with their thoughts.
+</details>
+
+<br>
+
+<details>
+<summary>If a user asks you “what does this button do” during the study, what is the best way to respond?</summary>
+Ask the user what they think the button should do. Asking the user can provide valuable insights as to what the user is expecting.
+
+Don't explain what the button does, that it doesn't work or that you don't know. These all lose an opportunity to learn more about how the user thinks.
+</details>
 
 <br>
 <br>
 
 # Exercise: Interview Guide
 
-Watch []()
+Exercise: Write an Interview Guide for the Grocery Store Chain App User Study
 
-### Further Reading
+We figured out the parameters of our Research Plan. Now we need to figure out which questions we want to ask the users we interview.
 
-[]()
+Write up an interview guide for the User Study and add it to the Grocery Store Chain app Research Plan. Make sure your guide includes all of the following:
+
+- [ ] Introduction and overview of the study
+- [ ] General questions about the user's background (as related to the product)
+- [ ] More specific questions about the user's experiences getting groceries
+- [ ] Tasks for the user to complete in the prototype
+- [ ] User's feedback about the prototype
+- [ ] Thank you message to the user for participating
+
+<br>
+
+Now that you have a written interview guide, it's time to start doing interviews. Interviewing can be difficult at first, but you'll get better at it with practice. Let's get started now.
+
+
+Run a practice interview:
+
+- [ ] Find a friend or relative who is willing to volunteer as a research subject.
+
+- [ ] Use the interview guide you created in the previous task to interview the subject. Make sure you record their responses to all of the questions
+
+- [ ] After the interview is complete reflect on how it went. Did you get all of the information you needed? What would you do differently the next time?
 
 <br>
 <br>
 
 # Solution: Interview Guide
 
-Watch []()
+Watch [the solution walkthrough.](https://youtu.be/sYR04mS6AxI)
+
+### Introduction and overview of the study
+
+> My name is Alex and I’m a Product Manager here at Grocery store. The team’s been working on some exciting new ideas about the shopping experience and we wanted to share them with you and get your feedback.
+>
+> The way that this interview will run is… I have a few background questions to get to know you a little bit better and some of your shopping habits. Then, we’ll switch gears and I’ll show you a prototype that the team has been working on and ask you for your feedback.
+>
+> Before we get started, please review this NDA and sign it. It’s important that the things we show you and the ideas that we discuss today stay confidential.
+> 
+> Do you have any questions before we get started?
+>
+> No questions… Great! Is it ok if I record this session? The recording is only going to be used internally by the team to refer back to our conversation. It also helps make sure that we don’t miss anything in the notes.
+
+<br>
+
+### General questions about the user's background (as related to the product)
+
+- Can you tell me a little bit about yourself?
+- How long have you been living in this city?
+- Can you tell me a little bit about your living situation?
+- When was the last time you went to a grocery store? How often do you go?
+
+### More specific questions about the user's experiences getting groceries
+
+- Have you ever purchased groceries online? Why or why not?
+- What types of items would you consider purchasing online? Why?
+- Do you have any concerns about purchasing groceries online? Why?
+- If you were to purchase groceries online, how would you like items to get to you? Why?
+
+### Tasks for the user to complete in the prototype
+
+> Now I’m going to show you a prototype that the team has been working on. Keep in mind that this isn’t a test… And there’s no right or wrong answer. We’re trying to understand how well this idea works for you. And because it’s a prototype, not everything you see in the app may work.
+>
+> One more thing… As you start using the prototype, I’m going to ask you to think out loud. I’m interested in hearing what you are seeing on the screen, how you are interpreting it, and what you expect things to do.
+>
+> Go ahead and take a look around. Can you describe what you see?
+> 
+> How would you go about finding items that you ordered in the past? Can you show me?
+> 
+> Let’s say that you wanted to purchase more paper towels. How would you do that?
+> 
+> What are the different options for getting the product to you? Which one do you prefer? Why?
+
+<br>
+
+### User's feedback about the prototype
+
+> Awesome! Thanks so much for going through all of that with us. Just a few more questions
+> 
+> Do you think this is something you would use? Why or why not?
+> 
+> Is there anything you think could be improved?
+> 
+> Is there any other feedback you want to share with the team?
+
+<br>
+
+### Thank you message to the user for participating
+
+> Thanks so much for coming in! We really appreciate you taking the time to share your thoughts about what we’ve been working on.
+
+<br>
+
+### Things to Remember
+
+It’s important to have a good structure for the user study. This can be achieved by starting with an introduction and then asking broad questions, which become more focused and then switching to asking the user to complete tasks using the prototype.
+
+When creating your research plan and running the study, it’s also very important to keep your questions open ended and avoid leading questions. This helps to make sure that you are getting unbiased, honest answers back from the user.
 
 ### Further Reading
 
-[]()
+[How to Conduct User Interviews](https://uxdesign.cc/how-to-conduct-user-interviews-fe4b8c34b0b7)
+
+[6 Tips for Bettter User Interviews](https://uxplanet.org/6-tips-for-better-user-interviews-ad925afc52df)
 
 <br>
 <br>
