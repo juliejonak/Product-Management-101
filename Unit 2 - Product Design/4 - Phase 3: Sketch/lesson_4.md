@@ -243,44 +243,163 @@ A decision matrix is a visual tool that allows you to sort and compare things ac
 
 # Thinking Hats
 
-Watch []()
+Watch [Thinking Hats.](https://youtu.be/l6fHwyH0hqE)
 
-### Further Reading
+The Thinking Hats exercise allows you to make sure that different perspectives are being discussed and pushes people to be open to different perspectives since everyone will have to represent multiple, differing views..
 
-[]()
+The team discussion focuses on one hat at a time. The order can vary, but you'll want to start and end with the blue hat (process). This order works well when comparing ideas:
+
+> Blue hat - process (align on goals and order of hats)
+>
+> White hat - data
+>
+> Green hat - creativity
+>
+> Yellow hat - benefits
+>
+> Black hat - judgment
+>
+> Red hat - intuition
+>
+> Blue hat - process (summary of discussion)
+
+<br>
+
+<details>
+<summary>True or false: You must wear a hat that matches your own view
+</summary>
+False. It’s not required that your personal view matches the hat you wear. It can actually be very beneficial to have to argue from a perspective different than your own.
+</details>
 
 <br>
 <br>
 
 # Exercise: Thinking Hats
 
-Watch []()
+Exercise: Grocery Store Chain App Thinking Hats
 
-### Further Reading
+In this exercise we are going to look at some of our ideas for the Grocery Store using different hats. Pick one of these ideas -- or use one of your own.
 
-[]()
+Put on the blue hat. How would you structure the conversation? What are the goals?
+
+Now put on the white hat. What do we know? What do we need to find out?
+
+Now put on the green hat. What are new views? Or some alternative solutions?
+
+Now put on the yellow hat. For each idea, what are the benefits? How would you advocate for each one?
+
+Now put on the black hat. For each idea what are the challenges or things that could go wrong?
+
+Now put on the red hat. How are you feeling about each idea?
+
+Now put on the blue hat back on. How would you summarize the overall conversation and viewpoints discussed? Which idea makes the most sense to pursue?
 
 <br>
 <br>
 
 # Solution: Thinking Hats
 
-Watch []()
+Watch [the solution walkthrough, part one.](https://youtu.be/9Spw921H9LQ)
+Watch [the solution walkthrough, part two.](https://youtu.be/zPVl4oyMBfc)
+Watch [the solution walkthrough, part three.](https://youtu.be/OwgCwiC2Jww)
+
+### Blue Hat - Process
+What goal do we want to pursue?
+What sequence for the hats?
+
+<br>
+
+### White Hat - Data
+We know:
+- Consumers visit grocery stores ~1.6x week
+- The average consumer spends 30 minutes in our store each visit (not including travel time) and purchases 13 items
+- Our stores each carry around 50k items
+
+<br>
+
+### Green Hat - Creativity
+Digital vs. in store experiences
+What should the interaction of purchasing an item look like?
+
+<br>
+
+### Yellow Hat - Benefits
+Navigate:
+- Makes it super easy to find items in the store
+- High tech factor
+- Similar to getting driving directions
+
+Suggestions:
+- Can be super helpful to surface products consumers will enjoy
+- Helps if consumers forgot a specific product
+- Super simple and lightweight interaction
+
+Autopilot
+- Removes the need for consumers to create/manage shopping lists
+- Options for store pick up or delivery
+- Flexible re-ordering that has the potential to be based on purchase data
+
+<br>
+
+### Black Hat - Judgment
+Navigate:
+- Really hard to do well
+- Overkill
+- Many people won’t want to have an app open in order to navigate through a store
+
+Suggestions:
+- This would really only work for online purchases
+- Do we have enough data to build this in a meaningful way?
+
+Autopilot
+- Are consumers comfortable giving up this much control?
+- What if pricing increases for an item? But the item is still auto-purchased?
+- Giving choices between schedules and pick up/delivery creates additional complexity
+
+<br>
+
+### Red Hat - Intuition
+- Navigation seems cool, but not sure we could execute on this with high quality
+- Suggestions makes sense and seems like there’s little downside
+- Autopilot seems the most exciting and has the opportunity to transform our business
+
+<br>
+
+### Blue Hat - Process
+Move forward with Autopilot!
+
+<br>
+
+Thinking hats is a method that allows you to make sure other perspectives are being represented and discussed when deciding on which idea to move forward to prototyping
+
+<br>
 
 ### Further Reading
 
-[]()
+[Six Thinking Hats](http://www.debonogroup.com/six_thinking_hats.php)
+
+[Six Hats of Critical Thinking](https://www.designorate.com/the-six-hats-of-critical-thinking-and-how-to-use-them/)
 
 <br>
 <br>
 
 # Lesson Recap
 
-Watch []()
+Watch [the lesson recap.](https://youtu.be/GK4wUeXSlSw)
 
-### Further Reading
+You’ve reached the end of the Phase 4: Decide. We covered the following topics:
 
-[]()
+The Decide phase of the Design Sprint
+- Assumptions & Questions
+- Decision Matrix
+- Thinking Hats
+
+At this point, you should be able to:
+
+- Describe the Decide phase of the Sketch Sprint
+- Identify and questions assumptions behind an idea
+- Create a decision matrix to understand tradeoffs between multiple ideas
+- Use Thinking Hats to make sure that diverse views are represented when discussing an idea
 
 <br>
 <br>
