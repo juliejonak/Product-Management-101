@@ -1,19 +1,19 @@
 # Table of Contents
 
 a. [SKETCH](#SKETCH) <br>
-b. [Sketching Tips](#Sketching Tips) <br>
-c. [Exercise: Sketching Practice](#Exercise: Sketching Practice) <br>
-d. [Solution: Sketching Practice](#Solution: Sketching Practice) <br>
-e. [Crazy 8's](#Crazy 8's) <br>
-f. [Exercise: Crazy 8's](#Exercise: Crazy 8's) <br>
-g. [Solution: Crazy 8's](#Solution: Crazy 8's) <br>
+b. [Sketching Tips](#Sketching-Tips) <br>
+c. [Exercise: Sketching Practice](#Exercise:-Sketching-Practice) <br>
+d. [Solution: Sketching Practice](#Solution:-Sketching-Practice) <br>
+e. [Crazy 8's](#Crazy-8's) <br>
+f. [Exercise: Crazy 8's](#Exercise:-Crazy-8's) <br>
+g. [Solution: Crazy 8's](#Solution:-Crazy-8's) <br>
 h. [Voting](#Voting) <br>
-i. [Exercise: Voting](#Exercise: Voting) <br>
-j. [Solution: Voting](#Solution: Voting) <br>
-k. [Solution Sketch](#Solution Sketch) <br>
-l. [Exercise: Solution Sketch](#Exercise: Solution Sketch) <br>
-m. [Solution: Solution Sketch](#Solution: Solution Sketch) <br>
-n. [Lesson Recap](#Lesson Recap) <br>
+i. [Exercise: Voting](#Exercise:-Voting) <br>
+j. [Solution: Voting](#Solution: -Voting) <br>
+k. [Solution Sketch](#Solution-Sketch) <br>
+l. [Exercise: Solution Sketch](#Exercise:-Solution-Sketch) <br>
+m. [Solution: Solution Sketch](#Solution:-Solution-Sketch) <br>
+n. [Lesson Recap](#Lesson-Recap) <br>
 
 <br>
 
