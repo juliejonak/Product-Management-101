@@ -286,18 +286,82 @@ Yes! Not having the necessary functionality in place (e.g allow users to unsubsc
 
 # Know Your Product
 
-Watch []()
+Watch [The Approach, Part 1](https://youtu.be/-7pLKPw70yA)
+Watch [The Approach, Part 2](https://youtu.be/dnxS0AqxwAY)
 
-### Further Reading
+The first step to knowing your product is testing the product. A common slang you may hear is `‘dogfooding’`, where the company tests the product that is going to launch to identify and fix issues. In this scenario, there is no product launch but you are testing the product to understand how it functions.
 
-[]()
+<br>
+
+Some questions to think about:
+
+- What information is requested from the user on a specific page?
+- How long does the page take to load?
+- What happens when the product is tested on a cellular network?
+
+<br>
+
+Another important reason to test is you will understand:
+
+- How does your product interact with other parts of the company's product(s)?
+
+<br>
+
+Using the Sworkit example here, if you joined their product team, how would you go about getting up to speed on the product?
+
+You might take a look at the images from the app store listing, just like a user would and read the information and reviews. You might download the app and try to create a new account using a non-existent account to read the error messages displayed and try to request a new password. The goal here is to understand how useful or informative are the error messages.
+
+You might try out a few workouts, and see if the summary received was insightful? You might opt into the notifications or reminders and see how they work. Essentially be put yourself in the shoes of a user.
+
+<br>
+
+By the time you finished testing, you would have formed an opinion:
+
+- Is the product delighting its users?
+- Is the product meeting the customer needs? 
+- If not, where are the gaps?
+
+
+The answers to all of these questions and your experience will lead you to your first list of issues and improvements.
+
+<br>
+
+![Know Your Product](./img/Know_Your_Product.png)
+
+<br>
+
+The second most important task is to know how your product is doing. This is where the data comes. Spend time understanding how the data is being tracked and what tools are being used such as [Google Analytics](https://marketingplatform.google.com/about/analytics/), [Mixpanel](https://mixpanel.com/), [Kissmetrics](https://www.kissmetricshq.com/), etc.
+
+Depending upon the analytics platform the company uses, you can understand the user journey within the product to find where do they exist, what do they most frequently use the product for by understanding the tracking events triggered based on the user's interaction with the product.
+
+You may want to analyze data on your own. In order to do this, you need to know the name of the events triggered. For example, when a user clicks on the ‘Sign Up’ button in the mobile app, is the tracking event fired under the name ‘mobile sign up cta’ or ‘mobile sign up submit’. This is an effective way to familiarize yourself with the analytics platform. Use the analytics platform to understand how your product is currently performing. This is going to help you not only identify areas of improvement but also understand how to prioritize issues, what requirements need to be written to implement a new feature
+
+When you utilize the information from testing the product and understanding the right data you will be able to pull the list of feature requests, issues, and roadmap initiatives that will help you identify the strengths and weaknesses of your product. Only then will you understand the feature request, the product strategy, and initiatives more completely.
+
+<br>
+
+Knowing your product goes beyond just knowing the product strategy and the list of initiatives for you to blindly execute. Test the product and understand how to combine this with information about the market and company to evaluate various types of items ranging from issues reported by users, feature requests to roadmap item effectively. 
+
+Instead of just ‘following the instructions’, become a self-motivated Product Manager who forms opinions based on product working knowledge and data. This is a key trait that is valued in every company regardless of their size and geographical location!
 
 <br>
 <br>
 
 # Become Credible: Summary
 
-Watch []()
+Watch [Becoming Credible.](https://youtu.be/ABHeRVNfWes)
+
+In the last few videos, you learned the three key points to become credible at your workplace:
+
+Use your curious product manager mindset to learn about the:
+
+- company
+- market
+- product
+
+Build a solid foundation to understand the company’s purpose and its customers better.
+
+Putting in the time during your first few weeks to learn more about your company and product with help you to succeed in your new role.
 
 ### Further Reading
 
@@ -308,66 +372,382 @@ Watch []()
 
 # Build Trust: Overview
 
-Watch []()
+Watch [How can you build trust?](https://youtu.be/z9EwOfuxkDQ)
 
-### Further Reading
+Take time to know your peer's teams. These are the cross-functional team members that you will be working with closely across the different stages of product development.
 
-[]()
+Get to know your development team well. You will work closely to define what to build, how to build with this team.
+
+<br>
+
+What do you gain from this?
+
+Good team dynamics make or break a team. Building a strong relationship requires you to understand what everyone does, their challenges, and how you can help each other. 
+
+This lays the foundation for a cohesive team and opens up communication channels to share feedback because the team members know that all of you are working with each other towards a common goal.
 
 <br>
 <br>
 
 # Know Your Team and Peers
 
-Watch []()
+Watch [The Approach to Know Your Team](https://youtu.be/nk7rfiSrbdc)
 
-### Further Reading
+<br>
 
-[]()
+![The Core Product Management Team](./img/Core_Team.png)
+
+<br>
+
+### The Core Team
+
+The product manager is shown in the center with a lot of arrows because you are going to be talking to a lot of people!
+
+<br>
+
+`Product Designer:` you will be working closely with them from the problem definition through the solution phase to launch the product and analyze the feedback. You will also conduct user research to validate both the problem and the solution.
+
+<br>
+
+`Engineering Team:` You will be partnering with them to define how to solve the problem as you work with the designer.
+
+<br>
+
+`Quality Assurance Team:` Often referred to as the QA team. This is your partner in crime to break the product that you are building to make sure it works as expected when it gets in the hands of real users.
+
+<br>
+
+`Data Analyst:` Depending upon the company you may have a data analyst to partner with. These team members provide you with the various metrics: product metrics, company metrics. In order to analyze these metrics, it is important to have them tracked in the first place. You will partner with the data analyst to define the requirements to track the data, test to confirm the requirements are met successfully and set up various experiments as part of the product launch.
+
+<br>
+<br>
+
+Watch [the extended team](https://youtu.be/pIsFcRyyB9g)
+
+Beyond the core development team a product manager may also interact regularly with:
+
+<br>
+
+`Marketing:` In some companies, they may be called a product marketing team, adoption team, etc. You partner with this team to determine the activities to be carried out to ensure that the product you're launching is discovered by your customers and adopted successfully
+
+<br>
+
+`Sales Team:` In some companies, they may be business development, account executives, etc. The sales team needs to understand the product features and their intended benefits clearly to be able to communicate them to potential clients.
+
+<br>
+
+`Customer Support Team:` Not every single user problem or product issue can be solved in the product immediately. After the product launch, they will be your front line team members interacting with irate customers sometimes and helping them to resolve issues.
+
+<br>
+
+`Account Management Team:` Their name varies across companies such as client management, customer success, client implementation, and operations, etc. The account managers step in once the product has been sold. They take over the client relationship from the sales team to onboard and continue to manage the client relationship through product upgrades and renewals. You may partner with this team closely to receive customer feedback early on during the solution discovery phase, attend calls to pitch your new product idea, or resolve a major customer concern.
+
+<br>
+
+`Finance Team:` you will be responsible to make sure their reporting and accounting needs are met. Depending upon the type of company and product you manage your need to partner with finance team will vary.
+
+<br>
+<br>
+
+Watch [One on Ones](https://youtu.be/p0_Bn5GBLfg)
+
+As a product manager, you have to work with almost every single team in the company If you work in isolation it is going to be very challenging for you to coordinate product launch, know when your product is not working or get someone's help because at end of the day we all need to help each other.
+
+This is where the power of one-on-one meetings come in. You meet with an individual from the peer team that you will be working very closely with and will coordinate a lot.
+
+<br>
+
+Reach out to your peers that you will work closely with to set up a meeting and then:
+
+
+- Take time to understand their roles and responsibilities.
+    - Know what do they do at the company, specifically what do they do when it comes to partnering with the product team.
+
+<br>
+
+- How do they collaborate?
+    - Understand how they share feedback and new ideas.
+    - Are they receiving roadmap updates?
+    - Are they being informed about product updates?
+
+<br>
+
+- What is working well in the current process?
+    - This will help you understand what you need to carry out specifically to collaborate with them
+
+<br>
+
+- What can you do to improve this process?
+    - Listen keenly to understand what are they asking and why? Knowing  this will help you identify tasks to address their feedback.
+
+<br>
+
+- What urgent issues do they believe need to be addressed now?
+    - Is this something you can help solve?
+
+<br>
+
+- Follow up on your conversations.
+    - This helps build trust that you were listening and care about what they think.
+
+<br>
+
+- Set up a regular meeting with them.
+    - This helps build rapport with consistent contact.
+
+<br>
+<br>
+
+Watch [Knowing Your Development Teams](https://youtu.be/j4S-OaKpeoo)
+
+`What existing challenges need to be addressed?` Understand the current product implementation. How is the product built? What are the engineering goals you need to be aware of? From your 1x 1 meeting with the development team members, you gained a sneak peek into how the product has been built and how testing works.
+
+<br>
+
+`It is essential to understanding the inner workings of both the product and the team.` Meet with them again if needed. We will focus on understanding the engineering implementation and testing process. In your meeting with the engineering lead, understand how the product is built (e.g., architecture design). 
+
+What are the challenges that need to be addressed? Are there any engineering goals to be accomplished? As a PM you are going to be managing a single list of tasks to complete (which is called backlog) and if that does not reflect their engineering goals how can they meet their goal?
+
+
+<br>
+
+
+`Understand the current testing process.` Extend the same philosophy to the QA team member.
+
+How is the product tested?
+
+`Understand how they test a product:` Do they have a combination of manual testing and automated testing? If you used manual testing to try to break the product to know the product, try automated testing. 
+
+Automated testing does not require someone to sit in front of a screen and interact with the product. Automated testing could be done by utilizing a third-party tool or writing scripts that need to be run. 
+
+Let’s take the example of mobile apps that are in IOS and Android: A combination of manual and automated testing is used. It is important to ensure the best user experience is available across all devices and platforms. 
+
+<br>
+
+
+`Third-party tools` may be used to verify the user experience across different platforms and devices without the need for a team to maintain an inventory of every device used by the target customers. 
+
+`When is automated testing used?` Some teams automate the verification of existing features to ensure they are not broken when an existing feature is improved or a new feature is added. 
+
+`When is Manual Testing is used?` Manual testing is typically conducted when a new feature is being built and launched, and QA members will test the new feature by interacting with it. Some companies add automation to the new feature as well and may verify critical existing functionalities manually
+
+<br>
+
+`What existing challenges need to be addressed?`
+
+What are the challenges in the testing process? Some of their challenges cannot be resolved by Product Managers, while others can be. 
+
+Let’s take an example that I have often seen teams run into, and I personally did at the early stages of my career. Many QA team members like conducting exploratory testing for a new product, especially a critical product. 
+
+During my early stint as a Product Manager, when the QA team member had completed their verification, I noticed far more critical issues while testing the product previously gone unnoticed and these got me very frustrated. 
+
+What went wrong here? I met with the testers and shared my feedback, expressed my disappointment in how their testing was not giving the desired coverage. After some back and forth, we realized the real problem was the issues I identified by testing were due to my understanding of how users tend to behave in the real world and their constraints. I had not shared this information in full details with the testers.
+
+<br>
+
+`Your responsibility as a product manager is to be the eyes and voice of your users to the development team.` Take all the learnings and insights about your customer and their environment and including emotional aspect of the users, so that the tester is able to put themselves in the shoes of the user and various emotions they go through and test the product to find critical issues and provide feedback on the product usability as well. 
+
+<br>
+
+`Understand their goals.` For e.g., a QA team wants to reduce the number of critical issues that are identified when the product goes live by x % within the next 3 months. Knowing this will help you understand how to coordinate early on and test the product to launch a high-quality product
+
+<br>
+
+`Unleash the power of One on Ones`
+
+`Set up regular one on ones` to meet with team members in your core team and peer teams. Develop a communication channel where feedback, ideas, and issues can be shared without any concerns because of the underlying trust that binds all of you together. Spend sufficient time knowing how does your core team work and also how is the product built and tested. 
+
+These are layers to the knowledge foundation that you need to be able to collaborate effectively:
+
+- Develop open communication channel between teams
+- Know the inner workings of the team
+- Gain knowledge and learn to collaborate effectively
+
+<br>
+
+`Good team dynamics make or break a team.` Building a strong relationship requires you to understand what does everyone do, their challenges in order to determine how can you help each other. This lays the foundation for a cohesive team.
+
+<br>
+
+Set up regular one on ones to meet with team members in your core team and peer teams. Develop a communication channel where feedback, ideas and issues can be shared without any concerns because of the underlying trust that binds all of you together.
+
+Spend sufficient time knowing how does your core team work and also how is the product built and tested. These are layers to the knowledge foundation that you need to be able to collaborate effectively.
+
+`Start doing this within the first two to six weeks` of joining as a product manager and continue on an ongoing basis.
+
+<br>
+
+<details>
+<summary>As a Product Manager, how can you build trust? 
+</summary>
+- Identify the cross-functional stakeholders that you will work with closely (i.e peers)
+
+- Get to know your team members by meeting with them regularly
+
+- Understand their role and responsibilities especially pertaining to the product you manage
+
+- Understand how is the product built and tested
+
+Don't forget to follow up on items discussed. Always follow-up even if that means informing them that you need some more time. Avoid asking for walkthroughs - this is not required and not recommended since it hinders your objective of building trust directly
+</details>
 
 <br>
 <br>
 
 # Build Trust: Summary
 
-Watch []()
-
-### Further Reading
-
-[]()
+Watch [Building Trust Overview.](https://youtu.be/dcHbPb602-g)
 
 <br>
 <br>
 
 # Guide the Team
 
-Watch []()
+Watch [How can you guide the team?](https://youtu.be/3bqku9Rd91o)
 
-### Further Reading
+`The Art of Storytelling`
+    - Create a very powerful and engaging story to communicate your project scope.
+    - Get your audience will be able to empathize with your user and their problems.
+    - Weave your story to help the audience in connecting the dots between the user and their problem to the product strategy and goals.
 
-[]()
+<br>
+
+`Master the Art of Saying No`
+    - You should listen to ideas and feedback.
+    - Respond according to the product strategy and goals.
+
+<br>
+
+`Run Meetings Effectively`
+
+    - Make sure decisions are made.
+    - Keep the conversation on topic.
+    - Be clear on a meeting purpose.
+
+<br>
+
+`Be an Expert Negotiator`
+- Concentrate on achieving a common goal.
+
+<br>
+`Set Everyone Up for Success by Coordinating Well`
+
+    - Create coordination activity maps.
+
+<br>
+
+`By Guiding the Team you Will be Achieving Better Outcomes as a Team`
+    - You should always be guiding the team towards sucess.
 
 <br>
 <br>
 
 # Become a Storyteller
 
-Watch []()
+Watch [How Can you Become a Storyteller? Part 1](https://youtu.be/1NLaE2v_tGA)
 
-### Further Reading
+Watch [How Can you Become a Storyteller? Part 2](https://youtu.be/Xu-2qLObCTc)
 
-[]()
+<br>
+
+Becoming a storyteller means moving away from requirements, numbers and graphs and focusing on the user, their problems and the impact to make it more engaging for the audience to believe in the problem, the proposed solution and impact of solving it.
+
+- What problem is being solved?
+- How does it impact the user?
+- What is the impact of solving the problem on product strategy and goals?
+- What is the solution?
+
+<br>
+
+As a Product Manager, how can you become an engaging and inspiring storyteller? Order the following information to convey your story best.
+
+| Information | Priority |
+| ----------- | -------- |
+| Share the list of rejected alternatives along with the reasoning | ? |
+| Tie back the impact of solving this problem effectively to the product strategy and goal to emphasize the need to solve this problem now vs. later | ? |
+| Transport the audience in the meeting room to visualize the problem that you are trying to solve and highlight the importance of the problem using data and user quotes | ? |
+| Walkthrough the solution using a design prototype and avoid reading the requirements document | ? |
+| Share information on how is the user affected by the problem and help the audience to empathize with the user by highlighting their motivations, challenges, frustrations etc | ? |
+
+<br>
+<br>
+
+<details>
+<summary>See the solution...</summary>
+<br>
+
+Yay, You got it! It is important to set the context with sufficient details to help the audience empathize with the user and their problems. Before you jump into walking through the solution, it is important to tie back the problem to overall product strategy and goals
+
+<br>
+
+| Information | Priority |
+| ----------- | -------- |
+| Share the list of rejected alternatives along with the reasoning | 5 |
+| Tie back the impact of solving this problem effectively to the product strategy and goal to emphasize the need to solve this problem now vs. later | 3 |
+| Transport the audience in the meeting room to visualize the problem that you are trying to solve and highlight the importance of the problem using data and user quotes | 1 |
+| Walkthrough the solution using a design prototype and avoid reading the requirements document | 4 |
+| Share information on how is the user affected by the problem and help the audience to empathize with the user by highlighting their motivations, challenges, frustrations etc | 2 |
+<br>
+</details>
 
 <br>
 <br>
 
 # Art of Saying No
 
-Watch []()
+Watch [Life Skills: The Art of Saying No, Part 1](https://youtu.be/gkeC--pEc0s)
 
-### Further Reading
+Watch [Life Skills: The Art of Saying No, Part 2](https://youtu.be/4OvJ_dyFK-M)
 
-[]()
+<br>
+
+![The Art of Saying No](./img/Saying_No.png)
+
+<br>
+
+You cannot say “Yes” to every idea or feature. Focusing means saying ‘no’ to really good ideas sometimes. Delivery of this feedback and how you engage in this conversation is key to guiding the team members without affecting the trust you have built so far or decreasing the earned social capital
+
+- Listen with intent to ask clarifying questions
+- Always Follow-Up: Paraphrase succinctly
+- Always Follow-Up: Share your objective rationale
+- Attitude and body language matters
+
+<br>
+
+As a Product Manager, how can you guide the team member by saying ‘no’? Order the information to convey the guide effectively.
+
+<br>
+
+| Information | Priority |
+| ----------- | -------- |
+| Listen to others with undivided attention | ? |
+| Paraphrase by focusing on key details only while distinguishing data-backed information from assumptions and opinions | ? |
+| Confirm your understanding with the team member and then proceed | ? |
+| Be humble while delivering your response and share the rationale | ? |
+| Ask clarifying questions to uncover real issues and gain insights | ? |
+
+
+<br>
+<br>
+
+<details>
+<summary>View the solution table...</summary>
+
+<br>
+It is important to understand the team member’s idea or feedback clearly and confirm your understanding before you share your response.
+
+<br>
+
+| Information | Priority |
+| ----------- | -------- |
+| Listen to others with undivided attention | 1 |
+| Paraphrase by focusing on key details only while distinguishing data-backed information from assumptions and opinions | 3 |
+| Confirm your understanding with the team member and then proceed | 4 |
+| Be humble while delivering your response and share the rationale | 5 |
+| Ask clarifying questions to uncover real issues and gain insights | 2 |
+
+<br>
+</details>
 
 <br>
 <br>
