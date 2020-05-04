@@ -30,13 +30,13 @@ Watch [the Unit overview, part 2.](https://youtu.be/jcgOZeU9TFg)
 
 Goals for this unit:
 
-- Learn how to influence the team members that you work with either directly or indirectly when you don’t have any authority.
+- `Influencing without authority:` Learn how to influence the team members that you work with either directly or indirectly when you don’t have any authority.
 
-- Understand the different development methodologies with a deep-dive into the most popular one coupled with how and where your detailed requirements are captured.
+- `Understanding development, methodologies, processes and tools:` Understand the different development methodologies with a deep-dive into the most popular one coupled with how and where your detailed requirements are captured. How do you get your work done effectively across office spaces or locations?
 
-- Learn the skills to write users stories with detailed acceptance criteria and also non-user requirements to develop a stable and functional product that is capable of addressing customer needs effectively.
+- `Crafting user stories and non-user requirements:` Learn the skills to write users stories with detailed acceptance criteria and also non-user requirements to develop a stable and functional product that is capable of addressing customer needs effectively. Being adept at this helps avoid multiple rounds of back and forth with the product and design team during development.
 
-- Learn how to manage the different types of backlog that a PM owns and maintains while handling various types of requests that a PM typically receives throughout the day.
+- `Managing backlogs and stakeholder expectations:` Learn how to track and manage the different types of backlogs that a PM owns and maintains while handling various types of requests that a PM typically receives throughout the day. You'll be handed a list of issues that need to be addressed ASAP or constantly approached by team members across the company about features they desire. You'll learn a simple framework to help prioritize.
 
 <br>
 <br>
@@ -45,12 +45,43 @@ Goals for this unit:
 
 Watch [the lesson overview.](https://youtu.be/L7IMJr7kQNk)
 
-Here are the main topics we'll be going over in this lesson: 
+Product Management is almost entirely a team driven sport. Aside from writing a PRD, nearly every other step involves other team members - and often different ones at different stages.
 
-- How to build and maintain your social capital (become credible, build trust). 
-- Essential leadership and team player qualities that you can combine to guide the team.
+Some of the essential qualities of an effective PM are: 
 
-After this lesson, you’ll be able to Know what tasks and activities to carry out as a PM after joining a new company and on a continuous basis to become the go-to person for the product you own. Lead your development team, manage stakeholders expectations and setup team members involved in your initiative for success.
+- Building and maintaining your social capital (by becoming credible and building trust)
+
+- Essential leadership and team player qualities that you can combine to guide the team
+
+These both sum up as `Earning Social Capital` - a deposit you earn over time when you work with every team member, that you spend to accomplish tasks.
+
+<br>
+
+Let's think of a real-life scenario. It's been a few months since you joined the company and you're working on an initiative that has been communicated to the company. 
+
+During lunch, your head of sales walks up to you and shares how disappointed they are that you're not working on the feature that their potential clients have been requesting for awhile. 
+
+What would you do here?
+
+<br>
+
+You could...
+
+- "I'm sorry, that's what I've been asked to do. Please talk to my manager."
+
+- "I don't know what you're talking about. I've been asked to focus on this <x> intiative."
+
+- You ask for details about the requested feature and share rationale on why it was not prioritized - by focusing on the product strategy and goals.
+
+<br>
+
+If you choose the last options, the head of sales will likely respond with, "All right, I hear you. I'll explain this to the sales team and we'll create some talking points to help them close the deal."
+
+The head of sales understood your rationale and accepted the situation. You spent social capital...to earn more. Social capital is a "currency" that increases in quantity when you spend it.
+
+<br>
+
+After this lesson, you’ll be able to know what tasks and activities to carry out as a PM after joining a new company and on a continuous basis to become the go-to person for the product you own. Lead your development team, manage stakeholders expectations and setup team members involved in your initiative for success.
 
 <br>
 <br>
@@ -59,13 +90,19 @@ After this lesson, you’ll be able to Know what tasks and activities to carry o
 
 Watch [How can you become credible?](https://youtu.be/wuV2yQI5deo)
 
+<br>
+
+![Being a New Product Manager](./img/New_PM.png)
+
+<br>
+
 As a new Product Manager who just joined the company, you will be excited, overwhelmed with a lot of mixed emotions. To prepare for the interview, you had done your fair share of homework on the company, product and probably some of their competitors.
 
 So as a new employee you will have lots of questions and some great suggestions for improvement. But you first need to build trust and become credible in order to have your ideas taken seriously.
 
 <br>
 
-To become credible, use your first few weeks in the new job as the perfect opportunity to seek answers to your questions, validate your assumptions, and know who the competitors are. Use the opportunity to gain information about the company, the market it is trying to serve and the product.
+To become credible, use your first few weeks in the new job as the perfect opportunity to seek answers to your questions with your curious mindset. Validate your assumptions and know who the competitors are. Use this opportunity to gain information about the company, the market it is trying to serve and the product.
 
 In other words:
 
@@ -88,20 +125,15 @@ Watch [What do you need to learn?](https://youtu.be/7c0aD2e3i_s)
 
 ### Start with the Mission, Vision, and Strategy
 
-Knowing your company starts with the mission, vision, and strategy. It is important to understand the company’s purpose i.e what does it exist for, what is it trying to achieve and how does it plan to achieve. This is called a company’s Mission, Vision, and Strategy. Depending upon the company’s culture, you will see these printed and posted on the office walls or on their website. The purpose of this is to constantly remind everyone what the company stands for.
+Knowing your company starts with the mission, vision, and strategy. It is important to understand the company’s purpose i.e what does it exist for, what is it trying to achieve and how does it plan to achieve. This is called a company’s Mission, Vision, and Strategy. 
+
+Depending upon the company’s culture, you will see these printed and posted on the office walls or on their website. The purpose of this is to constantly remind everyone what the company stands for.
 
 <br>
 
-### Example:
+As a PM though, you need to know more than just the mission and vision in order to align yourself and the team with the company strategy. You'll make impactful decisions daily so you need sufficient knowledge to make progress in the right direction.
 
-Revisiting [Sworkit](Sworkit). Take a look at Sworkit's About-Us page to get familiar with a company that talkies about itself very well.
-
-As you explore Sworkit, also think about:
-
-- Who is their target customer?
-- What are the unmet needs of the customer?
-- What are their needs that are not satisfied by any other alternative in the market?
-- How does the company create value?
+There is no point in a beautifully designed product if it doesn't serve the needs of the company's target customer or help the company sell their product.
 
 <br>
 
@@ -119,6 +151,107 @@ Knowing your company goes beyond the mission, vision and strategy. It is about k
 
 I highly recommend spending the initial 2-6 weeks of joining as a Product Manager to acquire the above knowledge to believe in your own message, define the problem to solve and identify the solutions.
 
+<br>
+<br>
+
+Throughout this lesson, we'll use the company [Sworkit](https://sworkit.com/) as an example. The name stands for "Simply Work It". 
+
+Take a look at Sworkit's About-Us page to get familiar with a company that talkies about itself very well.
+
+As you explore Sworkit, also think about:
+
+- Who is their target customer?
+- What are the unmet needs of the customer?
+- What are their needs that are not satisfied by any other alternative in the market?
+- How does the company create value?
+
+<br>
+
+Their mission outlines creating a "significantly healthier" world "by creating a long-lasting, multi-generational impact." They are focused on making fitness "simple, enjoyable and flexible." 
+
+They are "a premium digital health and fitness company founded in 2012" that provides "workouts, customizable plans, and resources" using "strength, cardio, yoga and stretching workouts". They want users to get into the "best shape of their lives, anytime, anywhere".
+
+<br>
+
+### The Target Customer
+
+There are various components that go into knowing your company better.
+
+- `Who is the company trying to sell?` Who are the target customers? Who are you solving the problem or creating the value for?
+
+Your goal is for customers to want to use your product because they value it so much more than all the other alternatives.
+
+Knowing your target customer helps you narrow your focus and spend time understanding them in particular.
+
+<br>
+
+Once the target customer is identified...
+
+- `What are their unmet needs?`  The target user's unsatisfied needs are also called `underserved needs`. If you meet these, your target user will be willing to switch to your product.
+
+This picture is incomplete without knowing...
+
+- `Competitors`: the other competitors in your space.
+
+<br>
+
+Let's practice by identifying these things for Sworkit.
+
+Based on their images and branding used, individual adults look like their target customers.
+
+They seem like time-pressed individuals who want to adopt and maintain a healthy habit for life. There is an emphasis on "anytime, anywhere", indicating the target user is time-pressed. They won't want to spend time commuting to a gym or coordinating for a class or personal trainer.
+
+The user has a willingness and preference to workout outside of gyms and without a personal trainer.
+
+Achieving a fitness goal and sustaining it is not simple.
+ We might want to know:
+
+- their level of fitness experience (beginner, intermediate, advanced)
+- different type of workouts they want (cardio, weight-based, yoga, stretching, pilates, etc. - they might not have expensive gym equipment at home to use)
+- different types of workout plans they want (pre-planned or customizable or create a custom workout from scratch)
+
+<br>
+
+Knowing these needs, we can already tell that traditional fitness gyms are not the competitor of Sworkit. Time-pressed individuals who want to workout at their own convenience aren't going to consider a gym as an alternative.
+
+Instead, companies with virtual products or fitness equipment with virtual training are competitors.
+
+<br>
+<br>
+
+### Create Value
+
+`How is value created?` What are the core strengths and differentiating capabilites?
+
+Companies don't operate in a vaccuum, so as the marketplace becomes more crowded with competitors, it's important for the company to also offer differentiating services to keep the customer.
+
+<br>
+
+`How will these activities create value for the company itself?` How is revenue made? How is the product/service sold? How is success being measured?
+
+As a PM of Sworkit, you would need to be familiar with the app store process -- specifically the requirements to join the app store, and how to get target users aware of the product that will be coming to the app store so they'll download it.
+
+Is it a subscription model? Freemium? Plan-by-plan fee? 
+
+Is the company measuring success by users who sign up and convert to a subscription? Time spent by paid users engaging with the app?
+
+All of this information will help you ask better questions and make decisions with higher confidence.
+
+<br>
+
+Sworkit _could_ have met user needs by providing workout plans and access to a virtual personal trainer. But they differentiated using a holistic approach, noting that fitness is incomplete without nutrition and community support.
+
+They have HD videos for each exercise, a search function, fitness experience filters, and more. Certified trainers can answer fitness and nutrition questions.
+
+They use a freemium model where users can use the product a few times to understand how the product works and realize the benefits before upgrading to a subscription model.
+
+It uses a monthly fee - or a slight better _annual_ fee.
+
+<br>
+
+By knowing more about their company mission, competitors and target users, Sworkit customized their product to meet user needs but also differentiated by adding additional features to create a more compelling, useful product.
+
+<br>
 <br>
 
 <details>
