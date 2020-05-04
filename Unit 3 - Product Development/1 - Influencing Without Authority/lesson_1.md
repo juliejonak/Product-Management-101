@@ -705,13 +705,65 @@ Watch [Life Skills: The Art of Saying No, Part 2](https://youtu.be/4OvJ_dyFK-M)
 
 <br>
 
-You cannot say “Yes” to every idea or feature. Focusing means saying ‘no’ to really good ideas sometimes. Delivery of this feedback and how you engage in this conversation is key to guiding the team members without affecting the trust you have built so far or decreasing the earned social capital
+You cannot say “Yes” to every idea or feature. Focusing means saying ‘no’ to really good ideas sometimes. 
+
+The delivery of this feedback and how you engage in this conversation is key to guiding the team members without affecting the trust you have built so far or decreasing the earned social capital
+
+<br>
+
+Let's say an excited team member approaches you with a potential idea for the product you're building. It will happen constantly when more people at the company learn what you're working on.
+
+A common response is, "That's a great idea! But we can't use it." This instantly destroys trust and credibility, and lessens the chance of that team member sharing feedback with you in the future. They'll feel like you won't listen or value their thoughts.
+
+<br>
+
+Instead, try the following steps:
 
 - Listen with intent to ask clarifying questions
 - Always Follow-Up: Paraphrase succinctly
 - Always Follow-Up: Share your objective rationale
 - Attitude and body language matters
 
+<br>
+
+Make sure to listen and truly understand `the problem behind their solution`. There's a reason this team member thinks this idea is great - why? Where did they receive the feedback that inspired it?
+
+Then, make sure to reiterate their idea back to ensure you've understood it completely. If you already know that this idea isn't aligned with the product's goals, explain it to them with clear reasoning.
+
+<br>
+
+`Share your objective rationale` so they understand why you're saying no.
+
+For example, if a team member wanted to add strength equipment exercises to the Sworkit app, like they use in the gym, but the key target user can't afford home workout equipment, let them know that.
+
+> "That idea is not aligned with our product goal of solving the problems and needs of home exercisers because we know that our target customers cannot afford to have gym grade equipment at home.
+>
+> If they did have those equipments, then they typically hire a personal trainer, which does not require our app to be used.
+>
+> Moreover, we're helping the exercisers achieve the exact same goal you mentioned, but providing alternative exercises using bodyweight, kettle bells, etc."
+
+<br>
+
+You can use this opportunity to win the trust of the team by utilizing your knowledge of your market, the customer, company and product; so they understand why their feedback can't be incorporated right now.
+
+<br>
+
+And if you don't have an answer right away...that's okay. Tell them you'll get back to them soon.
+
+They'll appreciate this answer because it shows that you'll give it thought and value their input.
+
+<br>
+
+Keep in mind though - none of this matters if your body language is aggressive or condescending! Be humble while delivering the message because you're working together as one team. Positive behaviors lead to positive outcomes. Your tone absolutely matters to have a positive resolution.
+
+<br>
+
+When understanding _why_ the team member is raising an idea or concern, make sure to remember the customer. Oftentimes, this isn't coming directly from a customer but it's important to remember the voice of the customer, who is the end user and goal.
+
+If you meet with the customer after hearing their feedback from a manager or team member, make sure to `ask the same clarifying questions` -- this helps the customer feel heard and know that you understand their perspective. Even if you are prepared and already know the situation, allow them to explain it again.
+
+
+<br>
 <br>
 
 As a Product Manager, how can you guide the team member by saying ‘no’? Order the information to convey the guide effectively.
