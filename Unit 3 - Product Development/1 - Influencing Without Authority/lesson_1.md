@@ -577,9 +577,7 @@ Instead of just ‘following the instructions’, become a self-motivated Produc
 
 Watch [Becoming Credible.](https://youtu.be/ABHeRVNfWes)
 
-In the last few videos, you learned the three key points to become credible at your workplace:
-
-Use your curious product manager mindset to learn about the:
+In the last few videos, you learned the three key points to become credible at your workplace. Use your curious product manager mindset to learn about the:
 
 - company
 - market
@@ -589,10 +587,6 @@ Build a solid foundation to understand the company’s purpose and its customers
 
 Putting in the time during your first few weeks to learn more about your company and product with help you to succeed in your new role.
 
-### Further Reading
-
-[]()
-
 <br>
 <br>
 
@@ -600,9 +594,11 @@ Putting in the time during your first few weeks to learn more about your company
 
 Watch [How can you build trust?](https://youtu.be/z9EwOfuxkDQ)
 
+<br>
+
 Take time to know your peer's teams. These are the cross-functional team members that you will be working with closely across the different stages of product development.
 
-Get to know your development team well. You will work closely to define what to build, how to build with this team.
+Get to know your development team _well_. You will work closely to define what to build so it's integral to know how to build with this team.
 
 <br>
 
@@ -610,7 +606,12 @@ What do you gain from this?
 
 Good team dynamics make or break a team. Building a strong relationship requires you to understand what everyone does, their challenges, and how you can help each other. 
 
-This lays the foundation for a cohesive team and opens up communication channels to share feedback because the team members know that all of you are working with each other towards a common goal.
+This lays the foundation for a cohesive team and opens up communication channels to share feedback. Your role as a PM is to promote team cohesiveness and foster collaboration, while allowing conflicts to be identified and addressed.
+
+Because the team members know that all of you are working with each other towards a common goal, it helps facilitate problem solving and reduce friction.
+
+Like any relationship, start early and continue to communicate clearly. This should be emphasized from the first 2-6 weeks, but continue on an ongoing basis.
+
 
 <br>
 <br>
@@ -627,23 +628,31 @@ Watch [The Approach to Know Your Team](https://youtu.be/nk7rfiSrbdc)
 
 ### The Core Team
 
-The product manager is shown in the center with a lot of arrows because you are going to be talking to a lot of people!
+The product manager is shown in the center with a lot of arrows because you are going to be talking to a _lot_ of people!
 
 <br>
 
-`Product Designer:` you will be working closely with them from the problem definition through the solution phase to launch the product and analyze the feedback. You will also conduct user research to validate both the problem and the solution.
+`Product Designer:` you will be working closely with them from the problem definition through the solution phase to launch the product and analyze the feedback. You will also partner to conduct user research to validate both the problem and the solution.
 
 <br>
 
-`Engineering Team:` You will be partnering with them to define how to solve the problem as you work with the designer.
+`Engineering Team:` You will be partnering with them to define how to solve the problem as you work with the designer. There are different roles within this team based on their expertise and skills. You'll partner with them simultaneously with the designer at times.
 
 <br>
 
-`Quality Assurance Team:` Often referred to as the QA team. This is your partner in crime to break the product that you are building to make sure it works as expected when it gets in the hands of real users.
+`Quality Assurance Team:` Often referred to as the QA team or Testing Team. This is your partner in crime who will try to break the product that you are building to make sure it works as expected when it gets in the hands of real users.
 
 <br>
 
-`Data Analyst:` Depending upon the company you may have a data analyst to partner with. These team members provide you with the various metrics: product metrics, company metrics. In order to analyze these metrics, it is important to have them tracked in the first place. You will partner with the data analyst to define the requirements to track the data, test to confirm the requirements are met successfully and set up various experiments as part of the product launch.
+`Data Analyst:` Depending upon the company you may have a data analyst to partner with. 
+
+Each of these team members provide you with the various metrics: product metrics, company metrics. In order to analyze these metrics, it is important to have them tracked in the first place. 
+
+You will partner with the data analyst to define the requirements to track the data, test to confirm the requirements are met successfully and set up various experiments as part of the product launch.
+
+<br>
+
+All four of these team members are referred to as the `Core Team` going forward.
 
 <br>
 <br>
@@ -654,32 +663,48 @@ Beyond the core development team a product manager may also interact regularly w
 
 <br>
 
-`Marketing:` In some companies, they may be called a product marketing team, adoption team, etc. You partner with this team to determine the activities to be carried out to ensure that the product you're launching is discovered by your customers and adopted successfully
+`Marketing:` In some companies, they may be called a Product Marketing team, Adoption team, Growth team, 8etc. You partner with this team to determine the activities to be carried out to ensure that the product you're launching is discovered by your customers and adopted successfully.
+
+Will there be a public announcement? Is there an enterprise customer who would be willing to test our feature before a public launch to share testimonials?
 
 <br>
 
-`Sales Team:` In some companies, they may be business development, account executives, etc. The sales team needs to understand the product features and their intended benefits clearly to be able to communicate them to potential clients.
+`Sales Team:` In some companies, they may be Business Development or Account Executives. 
+
+It's common to work closely with Sales in B2B2C products. 
+
+The sales team needs to understand the product features and their intended benefits clearly to be able to communicate them to potential clients.
 
 <br>
 
-`Customer Support Team:` Not every single user problem or product issue can be solved in the product immediately. After the product launch, they will be your front line team members interacting with irate customers sometimes and helping them to resolve issues.
+`Customer Support Team:` Not every single user problem or product issue can be solved in the product immediately. 
+
+After the product launch, they will be your front line team members interacting with irate customers sometimes and helping them to resolve issues.
+
+This team will be your front-line team members interacting with customers and helping them resolve issues. They might also be known as Customer Service or Customer Operations.
 
 <br>
 
-`Account Management Team:` Their name varies across companies such as client management, customer success, client implementation, and operations, etc. The account managers step in once the product has been sold. They take over the client relationship from the sales team to onboard and continue to manage the client relationship through product upgrades and renewals. You may partner with this team closely to receive customer feedback early on during the solution discovery phase, attend calls to pitch your new product idea, or resolve a major customer concern.
+`Account Management Team:` Depending on the company's size and product, you may partner with Account Managers. Their name varies across companies such as Client Management, Customer Success, Client Implementation, and Operations, etc. 
+
+The account managers step in once the product has been sold. They take over the client relationship from the sales team to onboard and continue to manage the client relationship through product upgrades and renewals. 
+
+You may partner with this team closely to receive customer feedback _early_ on during the solution discovery phase, attend calls to pitch your new product idea, or resolve a major customer concern.
+
+They also handle issues from the buyers, versus the users of the product (in the case of Enterprise products). The person who pays and buys the product is not always the same as the person who uses the product.
 
 <br>
 
-`Finance Team:` you will be responsible to make sure their reporting and accounting needs are met. Depending upon the type of company and product you manage your need to partner with finance team will vary.
+`Finance Team:` you will be responsible for making sure their reporting and accounting needs are met. Depending upon the type of company and product you manage your need to partner with the finance team will vary.
 
 <br>
 <br>
 
 Watch [One on Ones](https://youtu.be/p0_Bn5GBLfg)
 
-As a product manager, you have to work with almost every single team in the company If you work in isolation it is going to be very challenging for you to coordinate product launch, know when your product is not working or get someone's help because at end of the day we all need to help each other.
+As a product manager, you have to work with almost every single team in the company. If you work in isolation, it is going to be very challenging for you to coordinate product launch, know when your product is not working or get someone's help, because at end of the day, we all need to help each other.
 
-This is where the power of one-on-one meetings come in. You meet with an individual from the peer team that you will be working very closely with and will coordinate a lot.
+This is where the power of `one-on-one meetings` come in. You meet with an individual from the peer team that you will be working very closely with and will coordinate a lot.
 
 <br>
 
@@ -691,27 +716,35 @@ Reach out to your peers that you will work closely with to set up a meeting and 
 
 <br>
 
+Ask a lot of open-ended questions here and listen keenly to find out...
+
 - How do they collaborate?
     - Understand how they share feedback and new ideas.
-    - Are they receiving roadmap updates?
+    - Are they receiving roadmap updates frequently?
     - Are they being informed about product updates?
 
 <br>
 
 - What is working well in the current process?
-    - This will help you understand what you need to carry out specifically to collaborate with them
+    - This will help you understand what you need to carry out specifically to collaborate with them.
 
 <br>
 
 - What can you do to improve this process?
-    - Listen keenly to understand what are they asking and why? Knowing  this will help you identify tasks to address their feedback.
+    - Listen keenly to understand _what_ are they asking and _why_? Knowing this will help you identify tasks to address their feedback.
+
+If a team member tells you that they only find out about product launches roughly a week before they happen, that could be an issue. This gives them a limited timeline to plan launch activities, which then have to be rushed.
 
 <br>
 
-- What urgent issues do they believe need to be addressed now?
+- Are there urgent issues they believe need to be addressed now?
     - Is this something you can help solve?
 
+This question is not effective if you do not follow through on their answer or as discussed. 
+
 <br>
+
+They won't trust you in the future if you fail to follow-up. If you note something, then do it. That is how you become known as a reliable, trustworthy team member.
 
 - Follow up on your conversations.
     - This helps build trust that you were listening and care about what they think.
@@ -721,12 +754,48 @@ Reach out to your peers that you will work closely with to set up a meeting and 
 - Set up a regular meeting with them.
     - This helps build rapport with consistent contact.
 
+Determine this on a case-by-case basis. Just because you have a regularity that you meet with a team member, doesn't mean you're meeting with them often. 
+
+Make sure to ask for the help you need, particularly in identifying the key team member to coordinate with from each team.
+
+<br>
+
+Some companies have very specialized or unique roles, with particular responsibilities that impact the product or company in interesting ways. Meeting with and having lunch with a variety of team members will ensure you fully understand the organization, and who to speak with when different needs arise.
+
+Being pro-active and showing genuine interest in others will build rapport, so those team members will be more willing to help you in advance of when you need it.
+
 <br>
 <br>
 
 Watch [Knowing Your Development Teams](https://youtu.be/j4S-OaKpeoo)
 
-`What existing challenges need to be addressed?` Understand the current product implementation. How is the product built? What are the engineering goals you need to be aware of? From your 1x 1 meeting with the development team members, you gained a sneak peek into how the product has been built and how testing works.
+<br>
+
+### Engineering Team
+
+Knowing the development team is critical to your product's success. Reach out to each development team member to setup a meeting, to understand their roles and responsibilities.
+
+Because engineering can have a variety of team members based on their unique skillsets, it's important to speak to each of them and understanding what each one does specifically.
+
+<br>
+
+Ask: `How do you collaborate with product managers today?`
+
+Understand the process that they're currently following. Is it an Agile scrum process or Waterfall method?
+
+<br>
+
+`What works well and what can be improved?` It's important to find out what they enjoy about the current process (or previous PMs) and what they feel can be improved.
+
+<br>
+
+`What existing challenges need to be addressed?` Understand the current product implementation. How is the product built? What are the engineering goals you need to be aware of? 
+
+From your 1x 1 meeting with the development team members, you gained a sneak peek into how the product has been built and how testing works.
+
+It's entirely possible that if you join an existing product, there may be necessary fundamental changes to be made, in order to scale and grow. They may feel new features have taken priority over reducing technical debt.
+
+By understanding how the product is built, what changes they feel are need, and what happens when those changes are delayed...you can make a more informed decision. Plus, listening to the engineers keenly will build trust, so they know you respect their role and expertise.
 
 <br>
 
@@ -734,8 +803,14 @@ Watch [Knowing Your Development Teams](https://youtu.be/j4S-OaKpeoo)
 
 What are the challenges that need to be addressed? Are there any engineering goals to be accomplished? As a PM you are going to be managing a single list of tasks to complete (which is called backlog) and if that does not reflect their engineering goals how can they meet their goal?
 
+<br>
+
+If the engineering team is small, around 10 members, make sure to get to know each person individually. Again, you might not meet with them regularly, but you should build individual rapport, while still routing core issues and questions to your main point of contact, like the engineering manager.
 
 <br>
+<br>
+
+### Testing Team
 
 
 `Understand the current testing process.` Extend the same philosophy to the QA team member.
@@ -823,6 +898,12 @@ Don't forget to follow up on items discussed. Always follow-up even if that mean
 # Build Trust: Summary
 
 Watch [Building Trust Overview.](https://youtu.be/dcHbPb602-g)
+
+Take time and put in effort to know the people you're working with, and avoid being isolated. 
+
+Good team dynamics make or break a team. Building a strong relationship where you understand what each other do and their challenges, will help you determine how you can best partner with them. 
+
+This is the foundation for a cohesive team with open communication channels so feedback, updates and push back are freely given in support of a common goal.
 
 <br>
 <br>
