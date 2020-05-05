@@ -279,9 +279,11 @@ The company's mission statement.
 
 # Know Your Market
 
-Watch [What do you need to learn?](https://youtu.be/u1i0HHQmgHc)
+Watch [Evaluating the Market, Part I](https://youtu.be/u1i0HHQmgHc)
 
-As a Product Manager, you are tasked with the responsibility to determine what are the best next focused set of initiatives that you and your team should take to progress towards the company and the product's goals. In order to do this effectively you need to understand the market, how is it evolving and what are the opportunities for you to tackle.
+As a Product Manager, you are tasked with the responsibility to determine what are the best next focused set of initiatives that you and your team should take to progress towards the company and the product's goals. 
+
+In order to do this effectively you need to understand the market, how is it evolving and what are the opportunities for you to tackle.
 
 <br>
 
@@ -289,34 +291,41 @@ As a Product Manager, you are tasked with the responsibility to determine what a
 
 <br>
 
-In order to define the market, let’s look at different techniques that can we used to identify key attributes to better define your target customer in the market.
+In order to define the market, let’s look at different techniques that we can use to identify key attributes to better define your target customer in the market.
 
 <br>
 
 `Psychographic Segmentation` is used to categorize people based on their values, interests, opinions, and attitude.
 
-Let’s apply this to Sworkit. If you look at their company, they are trying to cater to individuals who are comfortable with technology and confident to exercise individually within the confines of their home without the need to be in a fitness gym space. This distinguishes their target customer very clearly from those individuals who do not like working out of a home but would rather go to a gym and have a place that is dedicated to exercise.
+Let’s apply this to Sworkit. If you look at their company, they are trying to cater to individuals who are comfortable with technology and confident to exercise individually within the confines of their home without the need to be in a fitness gym space. 
+
+This distinguishes their target customer very clearly from those individuals who do not like working out of a home but would rather go to a gym and have a place that is dedicated to exercise.
+
+Building Sworkit to also attract users to enjoy going to the gym is counterproductive.
 
 <br>
 
 `Demographics Segmentations` is used to categorize people based on race, gender, and other demographic traits.
 
-Demographic segmentation is an outcome of the psychographic segmentation since we now know an individual's sexual orientations. Others can be categorized based on age group, income bracket, and geographical locations
+Demographic segmentation is an _outcome_ of the psychographic segmentation since we now know they can be individuals of any sexual orientation, age group, income bracket, and geographical location. We can use those categories to further segment them.
 
 <br>
 
-`Behavioral Segmentation` is another key attribute that will help you understand user behavior. What action do your customers take, why do they take it and when i.e how frequently. 
-
-In our Sworkit example, the exercisers prefer to work out on a regular basis (could be twice a week, five a week) depending upon a combination of factors such as their fitness level, time available to workout.
+Watch [Evaluating the Market, Part II](https://youtu.be/L5KkIbq8wDw)
 
 <br>
 
-`Needs-based Segmentation:` The key to success will be understanding their unmet needs that will help you pick the right problem to solve.
+`Behavioral Segmentation` is another key attribute that will help you understand user behavior. What action do your customers take, why do they take it and when (i.e how frequently). 
+
+In our Sworkit example, the exercisers prefer to work out on a regular basis (could be twice a week to five times a week) depending upon a combination of factors such as their fitness level, time available to workout, etc.
+
+<br>
+
+`Needs-based Segmentation:` The key to success will be understanding their _unmet needs_ that will help you pick the right problem to solve.
 
 <br>
 <br>
 
-Watch [Evaluating the Market.](https://youtu.be/L5KkIbq8wDw)
 
 Let’s revisit our Sworkit example to understand this better. 
 
