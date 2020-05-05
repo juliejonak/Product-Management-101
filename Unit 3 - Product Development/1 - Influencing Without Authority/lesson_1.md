@@ -471,7 +471,28 @@ Yes! Not having the necessary functionality in place (e.g allow users to unsubsc
 Watch [The Approach, Part 1](https://youtu.be/-7pLKPw70yA)
 Watch [The Approach, Part 2](https://youtu.be/dnxS0AqxwAY)
 
-The first step to knowing your product is testing the product. A common slang you may hear is `‘dogfooding’`, where the company tests the product that is going to launch to identify and fix issues. In this scenario, there is no product launch but you are testing the product to understand how it functions.
+<br>
+
+![Know Your Product](./img/Know_Your_Product.png)
+
+<br>
+<br>
+
+When you first join your new company, your manager will spend time to help you understand the product strategy. Most of the time, you'll join an existing product.
+
+How does your product fit into the overall company strategy? What is expected of you in this role?
+
+This information is helpful, but incomplete if you don't know your product in terms of functionality, quality and how it measures against the product matrix today.
+
+Knowing your starting point will help you determine how and if you reach the right destination.
+
+<br>
+
+The first step to knowing your product is testing the product. 
+
+A common slang you may hear is `‘dogfooding’`, where the company tests the product that is going to launch to identify and fix issues. 
+
+In this scenario, there is no product launch but you are testing the product to understand how it functions.
 
 <br>
 
@@ -488,41 +509,64 @@ Another important reason to test is you will understand:
 - How does your product interact with other parts of the company's product(s)?
 
 <br>
+<br>
 
 Using the Sworkit example here, if you joined their product team, how would you go about getting up to speed on the product?
 
-You might take a look at the images from the app store listing, just like a user would and read the information and reviews. You might download the app and try to create a new account using a non-existent account to read the error messages displayed and try to request a new password. The goal here is to understand how useful or informative are the error messages.
+- You might take a look at the images from the app store listing, just like a user would and read the information and reviews. 
 
-You might try out a few workouts, and see if the summary received was insightful? You might opt into the notifications or reminders and see how they work. Essentially be put yourself in the shoes of a user.
+- You might download the app and try to create a new account using a non-existent account to read the error messages displayed and try to request a new password. The goal here is to understand how useful or informative the error messages are -- and does the tone represent the brand well?
+
+- You might try out a few workouts, and see if the summary received was insightful. Was the workout summary helpful or insightful?
+
+- You might opt into the notifications or reminders and see how they work. Did the app ask me to receive notifications or reminders about my workout?
+
+- You might continue to use the app for days or weeks to see how notifications and experiences change over time.
+
+Essentially put yourself in the shoes of a user. Reading the documentation isn't the same as understanding the functionality by using it personally.
 
 <br>
 
 By the time you finished testing, you would have formed an opinion:
 
-- Is the product delighting its users?
-- Is the product meeting the customer needs? 
+- Is the product delighting my users?
+- Is the product meeting the customer needs that I have learned from the market and company analysis? 
 - If not, where are the gaps?
 
 
 The answers to all of these questions and your experience will lead you to your first list of issues and improvements.
 
 <br>
-
-![Know Your Product](./img/Know_Your_Product.png)
-
 <br>
 
-The second most important task is to know how your product is doing. This is where the data comes. Spend time understanding how the data is being tracked and what tools are being used such as [Google Analytics](https://marketingplatform.google.com/about/analytics/), [Mixpanel](https://mixpanel.com/), [Kissmetrics](https://www.kissmetricshq.com/), etc.
 
-Depending upon the analytics platform the company uses, you can understand the user journey within the product to find where do they exist, what do they most frequently use the product for by understanding the tracking events triggered based on the user's interaction with the product.
+The second most important task is to know how your product is doing. This is where the data comes. 
 
-You may want to analyze data on your own. In order to do this, you need to know the name of the events triggered. For example, when a user clicks on the ‘Sign Up’ button in the mobile app, is the tracking event fired under the name ‘mobile sign up cta’ or ‘mobile sign up submit’. This is an effective way to familiarize yourself with the analytics platform. Use the analytics platform to understand how your product is currently performing. This is going to help you not only identify areas of improvement but also understand how to prioritize issues, what requirements need to be written to implement a new feature
+Spend time understanding how the data is being tracked and what tools are being used to track it, such as [Google Analytics](https://marketingplatform.google.com/about/analytics/), [Mixpanel](https://mixpanel.com/), [Kissmetrics](https://www.kissmetricshq.com/), etc.
+
+Depending upon the analytics platform your company uses, you can understand the user journey within the product to find where do they exist, what do they most frequently use the product for, and track events triggered based on the user's interaction with the product.
+
+You may want to analyze data on your own. In order to do this, you need to know the name of the events triggered. 
+
+For example, when a user clicks on the ‘Sign Up’ button in the mobile app, is the tracking event fired under the name ‘mobile_sign_up_cta’ or ‘mobile_sign_up_submit’? 
+
+This is an effective way to familiarize yourself with the analytics platform. 
+
+Use the analytics platform to understand how your product is currently performing. This is going to help you not only identify areas of improvement but also understand how to prioritize issues and what requirements need to be written to implement a new feature.
+
+<br>
 
 When you utilize the information from testing the product and understanding the right data you will be able to pull the list of feature requests, issues, and roadmap initiatives that will help you identify the strengths and weaknesses of your product. Only then will you understand the feature request, the product strategy, and initiatives more completely.
 
 <br>
 
-Knowing your product goes beyond just knowing the product strategy and the list of initiatives for you to blindly execute. Test the product and understand how to combine this with information about the market and company to evaluate various types of items ranging from issues reported by users, feature requests to roadmap item effectively. 
+Knowing your product goes beyond just knowing the product strategy and the list of initiatives for you to blindly execute. 
+
+Test the product and understand how to combine this with information about the market and company to evaluate various types of items ranging from issues reported by users, feature requests to roadmap item effectively. 
+
+This will help make more sense of the details that have been provided to you about the product, and bring up follow-up questions that will help you understand the product strategy, roadmap of initiatives and feedback better. Asking questions is key!
+
+<br>
 
 Instead of just ‘following the instructions’, become a self-motivated Product Manager who forms opinions based on product working knowledge and data. This is a key trait that is valued in every company regardless of their size and geographical location!
 
