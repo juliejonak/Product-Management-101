@@ -329,7 +329,11 @@ In our Sworkit example, the exercisers prefer to work out on a regular basis (co
 
 Let’s revisit our Sworkit example to understand this better. 
 
-We know that Sworkit exercisers like having a workout routine. What is the definition of a workout routine here? A workout routine could include a specific number of workouts to be completed within a week. This workout routine could be pre-defined or customized but also what goes into each workout matters. 
+We know that Sworkit exercisers like having a workout routine. What is the definition of a workout routine here? 
+
+A workout routine could include a specific number of exercises that are combined to create one workout, to be completed a certain number of times within a week. This workout routine could be pre-defined or customized but also what goes into each workout - the exercises - matters. 
+
+<br>
 
 If the workout needs of the target customers are: 
 
@@ -343,38 +347,69 @@ vs.
 These are very different needs and there are going to different ways to solve them.
 
 <br>
+<br>
 
 `Market Size` 
 
 We can better understand the market size based on the target customer that has been defined using segmentation techniques above.
 
 
-We can narrow down the market size to individual adults who are willing to use digital fitness products like mobile apps to progress in their fitness journey towards an active and healthy lifestyle in the U.S.
+Then we can narrow down the market size from publicly availablye information, like using market reports, financial reports of companies, competitors, and trend reports.
+
+The market size is based on the target customer you've just identified with the segmentation techniques.
+
+For Sworkit, we can't just narrow down to individuals in the US looking to maintain a healthy lifestyle.
+
+They also must be willing to use digital fitness products like mobile apps to progress in their fitness journey.
+
+Those two market sizes are different.
 
 <br>
 
 `Market Trends`
 
-Next, we want to consider what are the different market trends that affect the company? it could be a combination of different factors such as your customer needs and preferences are changing, technology and advancements in the Fitness is changing. you need to be aware of this. It's important to understand if your identified market is growing or shrinking.
+Next, we want to consider what are the different market trends that affect the company? 
+
+It could be a combination of different factors such as your customer needs and preferences are changing, technology and advancements in the Fitness is changing. you need to be aware of this. It's important to understand if your identified market is growing or shrinking.
+
+You also need to understand if the market is growing, stagnant or shrinking; and the market trends affecting growth, like customers needs are changing or there's a technological advancement that's causing it to evolve.
 
 <br>
 
 `Expand Your Target`
 
-Segment How you expand is very crucial because as a company you're going to have limited resources and time. Define potential adjacent where the company’s capabilities and strengths can be easily extended to create a new product to satisfy a new segment, which will help the company generate additional value in terms of revenue.
+Segment How you expand is very crucial because as a company you're going to have limited resources and time. 
+
+Define potential adjacent where the company’s capabilities and strengths can be easily extended to create a new product to satisfy a new segment, which will help the company generate additional value in terms of revenue.
+
+Companies have a limited set of resources and time, so properly identifying adjacent markets is integral to allocating them for best added value and revenue.
+
+<br>
+
+Sworkit identified an adjacent market: youth.
+
+Schools have limited resources to fund comprehensive fitness and nutrition programs, globally; and children spent time at home on mobile apps and playing video games, which could be transitioned into fun fitness time.
+
+Sworkit was able to extend their existing product strengths and capabilities to expand into a new, yet adjacent, market.
 
 <br>
 <br>
 
 Watch [Understanding your customers.](https://youtu.be/gIEk5k5BhEw)
 
-You can use publicly available data and information available from your company to define the market and understand your customers. All this quantitative data will become more powerful when you actually combine it with qualitative data because this is going to help you understand your customers better and make your storytelling more powerful.
+You can use publicly available data and information available from your company to define the market and understand your customers. 
+
+All this quantitative data will become more powerful when you actually combine it with qualitative data because this is going to help you understand your customers better and make your storytelling more powerful.
 
 <br>
 
 ### Talk to Your Customers
 
-One of the most often undervalued but powerful tactic is talking to your customers. Interview your customers to gather information about what they do, why do they do what they do? Is their a current alternative product used, what do they like about? Of course, it requires open-ended questions. Spend time understanding your customers. That'll help you unearth rich insights about them.
+One of the most often undervalued but powerful tactic is talking to your customers. 
+
+Interview your customers to gather information about what they do, why do they do what they do? Is their a current alternative product used, what do they like about? 
+
+Of course, it requires asking open-ended questions. Spend time understanding your customers. That'll help you unearth rich insights about them.
 
 <br>
 
@@ -387,24 +422,29 @@ With Sworkit, we talked about individuals needing customized workout plans. You 
 
 - Their current workout needs a few exercises to be swapped before they could progress to the next fitness level and utilize a pre-defined workout.
 
-- Observe Your Customers
-
-- Observe your customers. You cannot uncover user-experience focused requirements if you have not observed your target customers in their environment.
-
 <br>
 
-In the Sworkit example, we will observe our target customers in a fitness gym.
+### Observe Your Customers
 
-You observe that users take a break for a few minutes and in some instances, a few users started an exercise and skipped it to move on to the next one.
+Observe your customers. You cannot uncover user-experience focused requirements if you have not observed your target customers in _their_ environment.
+
+In the Sworkit example, we would observe our target customers in a fitness gym.
+
+You might observe that users take a break for a few minutes and in some instances, a few users started an exercise and skipped it to move on to the next one.
+
+<br>
 
 Observing these nuances helps you ask clarifying questions to gather insights such as:
 
 - One user skipped an exercise due to body soreness today while the other needed to take a break for a few minutes before resuming their workout.
 
-These insights cannot be found unless you observe your target customers and talk to them. Then, when you design the product you will add a feature to skip an exercise or pause and resume a workout. When your customer uses this, they will be delighted and probably say ‘ this product gets me. I like it!’
+These insights cannot be found unless you observe your target customers and talk to them. 
+
+Then, when you design the product you will add a feature to skip an exercise or pause and resume a workout. When your customer uses this, they will be delighted and probably say ‘This product gets me. I like it!’
 
 That is a moment for you to rejoice!
 
+<br>
 <br>
 
 Knowing your market goes beyond just knowing who your target customer is and their ‘unmet’ needs at a high level. It is about learning the rich details that define your customer using various segmentation techniques and utilizing them to assess the market better
