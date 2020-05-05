@@ -912,20 +912,39 @@ This is the foundation for a cohesive team with open communication channels so f
 
 Watch [How can you guide the team?](https://youtu.be/3bqku9Rd91o)
 
+Product Management comes with great responsibility and no power.
+
+While this is a joke about PMship...it's also the reality. It's often not a straightforward role so learning frameworks and becoming expert at identifying problems help, but do not guarantee, positive launches.
+
+Soft skills matter equally or even more than technical skills. Great characters and public figures are almost all great at the art of storytelling.
+
+<br>
+
 `The Art of Storytelling`
+
+All the effort you've put into understanding the customers and data come together in the form of storytelling.
+
     - Create a very powerful and engaging story to communicate your project scope.
-    - Get your audience will be able to empathize with your user and their problems.
+    - Your audience will be able to empathize with your user and their problems.
     - Weave your story to help the audience in connecting the dots between the user and their problem to the product strategy and goals.
+
 
 <br>
 
 `Master the Art of Saying No`
+
+You will run into situations where your collaborative team members will share an idea they're very excited about. This is great, because it means you've built social capital to where people are comfortable sharing with you.
+
+Now you need to listen and respond accordingly - which is often the Art of Saying No.
+
     - You should listen to ideas and feedback.
     - Respond according to the product strategy and goals.
 
 <br>
 
 `Run Meetings Effectively`
+
+You'll need to meet with your peers frequently - to where you may spend many hours a day or week in meetings. You can't ignore them, but you can run them effectively so the end result isn't confusion or frustration.
 
     - Make sure decisions are made.
     - Keep the conversation on topic.
@@ -934,17 +953,28 @@ Watch [How can you guide the team?](https://youtu.be/3bqku9Rd91o)
 <br>
 
 `Be an Expert Negotiator`
+
+There are times when your expectations differ from those of your peers. Like when planning a vacation with loved ones, it's important to compromise evenly to build an exciting plan for everyone.
+
+In the same way, negotiation is necessary - but looks different from what you might usually think of. It focuses on collaboration around a common goal, versus a competition with a single winning idea.
+
 - Concentrate on achieving a common goal.
 
 <br>
+
 `Set Everyone Up for Success by Coordinating Well`
+
+You'll learn how to setup a map of coordination activities so everyone in the organization is setup for success.
 
     - Create coordination activity maps.
 
 <br>
 
 `By Guiding the Team you Will be Achieving Better Outcomes as a Team`
-    - You should always be guiding the team towards sucess.
+
+All of these matter because they lead to a better team outcome. This is a team, not individual, sport.
+
+    - You should _always_ be guiding the team towards sucess.
 
 <br>
 <br>
@@ -953,20 +983,55 @@ Watch [How can you guide the team?](https://youtu.be/3bqku9Rd91o)
 
 Watch [How Can you Become a Storyteller? Part 1](https://youtu.be/1NLaE2v_tGA)
 
-Watch [How Can you Become a Storyteller? Part 2](https://youtu.be/Xu-2qLObCTc)
+<br>
+
+Your role as a storyteller becomes most important when you need to:
+
+- get buy-in from a key stakeholder
+- receive approval from a manager
+- inspire the development team
+
+Your job is to paint a compelling picture of "Why" - so they believe in the product and _want_ to invest their time and effort to build it. 
+
+Because you learned the most about the user, product and market, you are the key person to sell it. You need to share with them what you know, to help collaboration and moving together towards the shared goal.
 
 <br>
 
 Becoming a storyteller means moving away from requirements, numbers and graphs and focusing on the user, their problems and the impact to make it more engaging for the audience to believe in the problem, the proposed solution and impact of solving it.
 
-- What problem is being solved?
-- How does it impact the user?
-- What is the impact of solving the problem on product strategy and goals?
-- What is the solution?
+- `What problem is being solved?` You need to highlight the important of the problem you want to solve.
+
+- `How does it impact the user?` How is the problem affecting the user? What is the impact of the user not completing the desired action? Share the user's motivations and emotions through winning and frustrating moments of their journey, to build empathy with the target user.
+
+- `What is the impact of solving the problem on product strategy and goals?` Why does the problem matter over any other problem to the company now? What is the impact to the company? 
+
+Tie it back to the product strategy and goal, so everyone understands the prioritization of this particular problem and share sensitivity around the timeline.
 
 <br>
 
+ - `Engage with your audience:` Storytelling is a two-way interaction, where you should engage your audience by hearing their thoughts and opinions.
+
+Maybe your sales team member can relate to the problem and share, "I've experienced this problem and it's affected me from successfully completing a sale."
+
+That adds credibility and validation to your problem as well. If you don't engage, they will not focus on your solution and will miss key points.
+
 As a Product Manager, how can you become an engaging and inspiring storyteller? Order the following information to convey your story best.
+
+<br>
+
+- `What is the solution?` Now that you've convinced everyone of the problem and its urgency, it's time to unveil the solution.
+
+How you do this matters. Have a walkthrough of the solution using a design prototype (over reading the PRD). Tie everything back to the information you shared initially - how does the design take into consideration the user? The company's goals? How does it create winning moments?
+
+At the end, you can also list the rejected alternatives with the reasoning for rejecting those.
+
+<br>
+<br>
+
+Watch [Storytelling with Sworkit](https://youtu.be/Xu-2qLObCTc), where we circle back to Sworkit to learn about Storytelling more. We noticed some of the beginner and intermediate users were no longer returning to the app.
+
+<br>
+<br>
 
 | Information | Priority |
 | ----------- | -------- |
@@ -1113,22 +1178,296 @@ It is important to understand the team member’s idea or feedback clearly and c
 
 # Run Effective Meetings
 
-Watch []()
+Watch [How can you run effective meetings?](https://youtu.be/-0D1lv5-dGE)
 
-### Further Reading
 
-[]()
+![How to run effective meetings](./img/Effective_Meetings.png)
+
+![A Sneak Peek into a PM's Weekly Schedule](./img/Weekly_Schedule.png)
+
+<br>
+
+The above Sneak Peek into a PM's weekly schedule is not made up. They really can be that meeting heavy.
+
+As a product manager, you cannot skip meetings unfortunately. Sometimes you'll have a meeting free day, but only if you take control of how you run meetings, to ensure they're efficient. You might even need to learn how to say "no" to meetings where you aren't actually needed.
+
+<br>
+
+How can we accomplish this?
+
+Meetings are essential to discuss and make decisions to progress or unblock the team, use it wisely to be effective and productive.
+
+### Plan your meeting
+
+- Ask yourself, "`Is this meeting necessary?` Can we instead collaborate just as well via Slack or Google Hangouts?"
+
+Avoid meetings and collaborate via internal tools where possible. If it's merely to review a decision made, simply send an internal memo or email to the appropriate people.
+
+<br>
+
+- `Identify who is essential to that meeting:` Do not hesitate to reach out and ask to schedule a meeting, but only invite those who are required to understand what is being proposed or make a decision to move forward.
+
+- `Determine the purpose of the meeting:` Send an invite with the meeting purpose, context, agenda and any additional documents that will be reviewed prior or during the meeting.
+
+This will help the attendees to understand the purpose and be better prepared for it. 
+
+<br>
+<br>
+
+### Make the meeting meaningful
+
+What does "meaningful" mean? It's very vague.
+
+- `Stick to the agenda:` This is _very_ important - it cannot be emphasized enough. Without this, you'll constantly be running late from one meeting to another without proper decision making, leading to more meetings.
+
+> "Let's have another meeting to discuss what we discussed in this meeting."
+
+_Nobody_ wants to do that and it's ineffective. The best way to avoid that situation is to stick to the agenda, and continually remind yourself and the attendees as needed about the time.
+
+<br>
+
+- If any sticky issues come up, `minimize the distractions` and instruct them to follow-up with one another internally, after the meeting, unless it's critical to the exact issue on the agenda.
+
+This helps them focus on just getting the job done and trains them to stay on topic over time.
+
+<br>
+
+- `Capture key takeaways:` based on what has been discussed, like decisions made that need to be communicated across the team or to stakeholders.
+
+<br>
+
+- Never, ever leave the meeting without `identifying the next steps:` what are the follow-up action items and who are the owners?
+
+Request the owners to provide a deadline for when they expect to complete that action item. If that's not possible, ask for a deadline for when they can share the deadline for that action item.
+
+It sounds tedious but it will make the entire teams' lives easier.
+
+<br>
+<br>
+
+### Always Follow-Up : Broadcast the outcome
+
+Some team members will need to be informed about decisions made during the meeting.
+
+- `Share key takeaways and next steps` with everyone who attended the meeting _and_ stakeholders who need to be informed.
+
+This can be done via email, internal tools, or adding notes to project tracking tools - depending on where your team is most active.
+
+If your meeting was to get buy-in from your sales team, you probably met with the sales team, product designer and a marketing team member to share the feature and receive feedback.
+
+Document the outcome of the meeting and share it with those attendees -- but also the development team and head of product, so they're aware of the feedback that was shared and the overall outcome of the meeting.
+
+<br>
+<br>
+
+### Exercise 
+
+As a Product Manager, how can you manage meetings effectively and increase the team’s overall productivity? 
+
+Fill in the chart below with the following options, to show proper priority order.
+
+- Capture key takeaways and next steps. The next steps include action items with owners and timelines identified
+
+- Determine the meeting purpose, owner and attendees
+
+- Stick to the agenda and meeting duration, and minimize distractions, by suggesting team members to follow-up offline
+
+- Communicate key takeaways and next steps with everyone that attended the meetings and stakeholders that need to be informed
+
+- Send an invite with meeting purpose, context, agenda and additional documents, enabling attendees to be prepared
+
+<br>
+
+| Priority | Information |
+| -------- | ----------- |
+| First | ? |
+| Second | ? |
+| Third | ? |
+| Fourth | ? |
+| Fifth | ? |
+
+<br>
+
+<details>
+<summary>See the solution...</summary>
+
+Always start with identifying the purpose and communicate it with everyone so they can be prepared. The key to running a meeting effectively is sticking to the agenda and leaving the meeting with knowing what has been agreed upon or what needs to happen next. Last but not least, communicate with involved team members.
+
+<br>
+
+| Priority | Information |
+| -------- | ----------- |
+| First | Determine the meeting purpose, owner and attendees |
+| Second | Send an invite with meeting purpose, context, agenda and additional documents, enabling attendees to be prepared |
+| Third | Stick to the agenda and meeting duration, and minimize distractions, by suggesting team members to follow-up offline |
+| Fourth | Capture key takeaways and next steps. The next steps include action items with owners and timelines identified |
+| Fifth | Communicate key takeaways and next steps with everyone that attended the meetings and stakeholders that need to be informed |
+
+<br>
+</details>
 
 <br>
 <br>
 
 # Negotiation
 
-Watch []()
+Watch [How can you negotiate effectively?](https://youtu.be/pWyFTVpuBcY)
 
-### Further Reading
+![Negotiation Skills](./img/Negotiation_Skills.png)
 
-[]()
+<br>
+
+![Common Sticky Situations](./img/Situations.png)
+
+<br>
+
+Above, you'll see some common sticky situations you just might find yourself in as a PM, such as...
+
+You just finished your storytelling session with the development team member and the designer met with the engineering team to walk through all the details of the solution. 
+
+You heard this the engineering team doesn't like the new feature design and your designer is upset on hearing this. What would you do?
+
+<br>
+<br>
+
+This is where Negotiation Skills come in handy. When multiple people disagree on something, they discuss the topic with the goal of arriving at a conclusion.
+
+In these situations, one or more team members have to work together but disagree or have a conflict. We have to un-block these scenarios to still achieve the goal.
+
+<br>
+
+- `Focus on team dynamics` first and foremost. Understand the problem in-depth before trying to do anything else.
+
+    - Talk with the Engineer and the Researcher to `hear both sides of their story and validate their concerns`.
+
+    Apply the skills you learned in the Art of Saying No to listen intently and fully understand each person's perspective. 
+    
+    Ask clarifying questions to find the discrepancy between both perspectives and if any assumptions are being made but not communicated. Your understanding of the motivations and feedback need those.
+
+    - `Remind everyone that we're here to work together` and find a solution together.
+
+    It may seem trivial but doing this with open, calm body language can get everyone back to looking at the bigger picture. Emphasize the need for "One team, one goal." It can be uncomfortable but necessary.
+
+<br>
+<br>
+
+- `Identify the "real problem" to solve` and the goal to achieve. Why is "real problem" in quotes? Because what team members might walk into the meeting assuming the issue is...might not be the underlying blocker preventing resolution and agreement. Sometimes these aren't expressed clearly - intentionally or unintentionally.
+
+    - By working with the team, you can `identify the root problem` and reset the goal to solve that problem.
+
+    You won't arrive at an agreement that benefits the product as a whole, by dissecting the various solutions and POVs. What is more important is to un-earth the true issue. Get agreement around that first.
+
+In our example, the engineering and design disagreement might come from a conflicting perspective on how to best use their time and effort. The engineers said they felt the design was both not very effective and yet looked overly complex to execute. 
+
+They were taking into consideration the cost and time to fully build the design presented, that couldn't be executed with an existing library, so would require them to build a fully custom library. Based on other data, they think this will likely be a "throwaway" iteration, so do not want to invest time into doing this highly complex engineering issue.
+
+This shows their motivations and feedback was not about how the design _looked_ and _felt_ but was about minimizing throwaway work and bringing up concerns about the required time and effort of this design. 
+
+Knowing this, what would you do next?
+
+<br>
+
+Watch [How might you handle this situation?](https://youtu.be/-Q0IaYmLCik)
+
+<br>
+
+<br>
+
+Would you highlight the user research conducted to validate the design solution?
+
+While this is a good start, you shouldn't stop there. You need to dig into the details and find out the specific aspects of the design that concerns the engineering team.
+
+Learning the specifics will help un-earth the root problem. This clarifies if the design needs to be redone completely or tweaked in particular places.
+
+This removes personal opinion and focuses on valid expertise from each team. `It's important to distinguish the problem from the opinions.`
+
+<br>
+<br>
+
+
+- `Evaluate solutions against guiding principles` - guidelines that help teams make decisions.
+
+    - `List solutions that solve the goal.`
+
+    - `Evaluate these new solutions against your guiding principles.`
+
+<br>
+
+In our example, our guiding principle might be "As a product, design and engineering team, we want to launch a solution faster to the market without adding complexity to the code, and while retaining the ability to iterate upon the solution based on the user feedback."
+
+Clarifying this guiding principle and then getting the group to consensus over this goal, will help move the conversation away from convincing the "other side" to focusing on solutions that encompass the mutual goals.
+
+This focuses the goal on the product and not on a single team's concerns.
+
+<br>
+<br>
+
+As a Product Manager, you will be negotiating whether you realize it or not to make big and small decisions. 
+
+The impact and nature of these decisions may vary but the underlying principles are the same:
+
+- Focus on team dynamics
+- Identify the real problem to solve and the goal to achieve
+- Evaluate solutions against guiding principles
+
+Negotiation may look different in each scenario too - if your customer or client is unhappy, it may require going back to user interviews and market research to validate assumptions and clarify the problem.
+
+<br>
+
+Watch [a real world example of negotiation in product management](https://youtu.be/iBGVtkytK6k)
+
+<br>
+<br>
+
+### Example
+
+As a Product Manager, how can you negotiate effectively to achieve better outcome as a team?
+
+Order the following steps in the chart below:
+
+- Distinguish the real problem to solve from opinions and solutions 
+
+- Listen with the intent to understand involved team members' stances and the motivation behind different stances
+
+- Evaluate these soluitons against the guiding principles to arrive at a conclusion
+
+- List solutions focused on solving problems and achieving goals
+
+- Emphasize "One Team, One Goal"
+
+- Remind and clarify the agreed-upon guidelines to help the team make decisions
+
+<br>
+
+| Priority | Information |
+| -------- | ----------- |
+| First | ? |
+| Second | ? |
+| Third | ? |
+| Fourth | ? |
+| Fifth | ? |
+| Sixth | ? |
+
+<br>
+
+<details>
+<summary>See the solution...</summary>
+
+Listen first to speak clearly. By understanding everyone’s point of view and their motivation, you are able to help everyone feel heard so they can focus on the bigger picture ‘one team, one goal’. This will allow you to ask clarifying questions to uncover the real problems and proceed to generate solutions and evaluate them against the guiding principles agreed upon by the team.
+
+<br>
+
+| Priority | Information |
+| -------- | ----------- |
+| First | Listen with the intent to understand involved team members' stances and the motivation behind different stances |
+| Second | Emphasize "One Team, One Goal" |
+| Third | Distinguish the real problem to solve from opinions and solutions |
+| Fourth | Remind and clarify the agreed-upon guidelines to help the team make decisions |
+| Fifth | List solutions focused on solving problems and achieving goals |
+| Sixth | Evaluate these soluitons against the guiding principles to arrive at a conclusion |
+
+<br>
+</details>
 
 <br>
 <br>
