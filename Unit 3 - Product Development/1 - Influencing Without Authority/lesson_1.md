@@ -1474,11 +1474,106 @@ Listen first to speak clearly. By understanding everyone’s point of view and t
 
 # Coordinate Early
 
-Watch []()
+Watch [the DACI responsibilities matrix.](https://youtu.be/w9AiHTjA5zI)
 
-### Further Reading
+<br>
 
-[]()
+As a PM, you're responsible for so many aspects of the process and providing sufficient information to every team for managing the work schedule, that you need a way to stay organized.
+
+This can be seen in a Coordination Activities Map. But first, we have to outline a...
+
+## DACI Responsibilities Matrix
+
+When creating a coordination activities map, the first step to defining the coordination activities is to determine the responsibilities of those who you would be working with. 
+
+The goal of defining the responsibilities is to minimize the confusion and promote transparency in order to drive decisions.
+
+You will use a `DACI Matrix` which stands for `D`river, `A`pprover, `C`ontributor, and `I`nformed. 
+
+<br>
+
+![DACI Matrix](./img/DACI.png)
+
+<br>
+
+### Driver
+
+- It's usually limited to only one person
+- Drives decisions that move the project forward
+- Usually the Product Manager - but it can be someone else based on the task
+- Responsibilities:
+    - Schedule and run meetings
+    - Gather feedback
+    - Negotiate with decision-makers
+    - Make trade-off decisions
+    - Followup with stakeholders
+
+<br>
+
+### Approver
+
+- Try to limit to a small group or even one person
+- Has final say on a specific aspect of the project, like an engineering Solutions Architect or Head of Product
+- The person in this role varies
+- Not all items need to be approved and not all tasks need an approver
+- Having one person as the approver expedites the process
+
+<br>
+
+### Contributor
+
+- Give opinions or expertise, to help with project decisions, but they...
+- Do _not_ make decisions
+- Can be assigned to many different roles in an organization
+
+<br>
+
+### Informed
+
+- Are updated on the progress as it impacts their work
+- Do not make decisions and have no authority over the decisions
+- Could be anyone who's work is impacted (i.e. Product Marketing team members)
+
+<br>
+<br>
+
+A product launch is not just about getting a beautiful produect out to the customers. It's also meant to support every single possible interaction a user can have with the product - having the customer see the relevant info on the company's landing page, to learn about the new feature.
+
+The PM needs to get everyone involved early and keep them up to date to set them up for launch success.
+
+<br>
+<br>
+
+## Coordination Activities Map
+
+Watch [What is a coordination activities maps?](https://youtu.be/ez559E_9Pbs)
+
+<br>
+
+![Coordination Activities Map](./img/CAP.png)
+
+<br>
+
+
+
+
+<br>
+<br>
+
+### Example
+
+Your project is close to completion and one of your engineers is out for the next 3 weeks due to a personal emergency. Your Head of Engineering informed that additional team members cannot be allocated to your project without delaying another Product Manager’s project due to overall resource constraints. 
+
+You discussed with the Impacted Product Manager and they are concerned about the potential delay by reallocating their team members for 3 weeks. You have set up a meeting with the Head of Product, Head of Engineering and Impacted product manager to discuss this and arrive at an outcome. 
+
+<details>
+<summary>Who will be the approver in this meeting?</summary>
+Head of Product.
+
+The impacted PM can provide their input, but the impact of delaying one product priority vs. another is determined by the Head of Product.
+
+The Head of Engineering cannot make a decision single handedly due to resource constraints and potential delay of another critical product launch. 
+</details>
 
 <br>
 <br>
