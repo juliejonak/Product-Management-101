@@ -1554,8 +1554,120 @@ Watch [What is a coordination activities maps?](https://youtu.be/ez559E_9Pbs)
 
 <br>
 
+### Evangelize
 
+This first phase dictates whether or not every other phase will be successful. Evangelization is to help your team see the vision you're envisioning for the product -- and its impact to inspire them, so they will partner with you to bring that vision to life and provide feedback for a successful launch.
 
+There are three types of meetings:
+
+<br>
+
+`Peers Feedback` focuses on sharing your product vision, how you plan to achieve it, and receiving your team's feedback.
+
+Confirm the scope of the identified problem and gather information about which use cases are critical to solve for. 
+
+Your peer group might involve sales, account managemers, and customer support. All of their roles are as _contributor_, where they provide feedback but you drive the meeting.
+
+<br>
+
+`Head of Product & Impacted PMs:` This meeting focuses on two areas - one, getting approval from the Head of Product (or manager or CEO), and two, identifying PMs whose own products will be impacted by the development of your product.
+
+The impacted PMs will provide feedback on use cases that need to be considered to ensure your future version of the product will still be compatible with other products. This avoids broken experiences. They will be contributors, the Head of Product is the approver, and you are the driver.
+
+<br>
+
+`Review with development team:` The purpose here is to utilize your storytelling skills to review the product, its impact on the product strategy, showcase the solution and receive their feedback.
+
+In this meeting, the developers are also contributors while you drive the meeting.
+
+<br>
+<br>
+
+### Legal & Compliance
+
+This phase is going to be dependent based upon the type of product and company you join. This is a critical phase! Their input may vary based on the product and initiative, so you need to include their feedback to successfully launch.
+
+You might need to update the Terms of Use and have all users opt-in. In that instance, you'll need to work with Legal & Compliance teams to ensure that you properly receive acceptance from all existing users and store proper records of the instance of their acceptance, for future auditing purposes.
+
+For example, if your product involves photo sharing, you may need to update the terms to cover any instance of sharing user photos publicly to the community.
+
+Your product roadmap will not be complete without discussing the problem and solution with the legal team to ensure compliance. This also allows the team to be aware of your product in case there are legal changes during the course of development that would affect the product launch.
+
+Avoiding this phase might impact your launch and put your company at risk. Again, Legal & Compliance will act as contributors and you will be the driver.
+
+<br>
+<br>
+
+### Update the Solution with Feasibility Input
+
+After Evangelizing, you'll need to update the solution - and possibly redo user validation testing. It's not a bad thing though! You can't avoid this process.
+
+It's key to involve the development team when updating the solution so that they can continuously provide feasibility input to ensure you're pursuing a viable solution.
+
+In this phase, developers and designers are contributors while you drive the meetings.
+
+<br>
+
+You also need to focus on aligning the development efforts with planning the product launch.
+
+> "Don't build a product and wait for the users to come. You have to take the product and go to the users."
+
+This is the purpose of product launch coordination with product marketing team members. The outcome of this meeting will not be all the answers to every question about how to launch -- but it does dictate how the marketing and development teams can continue to collaborate and align on development efforts.
+
+Depending upon your working relationship, either you or a marketing team member can drive the meeting while the other acts as a contributor.
+
+This should happen before the development phase, in case you and the marketing team decide to launch to a smaller audience to receive feedback and later have a public announcement, this could influence how the engineering team decides to develop the product.
+
+<br>
+<br>
+
+### The Feedback Loop: Develop - Integrate - Test
+
+This phase is known as the Feedback Loop because it continuously happens throughout Product Development. It's not a linear process and requires going back a step to redo things.
+
+It's important to always follow-up with and update your key stakeholders so all involved team members are engaged. Use whatever internal tool platform the team prefers.
+
+Always start by genuinely thanks everyone for taking the time to share their feedback and let them know how that feedback has (or has not) been incorporated. Share the rational and any insights from the user research you conducted after updating the solution, to back those decisions.
+
+In this feedback loop, the stakeholders are simply staying informed while you drive the information sharing. 
+
+You could also identify someone else for driving these interactions - like a product marketing team member, designer or engineering manager. Make sure they understand the purpose of this feedback loop and its importance so they can properly carry out the responsibilities.
+
+<br>
+
+Don't forget to update the project progress updates - focus on how far the project has progressed and where you are in raising the visibility of any issues or concerns so they're quickly addressed.
+
+Depending upon the nature and severity of the issues, the approver, contributor and driver may vary.
+
+Watch [Coordination Activities Map, Part II](https://youtu.be/JBEmKO4BJjo).
+
+<br>
+<br>
+
+### The Sign-Off Meeting
+
+After the feedback loop has been under development, integration and testing for weeks (or months), you think it's ready for launch. 
+
+A demo is typically conducted to showcase the feature that has been built. This includes the impacted PMs and your peers - sales, account managers, and product marketing to participate.
+
+Afterwards, these peers will also participate in testing the product.
+
+This can be called the Sign-Off Meeting, Dogfooding, Bug Bash, or Internal Testing.
+
+The focus is for everyone to think and behave like users, to uncover critical bugs and provide feedback.
+
+The peers are acting as contributors. The head of product is still an approver while you're the driver with the QA lead.
+
+<br>
+<br>
+
+Watch [a real life PM experience.](https://youtu.be/3t0yURRUHlk).
+
+It's so important that you setup everyone for success by planning the coordination activities map well. Identify the role and responsibility of each team, coordinate early & often, and maintain an open feedback loop to keep everyone engaged.
+
+Once you've completed these steps, you're ready for the Product Launch!
+
+Remember, these are just frameworks - you have to mold it to fit the situation, by adding or removing some elements.
 
 <br>
 <br>
@@ -1580,19 +1692,24 @@ The Head of Engineering cannot make a decision single handedly due to resource c
 
 # Guide the Team: Summary
 
-Watch []()
-
-### Further Reading
-
-[]()
+Watch [Guide the team Summary.](https://youtu.be/lfFK0QA0FgY)
 
 <br>
 <br>
 
 # Lesson Recap
 
-Watch []()
+Watch [the lesson recap.](https://youtu.be/sO96wvewVtE)
 
+<br>
+
+![The Lesson Recap](./img/Lesson_Recap.png)
+
+<br>
+
+I hope this lesson has helped you recognize the qualities you possess that need to be honed and the new qualities you need to gain to build and maintain strong relationships with the people you work with. When then newly learned frameworks are combined with these powerful but often underestimated soft-skills, you will be able to not only gain Credibility and Trust but also guide the team to work together to achieve a common goal. 
+
+“Gain Credibility - Build Trust - Guide the team” - these essential qualities can be summarized using a single term: “earn social capital”. Remember this is the only currency that increases in quantity when spent right!
 
 <br>
 <br>
