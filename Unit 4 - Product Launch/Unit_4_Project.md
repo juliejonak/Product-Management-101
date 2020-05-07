@@ -266,6 +266,7 @@ LinkedIn is trying to expand its job market offerings by creating an app that wi
 <br>
 
 | Week | App Downloads | Active users |
+| ---- | ------------- | ------------ |
 | 1 | 1,000 | 200 |
 | 2 | 5,000 | 1,000 |
 | 3 | 7,500 | 1,500 |
