@@ -246,55 +246,183 @@ True! Lead time is time taken to move the ticket from ready to develop to finish
 
 # Scrum Methodology
 
-Watch []()
+Watch [What is Scrum?](https://youtu.be/88QuwpyH2bU)
 
-### Further Reading
+Watch [Scrum: Sprint & Roles Defined](https://youtu.be/mqZcP7wSj3U)
 
+![Scrum](./img/Scrum.png)
 
+<br>
+
+Scrum enables the team to self organize and work together to develop and maintain complex products.
+
+A clearly defined set of guidelines on roles that need to be played by different team members, what needs to be covered in the meetings, how frequently should the team meet and, who needs to attend these meetings.
+
+Team Dynamics is at the core of the scrum. The guidelines are aimed at creating open communication channels between the development team members and the product manager to gain clarity around what is expected of each other and share project progress.
+
+The emphasis on short release cycles allow the team to adapt to changing requirements and business condition.
+
+<br>
+<br>
+
+## Sprint Planning
+
+Watch [What is Sprint Planning?](https://youtu.be/7res-_xfHpo)
+
+Watch [The Sprint Planning Meeting](https://youtu.be/kjsgxdoBha8)
+
+<br>
+<br>
+
+## Daily Standups
+
+Watch [The Daily Standup](https://youtu.be/3sw9t_ZDobI)
+
+Watch [Sprint Deliverables](https://youtu.be/ZxfSBa-yll8)
+
+<br>
+
+Scrum enables the team to self organize and work together to develop and maintain complex products.
+
+A clearly defined set of guidelines on roles that need to be played by different team members, what needs to be covered in the meetings, how frequently should the team meet and, who needs to attend these meetings.
+
+Team Dynamics is at the core of the scrum. The guidelines are aimed at creating open communication channels between the development team members and the product manager to gain clarity around what is expected of each other and share project progress.
+
+The emphasis on short release cycles allow the team to adapt to changing requirements and business condition.
 
 <br>
 <br>
 
 # Exercise: Scrum Methodology
 
-Watch []()
+![Scrum Backlog Exercise](./img/Scrum_Backlog.png)
 
-### Further Reading
+<br>
 
-[]()
+<details>
+<summary>View the solution image</summary>
+![Scrum Backlog Exercise Solution](./img/Scrum_Backlog_Solution.png)
+</details>
+
+<br>
+
+![Scrum Methodology Matching Exercise](./img/Scrum_Methodology.png)
+
+<br>
+<details>
+<summary>View the solution image</summary>
+![Scrum Methodology Matching Exercise Solution](./img/Scrum_Methodology_Solution.png)
+</details>
+
+<br>
+
+<details>
+<summary>Describe Scrum, Kanban, and Waterfall methodologies.</summary>
+
+| Name | Methodology |
+| ---- | ----------- |
+| Scrum | An iterative and incremental development process, in which an incremental build is delivered every few (1-4) weeks. |
+| Kanban | This methodology focuses on building what matters the most right now using a series of visual workflow boards. |
+| Waterfall | A linear sequential approach, where development moves through a series of distinct phases. Each phase must be completed for the next one to begin. |
+
+</details>
+
+<br>
 
 <br>
 <br>
 
 # Work Management Tool
 
-Watch []()
+Watch [What is a Work Management Tool? Part 1](https://youtu.be/FfLCT67IroY)
 
-### Further Reading
+Watch [What is a Work Management Tool? Part 2](https://youtu.be/zSuTolqI3Vw)
 
-[]()
+The purpose of a work management tool is to help teams of all types manage work starting from capturing detailed requirements, bugs and issue tracking, and test case management to agile software development. With teams becoming global and adopting an iterative approach to developing software, the need for a single tool that is a central hub for the coding, collaboration, and release stages is critical.
+
+<br>
+
+Watch [What is a Work Management Tool? Part 3](https://youtu.be/x2lEHDjB540)
+
+Watch [What is a Work Management Tool? Part 4](https://youtu.be/naRiHU5ui8A)
+
+Watch [What is a Work Management Tool? Part 5](https://youtu.be/8Hsl9OX3fGI)
+
+<br>
+<br>
+
+<details>
+<summary>Describe story, epic, sub-tasks, and product initiative.</summary>
+
+| Name | Methodology |
+| ---- | ----------- |
+| Story | It is written from the user perspective and used to capture the requirements that need to be developed and tested. |
+| Epic | It is an independent body of work that can be split into smaller stories and requires few sprints to complete. |
+| Sub-tasks | It captures the lowest level of work that needs to be done by the scrum team. |
+| Product Initiative | It captures the entire work that needs to be developed to achieve a common goal and may take multiple quarters to complete. |
+
+</details>
 
 <br>
 <br>
 
 # From Development to Deployment
 
-Watch []()
+Watch [Development to Deployment: Part 1](https://youtu.be/eGnPkHACjns)
 
-### Further Reading
+Watch [Development to Deployment: Part 2](https://youtu.be/m8CiYZMrgOc)
 
-[]()
+Watch [Development to Deployment: Part 3](https://youtu.be/ULAjKoM3h9w)
+
+<br>
+
+The development team uses a version control system to track all the changes made to the codebase, manage and view the changes made in a specific part of the codebase easily. It also allows the development team to restore the codebase to a stable version when undesirable or unstable changes are added to the code base.
+
+
+Developers always start with the most current and stable version of codebase called the master or main trunk and make a copy (called as a branch) to their local environment.
+
+<br>
+
+Once the developer adds new features or makes modifications to an existing feature, they write and execute test cases to ensure their modified code passes. This is called unit testing.
+
+<br>
+
+When developers merge their unit-test verified code directly, conflicts may occur. Many teams adopt continuous integration, where the modified codebase is validated by running automated tests. This helps the development team identify and resolve conflicts earlier and improve delivery speed
+
+<br>
+
+Continuous delivery is an extension of continuous integration, where the latest version of the master is deployed automatically to an internal environment called staging.
+
+<br>
+
+QA team conducts comprehensive and exhaustive manual testing in the staging environment. The product manager conducts user acceptance testing, feature demo and sign-off with internal stakeholders here.
+In most companies deployment to production is manual
+
+<br>
+
+After deploying the latest version of the codebases to production, smoke tests are run to verify whether basic functions and critical features are working as expected
+
+<br>
+<br>
+
+<details>
+<summary>True or False? Developers can merge their unit-test verified modified code directly to create a new version of the Master.
+</summary>
+False - Scrum team runs the developer’s unit-test verified code through automated tests.Upon passing the tests, code is merged to create a new version of the master.
+</details>
 
 <br>
 <br>
 
 # Lesson Recap
 
-Watch []()
+Watch [The Lesson Recap](https://youtu.be/rOkZ1hTqS7U)
 
-### Further Reading
+These concepts will help you understand the inner workings of the team faster and better.
 
-[]()
+- Share actionable feedback on what can be improved in the development team's process after following their current process for the initial few weeks.
+
+- Contribute to development work sooner, since how work is structured and managed and how development teams develop new features remain largely unchanged as a concept
 
 <br>
 <br>
